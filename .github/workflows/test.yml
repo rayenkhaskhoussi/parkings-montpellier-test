@@ -22,9 +22,8 @@ jobs:
     # STEP 0: CHECK IF 7 DAYS COMPLETE
     - name: Check collection period
       run: |
-        RUN_NUMBER=${{ github.run_number }}
-        echo "📊 Run number: $RUN_NUMBER"
-        if [ $RUN_NUMBER -gt 84 ]; then
+        echo "📊 Run number: ${{ github.run_number }}"
+        if [ ${{ github.run_number }} -gt 84 ]; then
           echo "✅ MISSION COMPLETE: 7 days of max collection finished!"
           echo "🎯 Total runs: 84 (12 per day × 7 days)"
           echo "📈 Total minutes used: ~1,344"
@@ -35,8 +34,8 @@ jobs:
           exit 0  # Graceful stop
         fi
         
-        DAYS_DONE=$(( (RUN_NUMBER - 1) / 12 ))
-        RUNS_TODAY=$(( (RUN_NUMBER - 1) % 12 + 1 ))
+        DAYS_DONE=$(( (${{ github.run_number }} - 1) / 12 ))
+        RUNS_TODAY=$(( (${{ github.run_number }} - 1) % 12 + 1 ))
         echo "📅 Day $((DAYS_DONE + 1)) of 7 | Run $RUNS_TODAY/12 today"
     
     # STEP 1: CHECKOUT WITH FULL PERMISSIONS
@@ -95,10 +94,10 @@ jobs:
         echo "# 📊 MAX COLLECTION - Day ${DAY_NUM} (${DATE})" > "WEEK-BLAST/day-${DAY_NUM}/README.md"
         echo "" >> "WEEK-BLAST/day-${DAY_NUM}/README.md"
         echo "## Collection Times Today:" >> "WEEK-BLAST/day-${DAY_NUM}/README.md"
-        ls "WEEK-BLAST/day-${DAY_NUM}/"*.json | sort | while read file; do
+        ls "WEEK-BLAST/day-${DAY_NUM}/"*.json 2>/dev/null | sort | while read file; do
           time=$(basename "$file" | cut -d'_' -f3- | cut -d'.' -f1)
           echo "- ${time}" >> "WEEK-BLAST/day-${DAY_NUM}/README.md"
-        done
+        done || true
         
         # Update master summary
         if [ ! -f "WEEK-BLAST/7-DAY-SUMMARY.md" ]; then
@@ -146,30 +145,23 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     
-    # STEP 9: FINAL STATS
+    # STEP 9: COLLECTION STATISTICS
     - name: Collection statistics
       run: |
         echo "📈 COLLECTION STATISTICS"
         echo "========================"
-        echo "Run number: ${{ github.run_number }}/84"
-        echo "Runs completed: $(({{ github.run_number }} - 1))"
-        echo "Runs remaining: $((84 - {{ github.run_number }}))"
-        echo "Days completed: $(( ({{ github.run_number }} - 1) / 12 ))"
-        echo "Runs today: $(( ({{ github.run_number }} - 1) % 12 + 1 ))"
-        echo ""
-        echo "📊 ESTIMATED TOTALS:"
+        echo "Run: ${{ github.run_number }}/84"
         echo "Records this run: ~216"
-        echo "Records today: ~$(( (({{ github.run_number }} - 1) % 12 + 1) * 216 ))"
-        echo "Total records so far: ~$(( ({{ github.run_number }} - 1) * 216 ))"
-        echo "Minutes used: ~$(( {{ github.run_number }} * 16 ))"
+        echo "Total records so far: ~$(( (${{ github.run_number }} - 1) * 216 ))"
+        echo "Minutes used: ~$(( ${{ github.run_number }} * 16 ))"
     
-    # STEP 10: WARNING FOR LAST RUNS
+    # STEP 10: FINAL RUNS WARNING
     - name: Final runs warning
       if: github.run_number >= 80
       run: |
         echo "⚠️ ⚠️ ⚠️ FINAL RUNS WARNING ⚠️ ⚠️ ⚠️"
         echo ""
-        echo "Only $((84 - {{ github.run_number }} + 1)) runs remaining!"
+        echo "Only $((84 - ${{ github.run_number }} + 1)) runs remaining!"
         echo ""
         echo "After run #84, this workflow will auto-stop."
         echo "To continue collecting data, you must:"
