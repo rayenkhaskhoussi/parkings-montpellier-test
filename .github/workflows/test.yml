@@ -1,31 +1,146 @@
-name: Fix Parking Tests
+name: Daily Parking Tests Archive
 
 on:
+  schedule:
+    # Exécute à 2h, 8h, 14h, 20h UTC (4 fois par jour)
+    - cron: '0 2,8,14,20 * * *'
   workflow_dispatch:  # Pour lancer manuellement
 
 jobs:
-  fix-tests:
+  archive-daily-tests:
     runs-on: ubuntu-latest
     
+    # Empêche les exécutions multiples en parallèle
+    concurrency:
+      group: daily-tests-${{ github.ref }}
+      cancel-in-progress: true
+    
     steps:
-    - name: Checkout repo
+    # ÉTAPE 1: CHECKOUT avec permissions complètes
+    - name: Checkout repository
       uses: actions/checkout@v4
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
+        fetch-depth: 0  # IMPORTANT: récupère tout l'historique
     
-    - name: Reset to remote
+    # ÉTAPE 2: SYNCHRONISATION ABSOLUE avec le remote
+    - name: Force sync with remote
       run: |
-        git config user.name "github-actions[bot]"
-        git config user.email "actions@github.com"
         git fetch origin
         git reset --hard origin/main
+        git clean -fd
     
-    - name: Run tests
-      run: |
-        python run_tests.py
+    # ÉTAPE 3: SETUP PYTHON
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
     
-    - name: Commit results
+    - name: Install dependencies
       run: |
-        git add test_results.json test_summary.txt
-        git commit -m "Fixed: $(date)"
-        git push origin main --force
+        if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+    
+    # ÉTAPE 4: EXÉCUTE TON CODE PYTHON
+    - name: Run existing Python tests
+      run: |
+        # TON CODE EXISTANT - ne change rien
+        python run_tests.py  # ou le nom de ton script
+    
+    # ÉTAPE 5: ARCHIVAGE PAR JOUR ET HEURE
+    - name: Archive results with timestamp
+      run: |
+        # Date et heure exactes
+        DATE=$(date -u +'%Y-%m-%d')
+        DAY_NUM=$(date -u +'%d')
+        TIME=$(date -u +'%H-%M-%S')
+        FULL_TIMESTAMP="${DATE}_${TIME}"
+        
+        # Crée le dossier du jour s'il n'existe pas
+        mkdir -p "jour-$DAY_NUM"
+        
+        # 1. Archive les fichiers originaux avec timestamp
+        cp test_results.json "jour-$DAY_NUM/test_results_${FULL_TIMESTAMP}.json"
+        cp test_summary.txt "jour-$DAY_NUM/summary_${FULL_TIMESTAMP}.txt"
+        
+        # 2. Garde une copie "latest" dans le dossier du jour
+        cp test_results.json "jour-$DAY_NUM/test_results_LATEST.json"
+        cp test_summary.txt "jour-$DAY_NUM/summary_LATEST.txt"
+        
+        # 3. Mets à jour le fichier master du jour
+        echo "📊 Résultats du jour - $DATE" > "jour-$DAY_NUM/README.md"
+        echo "==============================" >> "jour-$DAY_NUM/README.md"
+        echo "" >> "jour-$DAY_NUM/README.md"
+        echo "Dernière exécution: $DATE à $TIME UTC" >> "jour-$DAY_NUM/README.md"
+        echo "" >> "jour-$DAY_NUM/README.md"
+        
+        # Ajoute le contenu du summary
+        if [ -f test_summary.txt ]; then
+          echo "**Résumé:**" >> "jour-$DAY_NUM/README.md"
+          echo '```' >> "jour-$DAY_NUM/README.md"
+          cat test_summary.txt >> "jour-$DAY_NUM/README.md"
+          echo '```' >> "jour-$DAY_NUM/README.md"
+        fi
+        
+        # 4. Met à jour le fichier historique global
+        if [ ! -f "HISTORIQUE.md" ]; then
+          echo "# 📅 Historique Complet des Tests" > HISTORIQUE.md
+          echo "" >> HISTORIQUE.md
+          echo "| Jour | Date | Dernière exécution | Statut | Parking | Total |" >> HISTORIQUE.md
+          echo "|------|------|-------------------|--------|---------|-------|" >> HISTORIQUE.md
+        fi
+        
+        # Extrait les données du summary
+        STATUS="🟡"
+        if grep -q "✅ SUCCESS" test_summary.txt; then
+          STATUS="✅"
+        elif grep -q "❌ FAIL" test_summary.txt; then
+          STATUS="❌"
+        fi
+        
+        PARKINGS=$(grep "Parkings found:" test_summary.txt | grep -o '[0-9]*' || echo "0")
+        TOTAL=$(grep "Total records:" test_summary.txt | grep -o '[0-9]*' || echo "0")
+        
+        # Vérifie si cette journée existe déjà dans l'historique
+        if grep -q "| $DAY_NUM | $DATE |" HISTORIQUE.md; then
+          # Met à jour la ligne existante
+          sed -i "/| $DAY_NUM | $DATE |/c\| $DAY_NUM | $DATE | $TIME | $STATUS | $PARKINGS | $TOTAL |" HISTORIQUE.md
+        else
+          # Ajoute une nouvelle ligne
+          echo "| $DAY_NUM | $DATE | $TIME | $STATUS | $PARKINGS | $TOTAL |" >> HISTORIQUE.md
+        fi
+        
+        # 5. Trie l'historique par jour
+        head -n 5 HISTORIQUE.md > HISTORIQUE_TEMP.md
+        tail -n +6 HISTORIQUE.md | sort -t '|' -k2,2 >> HISTORIQUE_TEMP.md
+        mv HISTORIQUE_TEMP.md HISTORIQUE.md
+    
+    # ÉTAPE 6: CONFIGURE GIT
+    - name: Configure Git
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+    
+    # ÉTAPE 7: VÉRIFIE LES CHANGEMENTS
+    - name: Check for changes
+      id: check_changes
+      run: |
+        if git status --porcelain | grep -q "."; then
+          echo "has_changes=true" >> $GITHUB_OUTPUT
+        else
+          echo "has_changes=false" >> $GITHUB_OUTPUT
+        fi
+    
+    # ÉTAPE 8: COMMIT ET PUSH (FORCE - nécessaire)
+    - name: Commit and push archives
+      if: steps.check_changes.outputs.has_changes == 'true'
+      run: |
+        git add .
+        git commit -m "📁 Archive: Jour $(date -u +'%d') - $(date -u +'%H:%M UTC')"
+        git push origin main --force-with-lease
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    
+    # ÉTAPE 9: SI PAS DE CHANGEMENTS
+    - name: No changes to commit
+      if: steps.check_changes.outputs.has_changes == 'false'
+      run: echo "✅ Aucun changement détecté - les résultats sont identiques."
