@@ -1,39 +1,31 @@
-name: Parking Tests
+name: Fix Parking Tests
 
 on:
-  schedule:
-    - cron: '0 */6 * * *'  # Toutes les 6 heures
-  workflow_dispatch:
+  workflow_dispatch:  # Pour lancer manuellement
 
 jobs:
-  run-tests:
+  fix-tests:
     runs-on: ubuntu-latest
     
     steps:
-    # ÉTAPE CRITIQUE 1: Checkout avec token
-    - name: Checkout repository
+    - name: Checkout repo
       uses: actions/checkout@v4
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
-        fetch-depth: 0
     
-    # ÉTAPE CRITIQUE 2: Reset au remote
-    - name: Sync with remote
-      run: |
-        git fetch origin
-        git reset --hard origin/main
-    
-    # ÉTAPE CRITIQUE 3: Ton code Python
-    - name: Run Python tests
-      run: |
-        python run_tests.py  # TON SCRIPT
-    
-    # ÉTAPE CRITIQUE 4: Commit et push FORCE
-    - name: Commit and push
+    - name: Reset to remote
       run: |
         git config user.name "github-actions[bot]"
         git config user.email "actions@github.com"
+        git fetch origin
+        git reset --hard origin/main
+    
+    - name: Run tests
+      run: |
+        python run_tests.py
+    
+    - name: Commit results
+      run: |
         git add test_results.json test_summary.txt
-        git commit -m "Test results: $(date -u +'%Y-%m-%d %H:%M UTC')"
-        # FORCE PUSH - nécessaire pour CI/CD
+        git commit -m "Fixed: $(date)"
         git push origin main --force
