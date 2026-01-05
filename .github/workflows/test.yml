@@ -1,60 +1,39 @@
-name: Run Tests and Commit Results
+name: Parking Tests
 
 on:
   schedule:
-    - cron: '0 */6 * * *'  # Run every 6 hours
-  workflow_dispatch:  # Allow manual triggering
+    - cron: '0 */6 * * *'  # Toutes les 6 heures
+  workflow_dispatch:
 
 jobs:
-  test-and-commit:
+  run-tests:
     runs-on: ubuntu-latest
     
     steps:
+    # ÉTAPE CRITIQUE 1: Checkout avec token
     - name: Checkout repository
       uses: actions/checkout@v4
       with:
-        fetch-depth: 0  # Fetch all history for proper merging
-        
-    - name: Set up Python
-      uses: actions/setup-python@v4
-      with:
-        python-version: '3.11'
-        
-    - name: Install dependencies
-      run: |
-        pip install -r requirements.txt
-        
-    - name: Run tests
-      run: |
-        python run_tests.py  # Your test script
-        # Or if using pytest:
-        # pytest tests/ --json=test_results.json --tb=short
-        
-    - name: Generate test summary
-      run: |
-        echo "GitHub Actions Test - $(date -u +'%Y-%m-%d %H:%M')" > test_summary.txt
-        echo "Total records: 72" >> test_summary.txt
-        echo "Parkings found: 24" >> test_summary.txt
-        echo "Status: ✅ SUCCESS" >> test_summary.txt
-        
-    - name: Configure Git
-      run: |
-        git config --global user.name "github-actions[bot]"
-        git config --global user.email "github-actions[bot]@users.noreply.github.com"
-        
-    - name: Pull latest changes with merge strategy
+        token: ${{ secrets.GITHUB_TOKEN }}
+        fetch-depth: 0
+    
+    # ÉTAPE CRITIQUE 2: Reset au remote
+    - name: Sync with remote
       run: |
         git fetch origin
-        git checkout main
-        # Try rebase first, if fails, do merge
-        git pull origin main --rebase || git pull origin main --strategy-option=theirs
-        
-    - name: Commit test results
+        git reset --hard origin/main
+    
+    # ÉTAPE CRITIQUE 3: Ton code Python
+    - name: Run Python tests
       run: |
+        python run_tests.py  # TON SCRIPT
+    
+    # ÉTAPE CRITIQUE 4: Commit et push FORCE
+    - name: Commit and push
+      run: |
+        git config user.name "github-actions[bot]"
+        git config user.email "actions@github.com"
         git add test_results.json test_summary.txt
-        git commit -m "Test results: $(date -u +'%Y-%m-%d %H:%M UTC')" || echo "No changes to commit"
-        
-    - name: Push changes
-      run: |
-        # Try normal push first, if fails, force push (for CI/CD purposes)
-        git push origin main || git push origin main --force-with-lease
+        git commit -m "Test results: $(date -u +'%Y-%m-%d %H:%M UTC')"
+        # FORCE PUSH - nécessaire pour CI/CD
+        git push origin main --force
