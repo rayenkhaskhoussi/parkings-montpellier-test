@@ -12,11 +12,11 @@
     },
     "availableSpotNumber": {
       "type": "Number",
-      "value": 124,
+      "value": 129,
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-08T15:10:16.000Z"
+          "value": "2026-01-08T17:10:17.000Z"
         }
       }
     },
@@ -63,7 +63,7 @@
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-08T15:10:16.000Z"
+          "value": "2026-01-08T17:10:17.000Z"
         }
       }
     },
@@ -73,8 +73,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-08T14:17:07.034628",
-      "heure": "14:17:07",
+      "timestamp": "2026-01-08T16:17:37.272700",
+      "heure": "16:17:37",
       "cycle": 1,
       "test": true
     }
@@ -92,11 +92,11 @@
     },
     "availableSpotNumber": {
       "type": "Number",
-      "value": 265,
+      "value": 307,
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-08T15:10:34.000Z"
+          "value": "2026-01-08T17:10:30.000Z"
         }
       }
     },
@@ -143,7 +143,7 @@
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-08T15:10:34.000Z"
+          "value": "2026-01-08T17:10:30.000Z"
         }
       }
     },
@@ -153,8 +153,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-08T14:17:07.034628",
-      "heure": "14:17:07",
+      "timestamp": "2026-01-08T16:17:37.272700",
+      "heure": "16:17:37",
       "cycle": 1,
       "test": true
     }
@@ -172,11 +172,11 @@
     },
     "availableSpotNumber": {
       "type": "Number",
-      "value": 167,
+      "value": 209,
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-08T15:10:16.000Z"
+          "value": "2026-01-08T17:10:17.000Z"
         }
       }
     },
@@ -223,7 +223,7 @@
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-08T15:10:16.000Z"
+          "value": "2026-01-08T17:10:17.000Z"
         }
       }
     },
@@ -233,8 +233,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-08T14:17:07.034628",
-      "heure": "14:17:07",
+      "timestamp": "2026-01-08T16:17:37.272700",
+      "heure": "16:17:37",
       "cycle": 1,
       "test": true
     }
@@ -252,11 +252,11 @@
     },
     "availableSpotNumber": {
       "type": "Number",
-      "value": 175,
+      "value": 317,
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-08T15:10:16.000Z"
+          "value": "2026-01-08T17:10:17.000Z"
         }
       }
     },
@@ -303,7 +303,7 @@
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-08T15:10:16.000Z"
+          "value": "2026-01-08T17:10:17.000Z"
         }
       }
     },
@@ -313,8 +313,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-08T14:17:07.034628",
-      "heure": "14:17:07",
+      "timestamp": "2026-01-08T16:17:37.272700",
+      "heure": "16:17:37",
       "cycle": 1,
       "test": true
     }
@@ -332,11 +332,11 @@
     },
     "availableSpotNumber": {
       "type": "Number",
-      "value": 460,
+      "value": 516,
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-08T15:10:39.000Z"
+          "value": "2026-01-08T17:10:37.000Z"
         }
       }
     },
@@ -383,7 +383,7 @@
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-08T15:10:39.000Z"
+          "value": "2026-01-08T17:10:37.000Z"
         }
       }
     },
@@ -393,8 +393,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-08T14:17:07.034628",
-      "heure": "14:17:07",
+      "timestamp": "2026-01-08T16:17:37.272700",
+      "heure": "16:17:37",
       "cycle": 1,
       "test": true
     }
@@ -412,11 +412,11 @@
     },
     "availableSpotNumber": {
       "type": "Number",
-      "value": 131,
+      "value": 170,
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-08T15:10:16.000Z"
+          "value": "2026-01-08T17:10:17.000Z"
         }
       }
     },
@@ -463,7 +463,7 @@
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-08T15:10:16.000Z"
+          "value": "2026-01-08T17:10:17.000Z"
         }
       }
     },
@@ -473,8 +473,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-08T14:17:07.034628",
-      "heure": "14:17:07",
+      "timestamp": "2026-01-08T16:17:37.272700",
+      "heure": "16:17:37",
       "cycle": 1,
       "test": true
     }
@@ -492,11 +492,11 @@
     },
     "availableSpotNumber": {
       "type": "Number",
-      "value": 192,
+      "value": 238,
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-08T15:10:05.000Z"
+          "value": "2026-01-08T17:10:05.000Z"
         }
       }
     },
@@ -543,7 +543,7 @@
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-08T15:10:05.000Z"
+          "value": "2026-01-08T17:10:05.000Z"
         }
       }
     },
@@ -553,8 +553,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-08T14:17:07.034628",
-      "heure": "14:17:07",
+      "timestamp": "2026-01-08T16:17:37.272700",
+      "heure": "16:17:37",
       "cycle": 1,
       "test": true
     }
@@ -633,8 +633,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-08T14:17:07.034628",
-      "heure": "14:17:07",
+      "timestamp": "2026-01-08T16:17:37.272700",
+      "heure": "16:17:37",
       "cycle": 1,
       "test": true
     }
@@ -713,8 +713,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-08T14:17:07.034628",
-      "heure": "14:17:07",
+      "timestamp": "2026-01-08T16:17:37.272700",
+      "heure": "16:17:37",
       "cycle": 1,
       "test": true
     }
@@ -732,11 +732,11 @@
     },
     "availableSpotNumber": {
       "type": "Number",
-      "value": 655,
+      "value": 803,
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-08T15:10:02.000Z"
+          "value": "2026-01-08T17:09:56.000Z"
         }
       }
     },
@@ -783,7 +783,7 @@
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-08T15:10:02.000Z"
+          "value": "2026-01-08T17:09:56.000Z"
         }
       }
     },
@@ -793,8 +793,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-08T14:17:07.034628",
-      "heure": "14:17:07",
+      "timestamp": "2026-01-08T16:17:37.272700",
+      "heure": "16:17:37",
       "cycle": 1,
       "test": true
     }
@@ -812,11 +812,11 @@
     },
     "availableSpotNumber": {
       "type": "Number",
-      "value": 270,
+      "value": 296,
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-08T15:09:52.000Z"
+          "value": "2026-01-08T17:09:56.000Z"
         }
       }
     },
@@ -863,7 +863,7 @@
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-08T15:09:52.000Z"
+          "value": "2026-01-08T17:09:56.000Z"
         }
       }
     },
@@ -873,8 +873,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-08T14:17:07.034628",
-      "heure": "14:17:07",
+      "timestamp": "2026-01-08T16:17:37.272700",
+      "heure": "16:17:37",
       "cycle": 1,
       "test": true
     }
@@ -892,11 +892,11 @@
     },
     "availableSpotNumber": {
       "type": "Number",
-      "value": 55,
+      "value": 120,
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-08T15:09:52.000Z"
+          "value": "2026-01-08T17:09:56.000Z"
         }
       }
     },
@@ -943,7 +943,7 @@
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-08T15:09:52.000Z"
+          "value": "2026-01-08T17:09:56.000Z"
         }
       }
     },
@@ -953,8 +953,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-08T14:17:07.034628",
-      "heure": "14:17:07",
+      "timestamp": "2026-01-08T16:17:37.272700",
+      "heure": "16:17:37",
       "cycle": 1,
       "test": true
     }
@@ -972,11 +972,11 @@
     },
     "availableSpotNumber": {
       "type": "Number",
-      "value": 40,
+      "value": 84,
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-08T15:10:02.000Z"
+          "value": "2026-01-08T17:09:56.000Z"
         }
       }
     },
@@ -1023,7 +1023,7 @@
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-08T15:10:02.000Z"
+          "value": "2026-01-08T17:09:56.000Z"
         }
       }
     },
@@ -1033,8 +1033,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-08T14:17:07.034628",
-      "heure": "14:17:07",
+      "timestamp": "2026-01-08T16:17:37.272700",
+      "heure": "16:17:37",
       "cycle": 1,
       "test": true
     }
@@ -1052,11 +1052,11 @@
     },
     "availableSpotNumber": {
       "type": "Number",
-      "value": 141,
+      "value": 209,
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-08T15:10:02.000Z"
+          "value": "2026-01-08T17:09:56.000Z"
         }
       }
     },
@@ -1103,7 +1103,7 @@
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-08T15:10:02.000Z"
+          "value": "2026-01-08T17:09:56.000Z"
         }
       }
     },
@@ -1113,8 +1113,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-08T14:17:07.034628",
-      "heure": "14:17:07",
+      "timestamp": "2026-01-08T16:17:37.272700",
+      "heure": "16:17:37",
       "cycle": 1,
       "test": true
     }
@@ -1132,11 +1132,11 @@
     },
     "availableSpotNumber": {
       "type": "Number",
-      "value": 170,
+      "value": 188,
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-08T15:09:52.000Z"
+          "value": "2026-01-08T17:09:56.000Z"
         }
       }
     },
@@ -1183,7 +1183,7 @@
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-08T15:09:52.000Z"
+          "value": "2026-01-08T17:09:56.000Z"
         }
       }
     },
@@ -1193,8 +1193,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-08T14:17:07.034628",
-      "heure": "14:17:07",
+      "timestamp": "2026-01-08T16:17:37.272700",
+      "heure": "16:17:37",
       "cycle": 1,
       "test": true
     }
@@ -1212,11 +1212,11 @@
     },
     "availableSpotNumber": {
       "type": "Number",
-      "value": 11,
+      "value": 39,
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-08T15:10:02.000Z"
+          "value": "2026-01-08T17:09:56.000Z"
         }
       }
     },
@@ -1263,7 +1263,7 @@
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-08T15:10:02.000Z"
+          "value": "2026-01-08T17:09:56.000Z"
         }
       }
     },
@@ -1273,8 +1273,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-08T14:17:07.034628",
-      "heure": "14:17:07",
+      "timestamp": "2026-01-08T16:17:37.272700",
+      "heure": "16:17:37",
       "cycle": 1,
       "test": true
     }
@@ -1292,11 +1292,11 @@
     },
     "availableSpotNumber": {
       "type": "Number",
-      "value": 166,
+      "value": 290,
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-08T15:10:02.000Z"
+          "value": "2026-01-08T17:09:56.000Z"
         }
       }
     },
@@ -1343,7 +1343,7 @@
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-08T15:10:02.000Z"
+          "value": "2026-01-08T17:09:56.000Z"
         }
       }
     },
@@ -1353,8 +1353,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-08T14:17:07.034628",
-      "heure": "14:17:07",
+      "timestamp": "2026-01-08T16:17:37.272700",
+      "heure": "16:17:37",
       "cycle": 1,
       "test": true
     }
@@ -1372,11 +1372,11 @@
     },
     "availableSpotNumber": {
       "type": "Number",
-      "value": 15,
+      "value": 22,
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-08T15:10:06.000Z"
+          "value": "2026-01-08T17:10:05.000Z"
         }
       }
     },
@@ -1423,7 +1423,7 @@
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-08T15:10:06.000Z"
+          "value": "2026-01-08T17:10:05.000Z"
         }
       }
     },
@@ -1433,8 +1433,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-08T14:17:07.034628",
-      "heure": "14:17:07",
+      "timestamp": "2026-01-08T16:17:37.272700",
+      "heure": "16:17:37",
       "cycle": 1,
       "test": true
     }
@@ -1513,8 +1513,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-08T14:17:07.034628",
-      "heure": "14:17:07",
+      "timestamp": "2026-01-08T16:17:37.272700",
+      "heure": "16:17:37",
       "cycle": 1,
       "test": true
     }
@@ -1593,8 +1593,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-08T14:17:07.034628",
-      "heure": "14:17:07",
+      "timestamp": "2026-01-08T16:17:37.272700",
+      "heure": "16:17:37",
       "cycle": 1,
       "test": true
     }
@@ -1612,11 +1612,11 @@
     },
     "availableSpotNumber": {
       "type": "Number",
-      "value": 113,
+      "value": 123,
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-08T15:10:02.000Z"
+          "value": "2026-01-08T17:09:56.000Z"
         }
       }
     },
@@ -1663,7 +1663,7 @@
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-08T15:10:02.000Z"
+          "value": "2026-01-08T17:09:56.000Z"
         }
       }
     },
@@ -1673,8 +1673,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-08T14:17:07.034628",
-      "heure": "14:17:07",
+      "timestamp": "2026-01-08T16:17:37.272700",
+      "heure": "16:17:37",
       "cycle": 1,
       "test": true
     }
@@ -1753,1054 +1753,14 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-08T14:17:07.034628",
-      "heure": "14:17:07",
+      "timestamp": "2026-01-08T16:17:37.272700",
+      "heure": "16:17:37",
       "cycle": 1,
       "test": true
     }
   },
   {
     "id": "urn:ngsi-ld:parking:002",
-    "type": "OffStreetParking",
-    "allowedVehicleType": {
-      "type": "StructuredValue",
-      "value": [
-        "car",
-        "moped"
-      ],
-      "metadata": {}
-    },
-    "availableSpotNumber": {
-      "type": "Number",
-      "value": 25,
-      "metadata": {
-        "timestamp": {
-          "type": "DateTime",
-          "value": "2026-01-08T15:10:13.000Z"
-        }
-      }
-    },
-    "category": {
-      "type": "StructuredValue",
-      "value": [
-        "feeCharged",
-        "barrierAccess",
-        "underground"
-      ],
-      "metadata": {}
-    },
-    "layout": {
-      "type": "StructuredValue",
-      "value": [
-        "multiLevel"
-      ],
-      "metadata": {}
-    },
-    "location": {
-      "type": "geo:json",
-      "value": {
-        "type": "Point",
-        "coordinates": [
-          3.8732007,
-          43.61100267
-        ]
-      },
-      "metadata": {}
-    },
-    "name": {
-      "type": "Text",
-      "value": "Arc de Triomphe",
-      "metadata": {}
-    },
-    "requiredPermit": {
-      "type": "Text",
-      "value": "noPermitNeeded",
-      "metadata": {}
-    },
-    "status": {
-      "type": "Text",
-      "value": "Open",
-      "metadata": {
-        "timestamp": {
-          "type": "DateTime",
-          "value": "2026-01-08T15:10:13.000Z"
-        }
-      }
-    },
-    "totalSpotNumber": {
-      "type": "Number",
-      "value": 440,
-      "metadata": {}
-    },
-    "collecte": {
-      "timestamp": "2026-01-08T14:17:07.034628",
-      "heure": "14:17:07",
-      "cycle": 1,
-      "test": true
-    }
-  },
-  {
-    "id": "urn:ngsi-ld:parking:025",
-    "type": "OffStreetParking",
-    "allowedVehicleType": {
-      "type": "StructuredValue",
-      "value": [
-        "car",
-        "moped"
-      ],
-      "metadata": {}
-    },
-    "availableSpotNumber": {
-      "type": "Number",
-      "value": 199,
-      "metadata": {
-        "timestamp": {
-          "type": "DateTime",
-          "value": "2025-12-23T15:36:31.000Z"
-        }
-      }
-    },
-    "category": {
-      "type": "StructuredValue",
-      "value": [
-        "feeCharged",
-        "barrierAccess",
-        "underground"
-      ],
-      "metadata": {}
-    },
-    "layout": {
-      "type": "StructuredValue",
-      "value": [
-        "multiLevel"
-      ],
-      "metadata": {}
-    },
-    "location": {
-      "type": "geo:json",
-      "value": {
-        "type": "Point",
-        "coordinates": [
-          3.9178495,
-          43.60495377
-        ]
-      },
-      "metadata": {}
-    },
-    "name": {
-      "type": "Text",
-      "value": "Gaumont-Circe",
-      "metadata": {}
-    },
-    "requiredPermit": {
-      "type": "Text",
-      "value": "noPermitNeeded",
-      "metadata": {}
-    },
-    "status": {
-      "type": "Text",
-      "value": "Open",
-      "metadata": {
-        "timestamp": {
-          "type": "DateTime",
-          "value": "2025-12-23T15:36:31.000Z"
-        }
-      }
-    },
-    "totalSpotNumber": {
-      "type": "Number",
-      "value": 500,
-      "metadata": {}
-    },
-    "collecte": {
-      "timestamp": "2026-01-08T14:17:07.034628",
-      "heure": "14:17:07",
-      "cycle": 1,
-      "test": true
-    }
-  },
-  {
-    "id": "urn:ngsi-ld:parking:001",
-    "type": "OffStreetParking",
-    "allowedVehicleType": {
-      "type": "StructuredValue",
-      "value": [
-        "car",
-        "moped"
-      ],
-      "metadata": {}
-    },
-    "availableSpotNumber": {
-      "type": "Number",
-      "value": 124,
-      "metadata": {
-        "timestamp": {
-          "type": "DateTime",
-          "value": "2026-01-08T15:15:20.000Z"
-        }
-      }
-    },
-    "category": {
-      "type": "StructuredValue",
-      "value": [
-        "feeCharged",
-        "barrierAccess",
-        "underground"
-      ],
-      "metadata": {}
-    },
-    "layout": {
-      "type": "StructuredValue",
-      "value": [
-        "multiLevel"
-      ],
-      "metadata": {}
-    },
-    "location": {
-      "type": "geo:json",
-      "value": {
-        "type": "Point",
-        "coordinates": [
-          3.88881893,
-          43.60871606
-        ]
-      },
-      "metadata": {}
-    },
-    "name": {
-      "type": "Text",
-      "value": "Antigone",
-      "metadata": {}
-    },
-    "requiredPermit": {
-      "type": "Text",
-      "value": "noPermitNeeded",
-      "metadata": {}
-    },
-    "status": {
-      "type": "Text",
-      "value": "Open",
-      "metadata": {
-        "timestamp": {
-          "type": "DateTime",
-          "value": "2026-01-08T15:15:20.000Z"
-        }
-      }
-    },
-    "totalSpotNumber": {
-      "type": "Number",
-      "value": 239,
-      "metadata": {}
-    },
-    "collecte": {
-      "timestamp": "2026-01-08T14:22:07.833315",
-      "heure": "14:22:07",
-      "cycle": 2,
-      "test": true
-    }
-  },
-  {
-    "id": "urn:ngsi-ld:parking:003",
-    "type": "OffStreetParking",
-    "allowedVehicleType": {
-      "type": "StructuredValue",
-      "value": [
-        "car",
-        "moped"
-      ],
-      "metadata": {}
-    },
-    "availableSpotNumber": {
-      "type": "Number",
-      "value": 265,
-      "metadata": {
-        "timestamp": {
-          "type": "DateTime",
-          "value": "2026-01-08T15:15:34.000Z"
-        }
-      }
-    },
-    "category": {
-      "type": "StructuredValue",
-      "value": [
-        "feeCharged",
-        "barrierAccess",
-        "underground"
-      ],
-      "metadata": {}
-    },
-    "layout": {
-      "type": "StructuredValue",
-      "value": [
-        "multiLevel"
-      ],
-      "metadata": {}
-    },
-    "location": {
-      "type": "geo:json",
-      "value": {
-        "type": "Point",
-        "coordinates": [
-          3.87976196,
-          43.60856092
-        ]
-      },
-      "metadata": {}
-    },
-    "name": {
-      "type": "Text",
-      "value": "Comedie",
-      "metadata": {}
-    },
-    "requiredPermit": {
-      "type": "Text",
-      "value": "noPermitNeeded",
-      "metadata": {}
-    },
-    "status": {
-      "type": "Text",
-      "value": "Open",
-      "metadata": {
-        "timestamp": {
-          "type": "DateTime",
-          "value": "2026-01-08T15:15:34.000Z"
-        }
-      }
-    },
-    "totalSpotNumber": {
-      "type": "Number",
-      "value": 664,
-      "metadata": {}
-    },
-    "collecte": {
-      "timestamp": "2026-01-08T14:22:07.833315",
-      "heure": "14:22:07",
-      "cycle": 2,
-      "test": true
-    }
-  },
-  {
-    "id": "urn:ngsi-ld:parking:004",
-    "type": "OffStreetParking",
-    "allowedVehicleType": {
-      "type": "StructuredValue",
-      "value": [
-        "car",
-        "moped"
-      ],
-      "metadata": {}
-    },
-    "availableSpotNumber": {
-      "type": "Number",
-      "value": 166,
-      "metadata": {
-        "timestamp": {
-          "type": "DateTime",
-          "value": "2026-01-08T15:15:20.000Z"
-        }
-      }
-    },
-    "category": {
-      "type": "StructuredValue",
-      "value": [
-        "feeCharged",
-        "barrierAccess",
-        "underground"
-      ],
-      "metadata": {}
-    },
-    "layout": {
-      "type": "StructuredValue",
-      "value": [
-        "multiLevel"
-      ],
-      "metadata": {}
-    },
-    "location": {
-      "type": "geo:json",
-      "value": {
-        "type": "Point",
-        "coordinates": [
-          3.88225773,
-          43.61388821
-        ]
-      },
-      "metadata": {}
-    },
-    "name": {
-      "type": "Text",
-      "value": "Corum",
-      "metadata": {}
-    },
-    "requiredPermit": {
-      "type": "Text",
-      "value": "noPermitNeeded",
-      "metadata": {}
-    },
-    "status": {
-      "type": "Text",
-      "value": "Open",
-      "metadata": {
-        "timestamp": {
-          "type": "DateTime",
-          "value": "2026-01-08T15:15:20.000Z"
-        }
-      }
-    },
-    "totalSpotNumber": {
-      "type": "Number",
-      "value": 480,
-      "metadata": {}
-    },
-    "collecte": {
-      "timestamp": "2026-01-08T14:22:07.833315",
-      "heure": "14:22:07",
-      "cycle": 2,
-      "test": true
-    }
-  },
-  {
-    "id": "urn:ngsi-ld:parking:005",
-    "type": "OffStreetParking",
-    "allowedVehicleType": {
-      "type": "StructuredValue",
-      "value": [
-        "car",
-        "moped"
-      ],
-      "metadata": {}
-    },
-    "availableSpotNumber": {
-      "type": "Number",
-      "value": 175,
-      "metadata": {
-        "timestamp": {
-          "type": "DateTime",
-          "value": "2026-01-08T15:15:20.000Z"
-        }
-      }
-    },
-    "category": {
-      "type": "StructuredValue",
-      "value": [
-        "feeCharged",
-        "barrierAccess",
-        "underground"
-      ],
-      "metadata": {}
-    },
-    "layout": {
-      "type": "StructuredValue",
-      "value": [
-        "multiLevel"
-      ],
-      "metadata": {}
-    },
-    "location": {
-      "type": "geo:json",
-      "value": {
-        "type": "Point",
-        "coordinates": [
-          3.89253074,
-          43.60784971
-        ]
-      },
-      "metadata": {}
-    },
-    "name": {
-      "type": "Text",
-      "value": "Europa",
-      "metadata": {}
-    },
-    "requiredPermit": {
-      "type": "Text",
-      "value": "noPermitNeeded",
-      "metadata": {}
-    },
-    "status": {
-      "type": "Text",
-      "value": "Open",
-      "metadata": {
-        "timestamp": {
-          "type": "DateTime",
-          "value": "2026-01-08T15:15:20.000Z"
-        }
-      }
-    },
-    "totalSpotNumber": {
-      "type": "Number",
-      "value": 591,
-      "metadata": {}
-    },
-    "collecte": {
-      "timestamp": "2026-01-08T14:22:07.833315",
-      "heure": "14:22:07",
-      "cycle": 2,
-      "test": true
-    }
-  },
-  {
-    "id": "urn:ngsi-ld:parking:006",
-    "type": "OffStreetParking",
-    "allowedVehicleType": {
-      "type": "StructuredValue",
-      "value": [
-        "car",
-        "moped"
-      ],
-      "metadata": {}
-    },
-    "availableSpotNumber": {
-      "type": "Number",
-      "value": 463,
-      "metadata": {
-        "timestamp": {
-          "type": "DateTime",
-          "value": "2026-01-08T15:15:43.000Z"
-        }
-      }
-    },
-    "category": {
-      "type": "StructuredValue",
-      "value": [
-        "feeCharged",
-        "barrierAccess",
-        "underground"
-      ],
-      "metadata": {}
-    },
-    "layout": {
-      "type": "StructuredValue",
-      "value": [
-        "multiLevel"
-      ],
-      "metadata": {}
-    },
-    "location": {
-      "type": "geo:json",
-      "value": {
-        "type": "Point",
-        "coordinates": [
-          3.87657084,
-          43.61074912
-        ]
-      },
-      "metadata": {}
-    },
-    "name": {
-      "type": "Text",
-      "value": "Foch",
-      "metadata": {}
-    },
-    "requiredPermit": {
-      "type": "Text",
-      "value": "noPermitNeeded",
-      "metadata": {}
-    },
-    "status": {
-      "type": "Text",
-      "value": "Open",
-      "metadata": {
-        "timestamp": {
-          "type": "DateTime",
-          "value": "2026-01-08T15:15:43.000Z"
-        }
-      }
-    },
-    "totalSpotNumber": {
-      "type": "Number",
-      "value": 620,
-      "metadata": {}
-    },
-    "collecte": {
-      "timestamp": "2026-01-08T14:22:07.833315",
-      "heure": "14:22:07",
-      "cycle": 2,
-      "test": true
-    }
-  },
-  {
-    "id": "urn:ngsi-ld:parking:007",
-    "type": "OffStreetParking",
-    "allowedVehicleType": {
-      "type": "StructuredValue",
-      "value": [
-        "car",
-        "moped"
-      ],
-      "metadata": {}
-    },
-    "availableSpotNumber": {
-      "type": "Number",
-      "value": 134,
-      "metadata": {
-        "timestamp": {
-          "type": "DateTime",
-          "value": "2026-01-08T15:15:20.000Z"
-        }
-      }
-    },
-    "category": {
-      "type": "StructuredValue",
-      "value": [
-        "feeCharged",
-        "barrierAccess",
-        "underground"
-      ],
-      "metadata": {}
-    },
-    "layout": {
-      "type": "StructuredValue",
-      "value": [
-        "multiLevel"
-      ],
-      "metadata": {}
-    },
-    "location": {
-      "type": "geo:json",
-      "value": {
-        "type": "Point",
-        "coordinates": [
-          3.87137436,
-          43.60695138
-        ]
-      },
-      "metadata": {}
-    },
-    "name": {
-      "type": "Text",
-      "value": "Gambetta",
-      "metadata": {}
-    },
-    "requiredPermit": {
-      "type": "Text",
-      "value": "noPermitNeeded",
-      "metadata": {}
-    },
-    "status": {
-      "type": "Text",
-      "value": "Open",
-      "metadata": {
-        "timestamp": {
-          "type": "DateTime",
-          "value": "2026-01-08T15:15:20.000Z"
-        }
-      }
-    },
-    "totalSpotNumber": {
-      "type": "Number",
-      "value": 452,
-      "metadata": {}
-    },
-    "collecte": {
-      "timestamp": "2026-01-08T14:22:07.833315",
-      "heure": "14:22:07",
-      "cycle": 2,
-      "test": true
-    }
-  },
-  {
-    "id": "urn:ngsi-ld:parking:008",
-    "type": "OffStreetParking",
-    "allowedVehicleType": {
-      "type": "StructuredValue",
-      "value": [
-        "car",
-        "moped"
-      ],
-      "metadata": {}
-    },
-    "availableSpotNumber": {
-      "type": "Number",
-      "value": 199,
-      "metadata": {
-        "timestamp": {
-          "type": "DateTime",
-          "value": "2026-01-08T15:15:05.000Z"
-        }
-      }
-    },
-    "category": {
-      "type": "StructuredValue",
-      "value": [
-        "feeCharged",
-        "barrierAccess",
-        "underground"
-      ],
-      "metadata": {}
-    },
-    "layout": {
-      "type": "StructuredValue",
-      "value": [
-        "multiLevel"
-      ],
-      "metadata": {}
-    },
-    "location": {
-      "type": "geo:json",
-      "value": {
-        "type": "Point",
-        "coordinates": [
-          3.87891,
-          43.604024
-        ]
-      },
-      "metadata": {}
-    },
-    "name": {
-      "type": "Text",
-      "value": "Gare",
-      "metadata": {}
-    },
-    "requiredPermit": {
-      "type": "Text",
-      "value": "noPermitNeeded",
-      "metadata": {}
-    },
-    "status": {
-      "type": "Text",
-      "value": "Open",
-      "metadata": {
-        "timestamp": {
-          "type": "DateTime",
-          "value": "2026-01-08T15:15:05.000Z"
-        }
-      }
-    },
-    "totalSpotNumber": {
-      "type": "Number",
-      "value": 656,
-      "metadata": {}
-    },
-    "collecte": {
-      "timestamp": "2026-01-08T14:22:07.833315",
-      "heure": "14:22:07",
-      "cycle": 2,
-      "test": true
-    }
-  },
-  {
-    "id": "urn:ngsi-ld:parking:009",
-    "type": "OffStreetParking",
-    "allowedVehicleType": {
-      "type": "StructuredValue",
-      "value": [
-        "car",
-        "moped"
-      ],
-      "metadata": {}
-    },
-    "availableSpotNumber": {
-      "type": "Number",
-      "value": 274,
-      "metadata": {
-        "timestamp": {
-          "type": "DateTime",
-          "value": "2025-12-31T16:39:58.000Z"
-        }
-      }
-    },
-    "category": {
-      "type": "StructuredValue",
-      "value": [
-        "feeCharged",
-        "barrierAccess",
-        "underground"
-      ],
-      "metadata": {}
-    },
-    "layout": {
-      "type": "StructuredValue",
-      "value": [
-        "multiLevel"
-      ],
-      "metadata": {}
-    },
-    "location": {
-      "type": "geo:json",
-      "value": {
-        "type": "Point",
-        "coordinates": [
-          3.88184418,
-          43.60923384
-        ]
-      },
-      "metadata": {}
-    },
-    "name": {
-      "type": "Text",
-      "value": "Triangle",
-      "metadata": {}
-    },
-    "requiredPermit": {
-      "type": "Text",
-      "value": "noPermitNeeded",
-      "metadata": {}
-    },
-    "status": {
-      "type": "Text",
-      "value": "Open",
-      "metadata": {
-        "timestamp": {
-          "type": "DateTime",
-          "value": "2025-12-31T16:39:58.000Z"
-        }
-      }
-    },
-    "totalSpotNumber": {
-      "type": "Number",
-      "value": 434,
-      "metadata": {}
-    },
-    "collecte": {
-      "timestamp": "2026-01-08T14:22:07.833315",
-      "heure": "14:22:07",
-      "cycle": 2,
-      "test": true
-    }
-  },
-  {
-    "id": "urn:ngsi-ld:parking:010",
-    "type": "OffStreetParking",
-    "allowedVehicleType": {
-      "type": "StructuredValue",
-      "value": [
-        "car",
-        "moped"
-      ],
-      "metadata": {}
-    },
-    "availableSpotNumber": {
-      "type": "Number",
-      "value": 403,
-      "metadata": {
-        "timestamp": {
-          "type": "DateTime",
-          "value": "2025-12-31T16:40:32.000Z"
-        }
-      }
-    },
-    "category": {
-      "type": "StructuredValue",
-      "value": [
-        "feeCharged",
-        "barrierAccess",
-        "underground"
-      ],
-      "metadata": {}
-    },
-    "layout": {
-      "type": "StructuredValue",
-      "value": [
-        "multiLevel"
-      ],
-      "metadata": {}
-    },
-    "location": {
-      "type": "geo:json",
-      "value": {
-        "type": "Point",
-        "coordinates": [
-          3.87019117,
-          43.61224494
-        ]
-      },
-      "metadata": {}
-    },
-    "name": {
-      "type": "Text",
-      "value": "Pitot",
-      "metadata": {}
-    },
-    "requiredPermit": {
-      "type": "Text",
-      "value": "noPermitNeeded",
-      "metadata": {}
-    },
-    "status": {
-      "type": "Text",
-      "value": "Open",
-      "metadata": {
-        "timestamp": {
-          "type": "DateTime",
-          "value": "2025-12-31T16:40:32.000Z"
-        }
-      }
-    },
-    "totalSpotNumber": {
-      "type": "Number",
-      "value": 590,
-      "metadata": {}
-    },
-    "collecte": {
-      "timestamp": "2026-01-08T14:22:07.833315",
-      "heure": "14:22:07",
-      "cycle": 2,
-      "test": true
-    }
-  },
-  {
-    "id": "urn:ngsi-ld:parking:011",
-    "type": "OffStreetParking",
-    "allowedVehicleType": {
-      "type": "StructuredValue",
-      "value": [
-        "car",
-        "moped"
-      ],
-      "metadata": {}
-    },
-    "availableSpotNumber": {
-      "type": "Number",
-      "value": 657,
-      "metadata": {
-        "timestamp": {
-          "type": "DateTime",
-          "value": "2026-01-08T15:15:02.000Z"
-        }
-      }
-    },
-    "category": {
-      "type": "StructuredValue",
-      "value": [
-        "feeCharged",
-        "barrierAccess",
-        "underground"
-      ],
-      "metadata": {}
-    },
-    "layout": {
-      "type": "StructuredValue",
-      "value": [
-        "multiLevel"
-      ],
-      "metadata": {}
-    },
-    "location": {
-      "type": "geo:json",
-      "value": {
-        "type": "Point",
-        "coordinates": [
-          3.9178495,
-          43.60495377
-        ]
-      },
-      "metadata": {}
-    },
-    "name": {
-      "type": "Text",
-      "value": "Circe",
-      "metadata": {}
-    },
-    "requiredPermit": {
-      "type": "Text",
-      "value": "noPermitNeeded",
-      "metadata": {}
-    },
-    "status": {
-      "type": "Text",
-      "value": "Open",
-      "metadata": {
-        "timestamp": {
-          "type": "DateTime",
-          "value": "2026-01-08T15:15:02.000Z"
-        }
-      }
-    },
-    "totalSpotNumber": {
-      "type": "Number",
-      "value": 1200,
-      "metadata": {}
-    },
-    "collecte": {
-      "timestamp": "2026-01-08T14:22:07.833315",
-      "heure": "14:22:07",
-      "cycle": 2,
-      "test": true
-    }
-  },
-  {
-    "id": "urn:ngsi-ld:parking:012",
-    "type": "OffStreetParking",
-    "allowedVehicleType": {
-      "type": "StructuredValue",
-      "value": [
-        "car",
-        "moped"
-      ],
-      "metadata": {}
-    },
-    "availableSpotNumber": {
-      "type": "Number",
-      "value": 271,
-      "metadata": {
-        "timestamp": {
-          "type": "DateTime",
-          "value": "2026-01-08T15:14:52.000Z"
-        }
-      }
-    },
-    "category": {
-      "type": "StructuredValue",
-      "value": [
-        "feeCharged",
-        "barrierAccess",
-        "underground"
-      ],
-      "metadata": {}
-    },
-    "layout": {
-      "type": "StructuredValue",
-      "value": [
-        "multiLevel"
-      ],
-      "metadata": {}
-    },
-    "location": {
-      "type": "geo:json",
-      "value": {
-        "type": "Point",
-        "coordinates": [
-          3.8907158,
-          43.59098509
-        ]
-      },
-      "metadata": {}
-    },
-    "name": {
-      "type": "Text",
-      "value": "Garcia Lorca",
-      "metadata": {}
-    },
-    "requiredPermit": {
-      "type": "Text",
-      "value": "noPermitNeeded",
-      "metadata": {}
-    },
-    "status": {
-      "type": "Text",
-      "value": "Open",
-      "metadata": {
-        "timestamp": {
-          "type": "DateTime",
-          "value": "2026-01-08T15:14:52.000Z"
-        }
-      }
-    },
-    "totalSpotNumber": {
-      "type": "Number",
-      "value": 400,
-      "metadata": {}
-    },
-    "collecte": {
-      "timestamp": "2026-01-08T14:22:07.833315",
-      "heure": "14:22:07",
-      "cycle": 2,
-      "test": true
-    }
-  },
-  {
-    "id": "urn:ngsi-ld:parking:013",
     "type": "OffStreetParking",
     "allowedVehicleType": {
       "type": "StructuredValue",
@@ -2816,7 +1776,1047 @@
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-08T15:14:52.000Z"
+          "value": "2026-01-08T17:10:15.000Z"
+        }
+      }
+    },
+    "category": {
+      "type": "StructuredValue",
+      "value": [
+        "feeCharged",
+        "barrierAccess",
+        "underground"
+      ],
+      "metadata": {}
+    },
+    "layout": {
+      "type": "StructuredValue",
+      "value": [
+        "multiLevel"
+      ],
+      "metadata": {}
+    },
+    "location": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          3.8732007,
+          43.61100267
+        ]
+      },
+      "metadata": {}
+    },
+    "name": {
+      "type": "Text",
+      "value": "Arc de Triomphe",
+      "metadata": {}
+    },
+    "requiredPermit": {
+      "type": "Text",
+      "value": "noPermitNeeded",
+      "metadata": {}
+    },
+    "status": {
+      "type": "Text",
+      "value": "Open",
+      "metadata": {
+        "timestamp": {
+          "type": "DateTime",
+          "value": "2026-01-08T17:10:15.000Z"
+        }
+      }
+    },
+    "totalSpotNumber": {
+      "type": "Number",
+      "value": 440,
+      "metadata": {}
+    },
+    "collecte": {
+      "timestamp": "2026-01-08T16:17:37.272700",
+      "heure": "16:17:37",
+      "cycle": 1,
+      "test": true
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:parking:025",
+    "type": "OffStreetParking",
+    "allowedVehicleType": {
+      "type": "StructuredValue",
+      "value": [
+        "car",
+        "moped"
+      ],
+      "metadata": {}
+    },
+    "availableSpotNumber": {
+      "type": "Number",
+      "value": 199,
+      "metadata": {
+        "timestamp": {
+          "type": "DateTime",
+          "value": "2025-12-23T15:36:31.000Z"
+        }
+      }
+    },
+    "category": {
+      "type": "StructuredValue",
+      "value": [
+        "feeCharged",
+        "barrierAccess",
+        "underground"
+      ],
+      "metadata": {}
+    },
+    "layout": {
+      "type": "StructuredValue",
+      "value": [
+        "multiLevel"
+      ],
+      "metadata": {}
+    },
+    "location": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          3.9178495,
+          43.60495377
+        ]
+      },
+      "metadata": {}
+    },
+    "name": {
+      "type": "Text",
+      "value": "Gaumont-Circe",
+      "metadata": {}
+    },
+    "requiredPermit": {
+      "type": "Text",
+      "value": "noPermitNeeded",
+      "metadata": {}
+    },
+    "status": {
+      "type": "Text",
+      "value": "Open",
+      "metadata": {
+        "timestamp": {
+          "type": "DateTime",
+          "value": "2025-12-23T15:36:31.000Z"
+        }
+      }
+    },
+    "totalSpotNumber": {
+      "type": "Number",
+      "value": 500,
+      "metadata": {}
+    },
+    "collecte": {
+      "timestamp": "2026-01-08T16:17:37.272700",
+      "heure": "16:17:37",
+      "cycle": 1,
+      "test": true
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:parking:001",
+    "type": "OffStreetParking",
+    "allowedVehicleType": {
+      "type": "StructuredValue",
+      "value": [
+        "car",
+        "moped"
+      ],
+      "metadata": {}
+    },
+    "availableSpotNumber": {
+      "type": "Number",
+      "value": 129,
+      "metadata": {
+        "timestamp": {
+          "type": "DateTime",
+          "value": "2026-01-08T17:15:22.000Z"
+        }
+      }
+    },
+    "category": {
+      "type": "StructuredValue",
+      "value": [
+        "feeCharged",
+        "barrierAccess",
+        "underground"
+      ],
+      "metadata": {}
+    },
+    "layout": {
+      "type": "StructuredValue",
+      "value": [
+        "multiLevel"
+      ],
+      "metadata": {}
+    },
+    "location": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          3.88881893,
+          43.60871606
+        ]
+      },
+      "metadata": {}
+    },
+    "name": {
+      "type": "Text",
+      "value": "Antigone",
+      "metadata": {}
+    },
+    "requiredPermit": {
+      "type": "Text",
+      "value": "noPermitNeeded",
+      "metadata": {}
+    },
+    "status": {
+      "type": "Text",
+      "value": "Open",
+      "metadata": {
+        "timestamp": {
+          "type": "DateTime",
+          "value": "2026-01-08T17:15:22.000Z"
+        }
+      }
+    },
+    "totalSpotNumber": {
+      "type": "Number",
+      "value": 239,
+      "metadata": {}
+    },
+    "collecte": {
+      "timestamp": "2026-01-08T16:22:38.201469",
+      "heure": "16:22:38",
+      "cycle": 2,
+      "test": true
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:parking:003",
+    "type": "OffStreetParking",
+    "allowedVehicleType": {
+      "type": "StructuredValue",
+      "value": [
+        "car",
+        "moped"
+      ],
+      "metadata": {}
+    },
+    "availableSpotNumber": {
+      "type": "Number",
+      "value": 310,
+      "metadata": {
+        "timestamp": {
+          "type": "DateTime",
+          "value": "2026-01-08T17:15:27.000Z"
+        }
+      }
+    },
+    "category": {
+      "type": "StructuredValue",
+      "value": [
+        "feeCharged",
+        "barrierAccess",
+        "underground"
+      ],
+      "metadata": {}
+    },
+    "layout": {
+      "type": "StructuredValue",
+      "value": [
+        "multiLevel"
+      ],
+      "metadata": {}
+    },
+    "location": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          3.87976196,
+          43.60856092
+        ]
+      },
+      "metadata": {}
+    },
+    "name": {
+      "type": "Text",
+      "value": "Comedie",
+      "metadata": {}
+    },
+    "requiredPermit": {
+      "type": "Text",
+      "value": "noPermitNeeded",
+      "metadata": {}
+    },
+    "status": {
+      "type": "Text",
+      "value": "Open",
+      "metadata": {
+        "timestamp": {
+          "type": "DateTime",
+          "value": "2026-01-08T17:15:27.000Z"
+        }
+      }
+    },
+    "totalSpotNumber": {
+      "type": "Number",
+      "value": 664,
+      "metadata": {}
+    },
+    "collecte": {
+      "timestamp": "2026-01-08T16:22:38.201469",
+      "heure": "16:22:38",
+      "cycle": 2,
+      "test": true
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:parking:004",
+    "type": "OffStreetParking",
+    "allowedVehicleType": {
+      "type": "StructuredValue",
+      "value": [
+        "car",
+        "moped"
+      ],
+      "metadata": {}
+    },
+    "availableSpotNumber": {
+      "type": "Number",
+      "value": 210,
+      "metadata": {
+        "timestamp": {
+          "type": "DateTime",
+          "value": "2026-01-08T17:15:22.000Z"
+        }
+      }
+    },
+    "category": {
+      "type": "StructuredValue",
+      "value": [
+        "feeCharged",
+        "barrierAccess",
+        "underground"
+      ],
+      "metadata": {}
+    },
+    "layout": {
+      "type": "StructuredValue",
+      "value": [
+        "multiLevel"
+      ],
+      "metadata": {}
+    },
+    "location": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          3.88225773,
+          43.61388821
+        ]
+      },
+      "metadata": {}
+    },
+    "name": {
+      "type": "Text",
+      "value": "Corum",
+      "metadata": {}
+    },
+    "requiredPermit": {
+      "type": "Text",
+      "value": "noPermitNeeded",
+      "metadata": {}
+    },
+    "status": {
+      "type": "Text",
+      "value": "Open",
+      "metadata": {
+        "timestamp": {
+          "type": "DateTime",
+          "value": "2026-01-08T17:15:22.000Z"
+        }
+      }
+    },
+    "totalSpotNumber": {
+      "type": "Number",
+      "value": 480,
+      "metadata": {}
+    },
+    "collecte": {
+      "timestamp": "2026-01-08T16:22:38.201469",
+      "heure": "16:22:38",
+      "cycle": 2,
+      "test": true
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:parking:005",
+    "type": "OffStreetParking",
+    "allowedVehicleType": {
+      "type": "StructuredValue",
+      "value": [
+        "car",
+        "moped"
+      ],
+      "metadata": {}
+    },
+    "availableSpotNumber": {
+      "type": "Number",
+      "value": 325,
+      "metadata": {
+        "timestamp": {
+          "type": "DateTime",
+          "value": "2026-01-08T17:15:22.000Z"
+        }
+      }
+    },
+    "category": {
+      "type": "StructuredValue",
+      "value": [
+        "feeCharged",
+        "barrierAccess",
+        "underground"
+      ],
+      "metadata": {}
+    },
+    "layout": {
+      "type": "StructuredValue",
+      "value": [
+        "multiLevel"
+      ],
+      "metadata": {}
+    },
+    "location": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          3.89253074,
+          43.60784971
+        ]
+      },
+      "metadata": {}
+    },
+    "name": {
+      "type": "Text",
+      "value": "Europa",
+      "metadata": {}
+    },
+    "requiredPermit": {
+      "type": "Text",
+      "value": "noPermitNeeded",
+      "metadata": {}
+    },
+    "status": {
+      "type": "Text",
+      "value": "Open",
+      "metadata": {
+        "timestamp": {
+          "type": "DateTime",
+          "value": "2026-01-08T17:15:22.000Z"
+        }
+      }
+    },
+    "totalSpotNumber": {
+      "type": "Number",
+      "value": 591,
+      "metadata": {}
+    },
+    "collecte": {
+      "timestamp": "2026-01-08T16:22:38.201469",
+      "heure": "16:22:38",
+      "cycle": 2,
+      "test": true
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:parking:006",
+    "type": "OffStreetParking",
+    "allowedVehicleType": {
+      "type": "StructuredValue",
+      "value": [
+        "car",
+        "moped"
+      ],
+      "metadata": {}
+    },
+    "availableSpotNumber": {
+      "type": "Number",
+      "value": 517,
+      "metadata": {
+        "timestamp": {
+          "type": "DateTime",
+          "value": "2026-01-08T17:15:41.000Z"
+        }
+      }
+    },
+    "category": {
+      "type": "StructuredValue",
+      "value": [
+        "feeCharged",
+        "barrierAccess",
+        "underground"
+      ],
+      "metadata": {}
+    },
+    "layout": {
+      "type": "StructuredValue",
+      "value": [
+        "multiLevel"
+      ],
+      "metadata": {}
+    },
+    "location": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          3.87657084,
+          43.61074912
+        ]
+      },
+      "metadata": {}
+    },
+    "name": {
+      "type": "Text",
+      "value": "Foch",
+      "metadata": {}
+    },
+    "requiredPermit": {
+      "type": "Text",
+      "value": "noPermitNeeded",
+      "metadata": {}
+    },
+    "status": {
+      "type": "Text",
+      "value": "Open",
+      "metadata": {
+        "timestamp": {
+          "type": "DateTime",
+          "value": "2026-01-08T17:15:41.000Z"
+        }
+      }
+    },
+    "totalSpotNumber": {
+      "type": "Number",
+      "value": 620,
+      "metadata": {}
+    },
+    "collecte": {
+      "timestamp": "2026-01-08T16:22:38.201469",
+      "heure": "16:22:38",
+      "cycle": 2,
+      "test": true
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:parking:007",
+    "type": "OffStreetParking",
+    "allowedVehicleType": {
+      "type": "StructuredValue",
+      "value": [
+        "car",
+        "moped"
+      ],
+      "metadata": {}
+    },
+    "availableSpotNumber": {
+      "type": "Number",
+      "value": 175,
+      "metadata": {
+        "timestamp": {
+          "type": "DateTime",
+          "value": "2026-01-08T17:15:22.000Z"
+        }
+      }
+    },
+    "category": {
+      "type": "StructuredValue",
+      "value": [
+        "feeCharged",
+        "barrierAccess",
+        "underground"
+      ],
+      "metadata": {}
+    },
+    "layout": {
+      "type": "StructuredValue",
+      "value": [
+        "multiLevel"
+      ],
+      "metadata": {}
+    },
+    "location": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          3.87137436,
+          43.60695138
+        ]
+      },
+      "metadata": {}
+    },
+    "name": {
+      "type": "Text",
+      "value": "Gambetta",
+      "metadata": {}
+    },
+    "requiredPermit": {
+      "type": "Text",
+      "value": "noPermitNeeded",
+      "metadata": {}
+    },
+    "status": {
+      "type": "Text",
+      "value": "Open",
+      "metadata": {
+        "timestamp": {
+          "type": "DateTime",
+          "value": "2026-01-08T17:15:22.000Z"
+        }
+      }
+    },
+    "totalSpotNumber": {
+      "type": "Number",
+      "value": 452,
+      "metadata": {}
+    },
+    "collecte": {
+      "timestamp": "2026-01-08T16:22:38.201469",
+      "heure": "16:22:38",
+      "cycle": 2,
+      "test": true
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:parking:008",
+    "type": "OffStreetParking",
+    "allowedVehicleType": {
+      "type": "StructuredValue",
+      "value": [
+        "car",
+        "moped"
+      ],
+      "metadata": {}
+    },
+    "availableSpotNumber": {
+      "type": "Number",
+      "value": 237,
+      "metadata": {
+        "timestamp": {
+          "type": "DateTime",
+          "value": "2026-01-08T17:15:05.000Z"
+        }
+      }
+    },
+    "category": {
+      "type": "StructuredValue",
+      "value": [
+        "feeCharged",
+        "barrierAccess",
+        "underground"
+      ],
+      "metadata": {}
+    },
+    "layout": {
+      "type": "StructuredValue",
+      "value": [
+        "multiLevel"
+      ],
+      "metadata": {}
+    },
+    "location": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          3.87891,
+          43.604024
+        ]
+      },
+      "metadata": {}
+    },
+    "name": {
+      "type": "Text",
+      "value": "Gare",
+      "metadata": {}
+    },
+    "requiredPermit": {
+      "type": "Text",
+      "value": "noPermitNeeded",
+      "metadata": {}
+    },
+    "status": {
+      "type": "Text",
+      "value": "Open",
+      "metadata": {
+        "timestamp": {
+          "type": "DateTime",
+          "value": "2026-01-08T17:15:05.000Z"
+        }
+      }
+    },
+    "totalSpotNumber": {
+      "type": "Number",
+      "value": 656,
+      "metadata": {}
+    },
+    "collecte": {
+      "timestamp": "2026-01-08T16:22:38.201469",
+      "heure": "16:22:38",
+      "cycle": 2,
+      "test": true
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:parking:009",
+    "type": "OffStreetParking",
+    "allowedVehicleType": {
+      "type": "StructuredValue",
+      "value": [
+        "car",
+        "moped"
+      ],
+      "metadata": {}
+    },
+    "availableSpotNumber": {
+      "type": "Number",
+      "value": 274,
+      "metadata": {
+        "timestamp": {
+          "type": "DateTime",
+          "value": "2025-12-31T16:39:58.000Z"
+        }
+      }
+    },
+    "category": {
+      "type": "StructuredValue",
+      "value": [
+        "feeCharged",
+        "barrierAccess",
+        "underground"
+      ],
+      "metadata": {}
+    },
+    "layout": {
+      "type": "StructuredValue",
+      "value": [
+        "multiLevel"
+      ],
+      "metadata": {}
+    },
+    "location": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          3.88184418,
+          43.60923384
+        ]
+      },
+      "metadata": {}
+    },
+    "name": {
+      "type": "Text",
+      "value": "Triangle",
+      "metadata": {}
+    },
+    "requiredPermit": {
+      "type": "Text",
+      "value": "noPermitNeeded",
+      "metadata": {}
+    },
+    "status": {
+      "type": "Text",
+      "value": "Open",
+      "metadata": {
+        "timestamp": {
+          "type": "DateTime",
+          "value": "2025-12-31T16:39:58.000Z"
+        }
+      }
+    },
+    "totalSpotNumber": {
+      "type": "Number",
+      "value": 434,
+      "metadata": {}
+    },
+    "collecte": {
+      "timestamp": "2026-01-08T16:22:38.201469",
+      "heure": "16:22:38",
+      "cycle": 2,
+      "test": true
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:parking:010",
+    "type": "OffStreetParking",
+    "allowedVehicleType": {
+      "type": "StructuredValue",
+      "value": [
+        "car",
+        "moped"
+      ],
+      "metadata": {}
+    },
+    "availableSpotNumber": {
+      "type": "Number",
+      "value": 403,
+      "metadata": {
+        "timestamp": {
+          "type": "DateTime",
+          "value": "2025-12-31T16:40:32.000Z"
+        }
+      }
+    },
+    "category": {
+      "type": "StructuredValue",
+      "value": [
+        "feeCharged",
+        "barrierAccess",
+        "underground"
+      ],
+      "metadata": {}
+    },
+    "layout": {
+      "type": "StructuredValue",
+      "value": [
+        "multiLevel"
+      ],
+      "metadata": {}
+    },
+    "location": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          3.87019117,
+          43.61224494
+        ]
+      },
+      "metadata": {}
+    },
+    "name": {
+      "type": "Text",
+      "value": "Pitot",
+      "metadata": {}
+    },
+    "requiredPermit": {
+      "type": "Text",
+      "value": "noPermitNeeded",
+      "metadata": {}
+    },
+    "status": {
+      "type": "Text",
+      "value": "Open",
+      "metadata": {
+        "timestamp": {
+          "type": "DateTime",
+          "value": "2025-12-31T16:40:32.000Z"
+        }
+      }
+    },
+    "totalSpotNumber": {
+      "type": "Number",
+      "value": 590,
+      "metadata": {}
+    },
+    "collecte": {
+      "timestamp": "2026-01-08T16:22:38.201469",
+      "heure": "16:22:38",
+      "cycle": 2,
+      "test": true
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:parking:011",
+    "type": "OffStreetParking",
+    "allowedVehicleType": {
+      "type": "StructuredValue",
+      "value": [
+        "car",
+        "moped"
+      ],
+      "metadata": {}
+    },
+    "availableSpotNumber": {
+      "type": "Number",
+      "value": 822,
+      "metadata": {
+        "timestamp": {
+          "type": "DateTime",
+          "value": "2026-01-08T17:14:57.000Z"
+        }
+      }
+    },
+    "category": {
+      "type": "StructuredValue",
+      "value": [
+        "feeCharged",
+        "barrierAccess",
+        "underground"
+      ],
+      "metadata": {}
+    },
+    "layout": {
+      "type": "StructuredValue",
+      "value": [
+        "multiLevel"
+      ],
+      "metadata": {}
+    },
+    "location": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          3.9178495,
+          43.60495377
+        ]
+      },
+      "metadata": {}
+    },
+    "name": {
+      "type": "Text",
+      "value": "Circe",
+      "metadata": {}
+    },
+    "requiredPermit": {
+      "type": "Text",
+      "value": "noPermitNeeded",
+      "metadata": {}
+    },
+    "status": {
+      "type": "Text",
+      "value": "Open",
+      "metadata": {
+        "timestamp": {
+          "type": "DateTime",
+          "value": "2026-01-08T17:14:57.000Z"
+        }
+      }
+    },
+    "totalSpotNumber": {
+      "type": "Number",
+      "value": 1200,
+      "metadata": {}
+    },
+    "collecte": {
+      "timestamp": "2026-01-08T16:22:38.201469",
+      "heure": "16:22:38",
+      "cycle": 2,
+      "test": true
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:parking:012",
+    "type": "OffStreetParking",
+    "allowedVehicleType": {
+      "type": "StructuredValue",
+      "value": [
+        "car",
+        "moped"
+      ],
+      "metadata": {}
+    },
+    "availableSpotNumber": {
+      "type": "Number",
+      "value": 300,
+      "metadata": {
+        "timestamp": {
+          "type": "DateTime",
+          "value": "2026-01-08T17:14:57.000Z"
+        }
+      }
+    },
+    "category": {
+      "type": "StructuredValue",
+      "value": [
+        "feeCharged",
+        "barrierAccess",
+        "underground"
+      ],
+      "metadata": {}
+    },
+    "layout": {
+      "type": "StructuredValue",
+      "value": [
+        "multiLevel"
+      ],
+      "metadata": {}
+    },
+    "location": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          3.8907158,
+          43.59098509
+        ]
+      },
+      "metadata": {}
+    },
+    "name": {
+      "type": "Text",
+      "value": "Garcia Lorca",
+      "metadata": {}
+    },
+    "requiredPermit": {
+      "type": "Text",
+      "value": "noPermitNeeded",
+      "metadata": {}
+    },
+    "status": {
+      "type": "Text",
+      "value": "Open",
+      "metadata": {
+        "timestamp": {
+          "type": "DateTime",
+          "value": "2026-01-08T17:14:57.000Z"
+        }
+      }
+    },
+    "totalSpotNumber": {
+      "type": "Number",
+      "value": 400,
+      "metadata": {}
+    },
+    "collecte": {
+      "timestamp": "2026-01-08T16:22:38.201469",
+      "heure": "16:22:38",
+      "cycle": 2,
+      "test": true
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:parking:013",
+    "type": "OffStreetParking",
+    "allowedVehicleType": {
+      "type": "StructuredValue",
+      "value": [
+        "car",
+        "moped"
+      ],
+      "metadata": {}
+    },
+    "availableSpotNumber": {
+      "type": "Number",
+      "value": 120,
+      "metadata": {
+        "timestamp": {
+          "type": "DateTime",
+          "value": "2026-01-08T17:14:57.000Z"
         }
       }
     },
@@ -2863,7 +2863,7 @@
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-08T15:14:52.000Z"
+          "value": "2026-01-08T17:14:57.000Z"
         }
       }
     },
@@ -2873,8 +2873,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-08T14:22:07.833315",
-      "heure": "14:22:07",
+      "timestamp": "2026-01-08T16:22:38.201469",
+      "heure": "16:22:38",
       "cycle": 2,
       "test": true
     }
@@ -2892,11 +2892,11 @@
     },
     "availableSpotNumber": {
       "type": "Number",
-      "value": 40,
+      "value": 86,
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-08T15:15:02.000Z"
+          "value": "2026-01-08T17:14:57.000Z"
         }
       }
     },
@@ -2943,7 +2943,7 @@
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-08T15:15:02.000Z"
+          "value": "2026-01-08T17:14:57.000Z"
         }
       }
     },
@@ -2953,8 +2953,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-08T14:22:07.833315",
-      "heure": "14:22:07",
+      "timestamp": "2026-01-08T16:22:38.201469",
+      "heure": "16:22:38",
       "cycle": 2,
       "test": true
     }
@@ -2972,11 +2972,11 @@
     },
     "availableSpotNumber": {
       "type": "Number",
-      "value": 140,
+      "value": 212,
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-08T15:15:02.000Z"
+          "value": "2026-01-08T17:14:57.000Z"
         }
       }
     },
@@ -3023,7 +3023,7 @@
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-08T15:15:02.000Z"
+          "value": "2026-01-08T17:14:57.000Z"
         }
       }
     },
@@ -3033,8 +3033,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-08T14:22:07.833315",
-      "heure": "14:22:07",
+      "timestamp": "2026-01-08T16:22:38.201469",
+      "heure": "16:22:38",
       "cycle": 2,
       "test": true
     }
@@ -3052,11 +3052,11 @@
     },
     "availableSpotNumber": {
       "type": "Number",
-      "value": 171,
+      "value": 192,
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-08T15:14:52.000Z"
+          "value": "2026-01-08T17:14:57.000Z"
         }
       }
     },
@@ -3103,7 +3103,7 @@
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-08T15:14:52.000Z"
+          "value": "2026-01-08T17:14:57.000Z"
         }
       }
     },
@@ -3113,8 +3113,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-08T14:22:07.833315",
-      "heure": "14:22:07",
+      "timestamp": "2026-01-08T16:22:38.201469",
+      "heure": "16:22:38",
       "cycle": 2,
       "test": true
     }
@@ -3132,11 +3132,11 @@
     },
     "availableSpotNumber": {
       "type": "Number",
-      "value": 10,
+      "value": 38,
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-08T15:15:02.000Z"
+          "value": "2026-01-08T17:14:57.000Z"
         }
       }
     },
@@ -3183,7 +3183,7 @@
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-08T15:15:02.000Z"
+          "value": "2026-01-08T17:14:57.000Z"
         }
       }
     },
@@ -3193,8 +3193,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-08T14:22:07.833315",
-      "heure": "14:22:07",
+      "timestamp": "2026-01-08T16:22:38.201469",
+      "heure": "16:22:38",
       "cycle": 2,
       "test": true
     }
@@ -3212,11 +3212,11 @@
     },
     "availableSpotNumber": {
       "type": "Number",
-      "value": 169,
+      "value": 295,
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-08T15:15:02.000Z"
+          "value": "2026-01-08T17:14:57.000Z"
         }
       }
     },
@@ -3263,7 +3263,7 @@
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-08T15:15:02.000Z"
+          "value": "2026-01-08T17:14:57.000Z"
         }
       }
     },
@@ -3273,8 +3273,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-08T14:22:07.833315",
-      "heure": "14:22:07",
+      "timestamp": "2026-01-08T16:22:38.201469",
+      "heure": "16:22:38",
       "cycle": 2,
       "test": true
     }
@@ -3292,11 +3292,11 @@
     },
     "availableSpotNumber": {
       "type": "Number",
-      "value": 15,
+      "value": 20,
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-08T15:15:01.000Z"
+          "value": "2026-01-08T17:15:00.000Z"
         }
       }
     },
@@ -3343,7 +3343,7 @@
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-08T15:15:01.000Z"
+          "value": "2026-01-08T17:15:00.000Z"
         }
       }
     },
@@ -3353,8 +3353,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-08T14:22:07.833315",
-      "heure": "14:22:07",
+      "timestamp": "2026-01-08T16:22:38.201469",
+      "heure": "16:22:38",
       "cycle": 2,
       "test": true
     }
@@ -3433,8 +3433,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-08T14:22:07.833315",
-      "heure": "14:22:07",
+      "timestamp": "2026-01-08T16:22:38.201469",
+      "heure": "16:22:38",
       "cycle": 2,
       "test": true
     }
@@ -3513,8 +3513,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-08T14:22:07.833315",
-      "heure": "14:22:07",
+      "timestamp": "2026-01-08T16:22:38.201469",
+      "heure": "16:22:38",
       "cycle": 2,
       "test": true
     }
@@ -3532,11 +3532,11 @@
     },
     "availableSpotNumber": {
       "type": "Number",
-      "value": 113,
+      "value": 126,
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-08T15:15:02.000Z"
+          "value": "2026-01-08T17:14:57.000Z"
         }
       }
     },
@@ -3583,7 +3583,7 @@
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-08T15:15:02.000Z"
+          "value": "2026-01-08T17:14:57.000Z"
         }
       }
     },
@@ -3593,8 +3593,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-08T14:22:07.833315",
-      "heure": "14:22:07",
+      "timestamp": "2026-01-08T16:22:38.201469",
+      "heure": "16:22:38",
       "cycle": 2,
       "test": true
     }
@@ -3673,8 +3673,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-08T14:22:07.833315",
-      "heure": "14:22:07",
+      "timestamp": "2026-01-08T16:22:38.201469",
+      "heure": "16:22:38",
       "cycle": 2,
       "test": true
     }
@@ -3692,11 +3692,11 @@
     },
     "availableSpotNumber": {
       "type": "Number",
-      "value": 26,
+      "value": 57,
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-08T15:15:17.000Z"
+          "value": "2026-01-08T17:15:18.000Z"
         }
       }
     },
@@ -3743,7 +3743,7 @@
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-08T15:15:17.000Z"
+          "value": "2026-01-08T17:15:18.000Z"
         }
       }
     },
@@ -3753,8 +3753,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-08T14:22:07.833315",
-      "heure": "14:22:07",
+      "timestamp": "2026-01-08T16:22:38.201469",
+      "heure": "16:22:38",
       "cycle": 2,
       "test": true
     }
@@ -3833,8 +3833,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-08T14:22:07.833315",
-      "heure": "14:22:07",
+      "timestamp": "2026-01-08T16:22:38.201469",
+      "heure": "16:22:38",
       "cycle": 2,
       "test": true
     }
@@ -3852,11 +3852,11 @@
     },
     "availableSpotNumber": {
       "type": "Number",
-      "value": 124,
+      "value": 129,
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-08T15:20:20.000Z"
+          "value": "2026-01-08T17:20:17.000Z"
         }
       }
     },
@@ -3903,7 +3903,7 @@
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-08T15:20:20.000Z"
+          "value": "2026-01-08T17:20:17.000Z"
         }
       }
     },
@@ -3913,8 +3913,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-08T14:27:08.616864",
-      "heure": "14:27:08",
+      "timestamp": "2026-01-08T16:27:39.367221",
+      "heure": "16:27:39",
       "cycle": 3,
       "test": true
     }
@@ -3932,11 +3932,11 @@
     },
     "availableSpotNumber": {
       "type": "Number",
-      "value": 265,
+      "value": 313,
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-08T15:20:34.000Z"
+          "value": "2026-01-08T17:20:35.000Z"
         }
       }
     },
@@ -3983,7 +3983,7 @@
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-08T15:20:34.000Z"
+          "value": "2026-01-08T17:20:35.000Z"
         }
       }
     },
@@ -3993,8 +3993,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-08T14:27:08.616864",
-      "heure": "14:27:08",
+      "timestamp": "2026-01-08T16:27:39.367221",
+      "heure": "16:27:39",
       "cycle": 3,
       "test": true
     }
@@ -4012,11 +4012,11 @@
     },
     "availableSpotNumber": {
       "type": "Number",
-      "value": 166,
+      "value": 210,
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-08T15:20:20.000Z"
+          "value": "2026-01-08T17:20:17.000Z"
         }
       }
     },
@@ -4063,7 +4063,7 @@
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-08T15:20:20.000Z"
+          "value": "2026-01-08T17:20:17.000Z"
         }
       }
     },
@@ -4073,8 +4073,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-08T14:27:08.616864",
-      "heure": "14:27:08",
+      "timestamp": "2026-01-08T16:27:39.367221",
+      "heure": "16:27:39",
       "cycle": 3,
       "test": true
     }
@@ -4092,11 +4092,11 @@
     },
     "availableSpotNumber": {
       "type": "Number",
-      "value": 173,
+      "value": 335,
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-08T15:20:20.000Z"
+          "value": "2026-01-08T17:20:17.000Z"
         }
       }
     },
@@ -4143,7 +4143,7 @@
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-08T15:20:20.000Z"
+          "value": "2026-01-08T17:20:17.000Z"
         }
       }
     },
@@ -4153,8 +4153,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-08T14:27:08.616864",
-      "heure": "14:27:08",
+      "timestamp": "2026-01-08T16:27:39.367221",
+      "heure": "16:27:39",
       "cycle": 3,
       "test": true
     }
@@ -4172,11 +4172,11 @@
     },
     "availableSpotNumber": {
       "type": "Number",
-      "value": 467,
+      "value": 519,
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-08T15:20:36.000Z"
+          "value": "2026-01-08T17:20:45.000Z"
         }
       }
     },
@@ -4223,7 +4223,7 @@
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-08T15:20:36.000Z"
+          "value": "2026-01-08T17:20:45.000Z"
         }
       }
     },
@@ -4233,8 +4233,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-08T14:27:08.616864",
-      "heure": "14:27:08",
+      "timestamp": "2026-01-08T16:27:39.367221",
+      "heure": "16:27:39",
       "cycle": 3,
       "test": true
     }
@@ -4252,11 +4252,11 @@
     },
     "availableSpotNumber": {
       "type": "Number",
-      "value": 134,
+      "value": 180,
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-08T15:20:20.000Z"
+          "value": "2026-01-08T17:20:17.000Z"
         }
       }
     },
@@ -4303,7 +4303,7 @@
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-08T15:20:20.000Z"
+          "value": "2026-01-08T17:20:17.000Z"
         }
       }
     },
@@ -4313,8 +4313,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-08T14:27:08.616864",
-      "heure": "14:27:08",
+      "timestamp": "2026-01-08T16:27:39.367221",
+      "heure": "16:27:39",
       "cycle": 3,
       "test": true
     }
@@ -4332,11 +4332,11 @@
     },
     "availableSpotNumber": {
       "type": "Number",
-      "value": 202,
+      "value": 238,
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-08T15:20:05.000Z"
+          "value": "2026-01-08T17:20:05.000Z"
         }
       }
     },
@@ -4383,7 +4383,7 @@
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-08T15:20:05.000Z"
+          "value": "2026-01-08T17:20:05.000Z"
         }
       }
     },
@@ -4393,8 +4393,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-08T14:27:08.616864",
-      "heure": "14:27:08",
+      "timestamp": "2026-01-08T16:27:39.367221",
+      "heure": "16:27:39",
       "cycle": 3,
       "test": true
     }
@@ -4473,8 +4473,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-08T14:27:08.616864",
-      "heure": "14:27:08",
+      "timestamp": "2026-01-08T16:27:39.367221",
+      "heure": "16:27:39",
       "cycle": 3,
       "test": true
     }
@@ -4553,8 +4553,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-08T14:27:08.616864",
-      "heure": "14:27:08",
+      "timestamp": "2026-01-08T16:27:39.367221",
+      "heure": "16:27:39",
       "cycle": 3,
       "test": true
     }
@@ -4572,11 +4572,11 @@
     },
     "availableSpotNumber": {
       "type": "Number",
-      "value": 659,
+      "value": 841,
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-08T15:20:02.000Z"
+          "value": "2026-01-08T17:19:58.000Z"
         }
       }
     },
@@ -4623,7 +4623,7 @@
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-08T15:20:02.000Z"
+          "value": "2026-01-08T17:19:58.000Z"
         }
       }
     },
@@ -4633,8 +4633,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-08T14:27:08.616864",
-      "heure": "14:27:08",
+      "timestamp": "2026-01-08T16:27:39.367221",
+      "heure": "16:27:39",
       "cycle": 3,
       "test": true
     }
@@ -4652,11 +4652,11 @@
     },
     "availableSpotNumber": {
       "type": "Number",
-      "value": 271,
+      "value": 309,
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-08T15:19:52.000Z"
+          "value": "2026-01-08T17:19:58.000Z"
         }
       }
     },
@@ -4703,7 +4703,7 @@
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-08T15:19:52.000Z"
+          "value": "2026-01-08T17:19:58.000Z"
         }
       }
     },
@@ -4713,8 +4713,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-08T14:27:08.616864",
-      "heure": "14:27:08",
+      "timestamp": "2026-01-08T16:27:39.367221",
+      "heure": "16:27:39",
       "cycle": 3,
       "test": true
     }
@@ -4732,11 +4732,11 @@
     },
     "availableSpotNumber": {
       "type": "Number",
-      "value": 58,
+      "value": 123,
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-08T15:19:52.000Z"
+          "value": "2026-01-08T17:19:58.000Z"
         }
       }
     },
@@ -4783,7 +4783,7 @@
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-08T15:19:52.000Z"
+          "value": "2026-01-08T17:19:58.000Z"
         }
       }
     },
@@ -4793,8 +4793,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-08T14:27:08.616864",
-      "heure": "14:27:08",
+      "timestamp": "2026-01-08T16:27:39.367221",
+      "heure": "16:27:39",
       "cycle": 3,
       "test": true
     }
@@ -4812,11 +4812,11 @@
     },
     "availableSpotNumber": {
       "type": "Number",
-      "value": 43,
+      "value": 90,
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-08T15:20:02.000Z"
+          "value": "2026-01-08T17:19:58.000Z"
         }
       }
     },
@@ -4863,7 +4863,7 @@
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-08T15:20:02.000Z"
+          "value": "2026-01-08T17:19:58.000Z"
         }
       }
     },
@@ -4873,8 +4873,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-08T14:27:08.616864",
-      "heure": "14:27:08",
+      "timestamp": "2026-01-08T16:27:39.367221",
+      "heure": "16:27:39",
       "cycle": 3,
       "test": true
     }
@@ -4892,11 +4892,11 @@
     },
     "availableSpotNumber": {
       "type": "Number",
-      "value": 142,
+      "value": 216,
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-08T15:20:02.000Z"
+          "value": "2026-01-08T17:19:58.000Z"
         }
       }
     },
@@ -4943,7 +4943,7 @@
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-08T15:20:02.000Z"
+          "value": "2026-01-08T17:19:58.000Z"
         }
       }
     },
@@ -4953,8 +4953,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-08T14:27:08.616864",
-      "heure": "14:27:08",
+      "timestamp": "2026-01-08T16:27:39.367221",
+      "heure": "16:27:39",
       "cycle": 3,
       "test": true
     }
@@ -4972,11 +4972,11 @@
     },
     "availableSpotNumber": {
       "type": "Number",
-      "value": 172,
+      "value": 194,
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-08T15:19:52.000Z"
+          "value": "2026-01-08T17:19:58.000Z"
         }
       }
     },
@@ -5023,7 +5023,7 @@
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-08T15:19:52.000Z"
+          "value": "2026-01-08T17:19:58.000Z"
         }
       }
     },
@@ -5033,8 +5033,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-08T14:27:08.616864",
-      "heure": "14:27:08",
+      "timestamp": "2026-01-08T16:27:39.367221",
+      "heure": "16:27:39",
       "cycle": 3,
       "test": true
     }
@@ -5052,11 +5052,11 @@
     },
     "availableSpotNumber": {
       "type": "Number",
-      "value": 10,
+      "value": 43,
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-08T15:20:02.000Z"
+          "value": "2026-01-08T17:19:58.000Z"
         }
       }
     },
@@ -5103,7 +5103,7 @@
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-08T15:20:02.000Z"
+          "value": "2026-01-08T17:19:58.000Z"
         }
       }
     },
@@ -5113,8 +5113,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-08T14:27:08.616864",
-      "heure": "14:27:08",
+      "timestamp": "2026-01-08T16:27:39.367221",
+      "heure": "16:27:39",
       "cycle": 3,
       "test": true
     }
@@ -5132,11 +5132,11 @@
     },
     "availableSpotNumber": {
       "type": "Number",
-      "value": 170,
+      "value": 303,
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-08T15:20:02.000Z"
+          "value": "2026-01-08T17:19:58.000Z"
         }
       }
     },
@@ -5183,7 +5183,7 @@
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-08T15:20:02.000Z"
+          "value": "2026-01-08T17:19:58.000Z"
         }
       }
     },
@@ -5193,8 +5193,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-08T14:27:08.616864",
-      "heure": "14:27:08",
+      "timestamp": "2026-01-08T16:27:39.367221",
+      "heure": "16:27:39",
       "cycle": 3,
       "test": true
     }
@@ -5212,11 +5212,11 @@
     },
     "availableSpotNumber": {
       "type": "Number",
-      "value": 16,
+      "value": 18,
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-08T15:20:07.000Z"
+          "value": "2026-01-08T17:20:06.000Z"
         }
       }
     },
@@ -5263,7 +5263,7 @@
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-08T15:20:07.000Z"
+          "value": "2026-01-08T17:20:06.000Z"
         }
       }
     },
@@ -5273,8 +5273,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-08T14:27:08.616864",
-      "heure": "14:27:08",
+      "timestamp": "2026-01-08T16:27:39.367221",
+      "heure": "16:27:39",
       "cycle": 3,
       "test": true
     }
@@ -5353,8 +5353,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-08T14:27:08.616864",
-      "heure": "14:27:08",
+      "timestamp": "2026-01-08T16:27:39.367221",
+      "heure": "16:27:39",
       "cycle": 3,
       "test": true
     }
@@ -5433,8 +5433,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-08T14:27:08.616864",
-      "heure": "14:27:08",
+      "timestamp": "2026-01-08T16:27:39.367221",
+      "heure": "16:27:39",
       "cycle": 3,
       "test": true
     }
@@ -5452,11 +5452,11 @@
     },
     "availableSpotNumber": {
       "type": "Number",
-      "value": 111,
+      "value": 126,
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-08T15:20:02.000Z"
+          "value": "2026-01-08T17:19:58.000Z"
         }
       }
     },
@@ -5503,7 +5503,7 @@
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-08T15:20:02.000Z"
+          "value": "2026-01-08T17:19:58.000Z"
         }
       }
     },
@@ -5513,8 +5513,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-08T14:27:08.616864",
-      "heure": "14:27:08",
+      "timestamp": "2026-01-08T16:27:39.367221",
+      "heure": "16:27:39",
       "cycle": 3,
       "test": true
     }
@@ -5593,8 +5593,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-08T14:27:08.616864",
-      "heure": "14:27:08",
+      "timestamp": "2026-01-08T16:27:39.367221",
+      "heure": "16:27:39",
       "cycle": 3,
       "test": true
     }
@@ -5612,11 +5612,11 @@
     },
     "availableSpotNumber": {
       "type": "Number",
-      "value": 25,
+      "value": 58,
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-08T15:20:21.000Z"
+          "value": "2026-01-08T17:20:22.000Z"
         }
       }
     },
@@ -5663,7 +5663,7 @@
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-08T15:20:21.000Z"
+          "value": "2026-01-08T17:20:22.000Z"
         }
       }
     },
@@ -5673,8 +5673,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-08T14:27:08.616864",
-      "heure": "14:27:08",
+      "timestamp": "2026-01-08T16:27:39.367221",
+      "heure": "16:27:39",
       "cycle": 3,
       "test": true
     }
@@ -5753,8 +5753,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-08T14:27:08.616864",
-      "heure": "14:27:08",
+      "timestamp": "2026-01-08T16:27:39.367221",
+      "heure": "16:27:39",
       "cycle": 3,
       "test": true
     }
