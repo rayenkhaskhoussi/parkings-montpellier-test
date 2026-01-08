@@ -1,0 +1,5 @@
+# 📊 MAX COLLECTION - Day 08 (2026-01-08)
+
+## Collection Times Today:
+- LATEST
+- 01-09-52
