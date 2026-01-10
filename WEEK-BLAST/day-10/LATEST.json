@@ -12,11 +12,11 @@
     },
     "availableSpotNumber": {
       "type": "Number",
-      "value": 123,
+      "value": 100,
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-10T15:05:26.000Z"
+          "value": "2026-01-10T17:05:18.000Z"
         }
       }
     },
@@ -63,7 +63,7 @@
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-10T15:05:26.000Z"
+          "value": "2026-01-10T17:05:18.000Z"
         }
       }
     },
@@ -73,8 +73,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-10T14:11:26.536150",
-      "heure": "14:11:26",
+      "timestamp": "2026-01-10T16:13:39.089898",
+      "heure": "16:13:39",
       "cycle": 1,
       "test": true
     }
@@ -96,7 +96,7 @@
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-10T15:05:34.000Z"
+          "value": "2026-01-10T17:05:33.000Z"
         }
       }
     },
@@ -143,7 +143,7 @@
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-10T15:05:34.000Z"
+          "value": "2026-01-10T17:05:33.000Z"
         }
       }
     },
@@ -153,8 +153,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-10T14:11:26.536150",
-      "heure": "14:11:26",
+      "timestamp": "2026-01-10T16:13:39.089898",
+      "heure": "16:13:39",
       "cycle": 1,
       "test": true
     }
@@ -172,11 +172,11 @@
     },
     "availableSpotNumber": {
       "type": "Number",
-      "value": 120,
+      "value": 129,
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-10T15:05:26.000Z"
+          "value": "2026-01-10T17:05:18.000Z"
         }
       }
     },
@@ -223,7 +223,7 @@
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-10T15:05:26.000Z"
+          "value": "2026-01-10T17:05:18.000Z"
         }
       }
     },
@@ -233,8 +233,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-10T14:11:26.536150",
-      "heure": "14:11:26",
+      "timestamp": "2026-01-10T16:13:39.089898",
+      "heure": "16:13:39",
       "cycle": 1,
       "test": true
     }
@@ -252,11 +252,11 @@
     },
     "availableSpotNumber": {
       "type": "Number",
-      "value": 435,
+      "value": 405,
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-10T15:05:26.000Z"
+          "value": "2026-01-10T17:05:18.000Z"
         }
       }
     },
@@ -303,7 +303,7 @@
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-10T15:05:26.000Z"
+          "value": "2026-01-10T17:05:18.000Z"
         }
       }
     },
@@ -313,8 +313,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-10T14:11:26.536150",
-      "heure": "14:11:26",
+      "timestamp": "2026-01-10T16:13:39.089898",
+      "heure": "16:13:39",
       "cycle": 1,
       "test": true
     }
@@ -332,11 +332,11 @@
     },
     "availableSpotNumber": {
       "type": "Number",
-      "value": 418,
+      "value": 464,
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-10T15:05:44.000Z"
+          "value": "2026-01-10T17:05:37.000Z"
         }
       }
     },
@@ -383,7 +383,7 @@
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-10T15:05:44.000Z"
+          "value": "2026-01-10T17:05:37.000Z"
         }
       }
     },
@@ -393,8 +393,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-10T14:11:26.536150",
-      "heure": "14:11:26",
+      "timestamp": "2026-01-10T16:13:39.089898",
+      "heure": "16:13:39",
       "cycle": 1,
       "test": true
     }
@@ -412,11 +412,11 @@
     },
     "availableSpotNumber": {
       "type": "Number",
-      "value": 151,
+      "value": 152,
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-10T15:05:26.000Z"
+          "value": "2026-01-10T17:05:18.000Z"
         }
       }
     },
@@ -463,7 +463,7 @@
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-10T15:05:26.000Z"
+          "value": "2026-01-10T17:05:18.000Z"
         }
       }
     },
@@ -473,8 +473,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-10T14:11:26.536150",
-      "heure": "14:11:26",
+      "timestamp": "2026-01-10T16:13:39.089898",
+      "heure": "16:13:39",
       "cycle": 1,
       "test": true
     }
@@ -492,11 +492,11 @@
     },
     "availableSpotNumber": {
       "type": "Number",
-      "value": 364,
+      "value": 383,
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-10T15:05:08.000Z"
+          "value": "2026-01-10T17:05:09.000Z"
         }
       }
     },
@@ -543,7 +543,7 @@
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-10T15:05:08.000Z"
+          "value": "2026-01-10T17:05:09.000Z"
         }
       }
     },
@@ -553,8 +553,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-10T14:11:26.536150",
-      "heure": "14:11:26",
+      "timestamp": "2026-01-10T16:13:39.089898",
+      "heure": "16:13:39",
       "cycle": 1,
       "test": true
     }
@@ -633,8 +633,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-10T14:11:26.536150",
-      "heure": "14:11:26",
+      "timestamp": "2026-01-10T16:13:39.089898",
+      "heure": "16:13:39",
       "cycle": 1,
       "test": true
     }
@@ -713,8 +713,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-10T14:11:26.536150",
-      "heure": "14:11:26",
+      "timestamp": "2026-01-10T16:13:39.089898",
+      "heure": "16:13:39",
       "cycle": 1,
       "test": true
     }
@@ -732,11 +732,11 @@
     },
     "availableSpotNumber": {
       "type": "Number",
-      "value": 778,
+      "value": 707,
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-10T15:05:05.000Z"
+          "value": "2026-01-10T17:05:05.000Z"
         }
       }
     },
@@ -783,7 +783,7 @@
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-10T15:05:05.000Z"
+          "value": "2026-01-10T17:05:05.000Z"
         }
       }
     },
@@ -793,8 +793,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-10T14:11:26.536150",
-      "heure": "14:11:26",
+      "timestamp": "2026-01-10T16:13:39.089898",
+      "heure": "16:13:39",
       "cycle": 1,
       "test": true
     }
@@ -812,11 +812,11 @@
     },
     "availableSpotNumber": {
       "type": "Number",
-      "value": 359,
+      "value": 352,
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-10T15:05:05.000Z"
+          "value": "2026-01-10T17:05:05.000Z"
         }
       }
     },
@@ -863,7 +863,7 @@
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-10T15:05:05.000Z"
+          "value": "2026-01-10T17:05:05.000Z"
         }
       }
     },
@@ -873,3849 +873,9 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-10T14:11:26.536150",
-      "heure": "14:11:26",
+      "timestamp": "2026-01-10T16:13:39.089898",
+      "heure": "16:13:39",
       "cycle": 1,
-      "test": true
-    }
-  },
-  {
-    "id": "urn:ngsi-ld:parking:013",
-    "type": "OffStreetParking",
-    "allowedVehicleType": {
-      "type": "StructuredValue",
-      "value": [
-        "car",
-        "moped"
-      ],
-      "metadata": {}
-    },
-    "availableSpotNumber": {
-      "type": "Number",
-      "value": 181,
-      "metadata": {
-        "timestamp": {
-          "type": "DateTime",
-          "value": "2026-01-10T15:05:05.000Z"
-        }
-      }
-    },
-    "category": {
-      "type": "StructuredValue",
-      "value": [
-        "feeCharged",
-        "barrierAccess",
-        "underground"
-      ],
-      "metadata": {}
-    },
-    "layout": {
-      "type": "StructuredValue",
-      "value": [
-        "multiLevel"
-      ],
-      "metadata": {}
-    },
-    "location": {
-      "type": "geo:json",
-      "value": {
-        "type": "Point",
-        "coordinates": [
-          3.81966554,
-          43.61623716
-        ]
-      },
-      "metadata": {}
-    },
-    "name": {
-      "type": "Text",
-      "value": "Mosson",
-      "metadata": {}
-    },
-    "requiredPermit": {
-      "type": "Text",
-      "value": "noPermitNeeded",
-      "metadata": {}
-    },
-    "status": {
-      "type": "Text",
-      "value": "Open",
-      "metadata": {
-        "timestamp": {
-          "type": "DateTime",
-          "value": "2026-01-10T15:05:05.000Z"
-        }
-      }
-    },
-    "totalSpotNumber": {
-      "type": "Number",
-      "value": 328,
-      "metadata": {}
-    },
-    "collecte": {
-      "timestamp": "2026-01-10T14:11:26.536150",
-      "heure": "14:11:26",
-      "cycle": 1,
-      "test": true
-    }
-  },
-  {
-    "id": "urn:ngsi-ld:parking:014",
-    "type": "OffStreetParking",
-    "allowedVehicleType": {
-      "type": "StructuredValue",
-      "value": [
-        "car",
-        "moped"
-      ],
-      "metadata": {}
-    },
-    "availableSpotNumber": {
-      "type": "Number",
-      "value": 121,
-      "metadata": {
-        "timestamp": {
-          "type": "DateTime",
-          "value": "2026-01-10T15:05:05.000Z"
-        }
-      }
-    },
-    "category": {
-      "type": "StructuredValue",
-      "value": [
-        "feeCharged",
-        "barrierAccess",
-        "underground"
-      ],
-      "metadata": {}
-    },
-    "layout": {
-      "type": "StructuredValue",
-      "value": [
-        "multiLevel"
-      ],
-      "metadata": {}
-    },
-    "location": {
-      "type": "geo:json",
-      "value": {
-        "type": "Point",
-        "coordinates": [
-          3.8602246,
-          43.58383263
-        ]
-      },
-      "metadata": {}
-    },
-    "name": {
-      "type": "Text",
-      "value": "Sabines",
-      "metadata": {}
-    },
-    "requiredPermit": {
-      "type": "Text",
-      "value": "noPermitNeeded",
-      "metadata": {}
-    },
-    "status": {
-      "type": "Text",
-      "value": "Open",
-      "metadata": {
-        "timestamp": {
-          "type": "DateTime",
-          "value": "2026-01-10T15:05:05.000Z"
-        }
-      }
-    },
-    "totalSpotNumber": {
-      "type": "Number",
-      "value": 285,
-      "metadata": {}
-    },
-    "collecte": {
-      "timestamp": "2026-01-10T14:11:26.536150",
-      "heure": "14:11:26",
-      "cycle": 1,
-      "test": true
-    }
-  },
-  {
-    "id": "urn:ngsi-ld:parking:015",
-    "type": "OffStreetParking",
-    "allowedVehicleType": {
-      "type": "StructuredValue",
-      "value": [
-        "car",
-        "moped"
-      ],
-      "metadata": {}
-    },
-    "availableSpotNumber": {
-      "type": "Number",
-      "value": 270,
-      "metadata": {
-        "timestamp": {
-          "type": "DateTime",
-          "value": "2026-01-10T15:05:05.000Z"
-        }
-      }
-    },
-    "category": {
-      "type": "StructuredValue",
-      "value": [
-        "feeCharged",
-        "barrierAccess",
-        "underground"
-      ],
-      "metadata": {}
-    },
-    "layout": {
-      "type": "StructuredValue",
-      "value": [
-        "multiLevel"
-      ],
-      "metadata": {}
-    },
-    "location": {
-      "type": "geo:json",
-      "value": {
-        "type": "Point",
-        "coordinates": [
-          3.92229536,
-          43.63419194
-        ]
-      },
-      "metadata": {}
-    },
-    "name": {
-      "type": "Text",
-      "value": "Sablassou",
-      "metadata": {}
-    },
-    "requiredPermit": {
-      "type": "Text",
-      "value": "noPermitNeeded",
-      "metadata": {}
-    },
-    "status": {
-      "type": "Text",
-      "value": "Open",
-      "metadata": {
-        "timestamp": {
-          "type": "DateTime",
-          "value": "2026-01-10T15:05:05.000Z"
-        }
-      }
-    },
-    "totalSpotNumber": {
-      "type": "Number",
-      "value": 379,
-      "metadata": {}
-    },
-    "collecte": {
-      "timestamp": "2026-01-10T14:11:26.536150",
-      "heure": "14:11:26",
-      "cycle": 1,
-      "test": true
-    }
-  },
-  {
-    "id": "urn:ngsi-ld:parking:016",
-    "type": "OffStreetParking",
-    "allowedVehicleType": {
-      "type": "StructuredValue",
-      "value": [
-        "car",
-        "moped"
-      ],
-      "metadata": {}
-    },
-    "availableSpotNumber": {
-      "type": "Number",
-      "value": 202,
-      "metadata": {
-        "timestamp": {
-          "type": "DateTime",
-          "value": "2026-01-10T15:05:05.000Z"
-        }
-      }
-    },
-    "category": {
-      "type": "StructuredValue",
-      "value": [
-        "feeCharged",
-        "barrierAccess",
-        "underground"
-      ],
-      "metadata": {}
-    },
-    "layout": {
-      "type": "StructuredValue",
-      "value": [
-        "multiLevel"
-      ],
-      "metadata": {}
-    },
-    "location": {
-      "type": "geo:json",
-      "value": {
-        "type": "Point",
-        "coordinates": [
-          3.8379312,
-          43.57082225
-        ]
-      },
-      "metadata": {}
-    },
-    "name": {
-      "type": "Text",
-      "value": "Saint Jean Le Sec",
-      "metadata": {}
-    },
-    "requiredPermit": {
-      "type": "Text",
-      "value": "noPermitNeeded",
-      "metadata": {}
-    },
-    "status": {
-      "type": "Text",
-      "value": "Open",
-      "metadata": {
-        "timestamp": {
-          "type": "DateTime",
-          "value": "2026-01-10T15:05:05.000Z"
-        }
-      }
-    },
-    "totalSpotNumber": {
-      "type": "Number",
-      "value": 285,
-      "metadata": {}
-    },
-    "collecte": {
-      "timestamp": "2026-01-10T14:11:26.536150",
-      "heure": "14:11:26",
-      "cycle": 1,
-      "test": true
-    }
-  },
-  {
-    "id": "urn:ngsi-ld:parking:017",
-    "type": "OffStreetParking",
-    "allowedVehicleType": {
-      "type": "StructuredValue",
-      "value": [
-        "car",
-        "moped"
-      ],
-      "metadata": {}
-    },
-    "availableSpotNumber": {
-      "type": "Number",
-      "value": 55,
-      "metadata": {
-        "timestamp": {
-          "type": "DateTime",
-          "value": "2026-01-10T15:05:05.000Z"
-        }
-      }
-    },
-    "category": {
-      "type": "StructuredValue",
-      "value": [
-        "feeCharged",
-        "barrierAccess",
-        "underground"
-      ],
-      "metadata": {}
-    },
-    "layout": {
-      "type": "StructuredValue",
-      "value": [
-        "multiLevel"
-      ],
-      "metadata": {}
-    },
-    "location": {
-      "type": "geo:json",
-      "value": {
-        "type": "Point",
-        "coordinates": [
-          3.82772365,
-          43.63895359
-        ]
-      },
-      "metadata": {}
-    },
-    "name": {
-      "type": "Text",
-      "value": "Euromedecine",
-      "metadata": {}
-    },
-    "requiredPermit": {
-      "type": "Text",
-      "value": "noPermitNeeded",
-      "metadata": {}
-    },
-    "status": {
-      "type": "Text",
-      "value": "Open",
-      "metadata": {
-        "timestamp": {
-          "type": "DateTime",
-          "value": "2026-01-10T15:05:05.000Z"
-        }
-      }
-    },
-    "totalSpotNumber": {
-      "type": "Number",
-      "value": 239,
-      "metadata": {}
-    },
-    "collecte": {
-      "timestamp": "2026-01-10T14:11:26.536150",
-      "heure": "14:11:26",
-      "cycle": 1,
-      "test": true
-    }
-  },
-  {
-    "id": "urn:ngsi-ld:parking:018",
-    "type": "OffStreetParking",
-    "allowedVehicleType": {
-      "type": "StructuredValue",
-      "value": [
-        "car",
-        "moped"
-      ],
-      "metadata": {}
-    },
-    "availableSpotNumber": {
-      "type": "Number",
-      "value": 377,
-      "metadata": {
-        "timestamp": {
-          "type": "DateTime",
-          "value": "2026-01-10T15:05:05.000Z"
-        }
-      }
-    },
-    "category": {
-      "type": "StructuredValue",
-      "value": [
-        "feeCharged",
-        "barrierAccess",
-        "underground"
-      ],
-      "metadata": {}
-    },
-    "layout": {
-      "type": "StructuredValue",
-      "value": [
-        "multiLevel"
-      ],
-      "metadata": {}
-    },
-    "location": {
-      "type": "geo:json",
-      "value": {
-        "type": "Point",
-        "coordinates": [
-          3.84859796,
-          43.63456232
-        ]
-      },
-      "metadata": {}
-    },
-    "name": {
-      "type": "Text",
-      "value": "Occitanie",
-      "metadata": {}
-    },
-    "requiredPermit": {
-      "type": "Text",
-      "value": "noPermitNeeded",
-      "metadata": {}
-    },
-    "status": {
-      "type": "Text",
-      "value": "Open",
-      "metadata": {
-        "timestamp": {
-          "type": "DateTime",
-          "value": "2026-01-10T15:05:05.000Z"
-        }
-      }
-    },
-    "totalSpotNumber": {
-      "type": "Number",
-      "value": 615,
-      "metadata": {}
-    },
-    "collecte": {
-      "timestamp": "2026-01-10T14:11:26.536150",
-      "heure": "14:11:26",
-      "cycle": 1,
-      "test": true
-    }
-  },
-  {
-    "id": "urn:ngsi-ld:parking:019",
-    "type": "OffStreetParking",
-    "allowedVehicleType": {
-      "type": "StructuredValue",
-      "value": [
-        "car",
-        "moped"
-      ],
-      "metadata": {}
-    },
-    "availableSpotNumber": {
-      "type": "Number",
-      "value": 45,
-      "metadata": {
-        "timestamp": {
-          "type": "DateTime",
-          "value": "2026-01-10T15:05:33.000Z"
-        }
-      }
-    },
-    "category": {
-      "type": "StructuredValue",
-      "value": [
-        "feeCharged",
-        "barrierAccess",
-        "underground"
-      ],
-      "metadata": {}
-    },
-    "layout": {
-      "type": "StructuredValue",
-      "value": [
-        "multiLevel"
-      ],
-      "metadata": {}
-    },
-    "location": {
-      "type": "geo:json",
-      "value": {
-        "type": "Point",
-        "coordinates": [
-          3.898411,
-          43.63286
-        ]
-      },
-      "metadata": {}
-    },
-    "name": {
-      "type": "Text",
-      "value": "Vicarello",
-      "metadata": {}
-    },
-    "requiredPermit": {
-      "type": "Text",
-      "value": "noPermitNeeded",
-      "metadata": {}
-    },
-    "status": {
-      "type": "Text",
-      "value": "Open",
-      "metadata": {
-        "timestamp": {
-          "type": "DateTime",
-          "value": "2026-01-10T15:05:33.000Z"
-        }
-      }
-    },
-    "totalSpotNumber": {
-      "type": "Number",
-      "value": 64,
-      "metadata": {}
-    },
-    "collecte": {
-      "timestamp": "2026-01-10T14:11:26.536150",
-      "heure": "14:11:26",
-      "cycle": 1,
-      "test": true
-    }
-  },
-  {
-    "id": "urn:ngsi-ld:parking:020",
-    "type": "OffStreetParking",
-    "allowedVehicleType": {
-      "type": "StructuredValue",
-      "value": [
-        "car",
-        "moped"
-      ],
-      "metadata": {}
-    },
-    "availableSpotNumber": {
-      "type": "Number",
-      "value": 74,
-      "metadata": {
-        "timestamp": {
-          "type": "DateTime",
-          "value": "2025-12-23T15:36:31.000Z"
-        }
-      }
-    },
-    "category": {
-      "type": "StructuredValue",
-      "value": [
-        "feeCharged",
-        "barrierAccess",
-        "underground"
-      ],
-      "metadata": {}
-    },
-    "layout": {
-      "type": "StructuredValue",
-      "value": [
-        "multiLevel"
-      ],
-      "metadata": {}
-    },
-    "location": {
-      "type": "geo:json",
-      "value": {
-        "type": "Point",
-        "coordinates": [
-          3.91529,
-          43.604526
-        ]
-      },
-      "metadata": {}
-    },
-    "name": {
-      "type": "Text",
-      "value": "Gaumont EST",
-      "metadata": {}
-    },
-    "requiredPermit": {
-      "type": "Text",
-      "value": "noPermitNeeded",
-      "metadata": {}
-    },
-    "status": {
-      "type": "Text",
-      "value": "Open",
-      "metadata": {
-        "timestamp": {
-          "type": "DateTime",
-          "value": "2025-12-23T15:36:31.000Z"
-        }
-      }
-    },
-    "totalSpotNumber": {
-      "type": "Number",
-      "value": 109,
-      "metadata": {}
-    },
-    "collecte": {
-      "timestamp": "2026-01-10T14:11:26.536150",
-      "heure": "14:11:26",
-      "cycle": 1,
-      "test": true
-    }
-  },
-  {
-    "id": "urn:ngsi-ld:parking:021",
-    "type": "OffStreetParking",
-    "allowedVehicleType": {
-      "type": "StructuredValue",
-      "value": [
-        "car",
-        "moped"
-      ],
-      "metadata": {}
-    },
-    "availableSpotNumber": {
-      "type": "Number",
-      "value": 5,
-      "metadata": {
-        "timestamp": {
-          "type": "DateTime",
-          "value": "2025-12-23T15:36:31.000Z"
-        }
-      }
-    },
-    "category": {
-      "type": "StructuredValue",
-      "value": [
-        "feeCharged",
-        "barrierAccess",
-        "underground"
-      ],
-      "metadata": {}
-    },
-    "layout": {
-      "type": "StructuredValue",
-      "value": [
-        "multiLevel"
-      ],
-      "metadata": {}
-    },
-    "location": {
-      "type": "geo:json",
-      "value": {
-        "type": "Point",
-        "coordinates": [
-          3.914158,
-          43.604824
-        ]
-      },
-      "metadata": {}
-    },
-    "name": {
-      "type": "Text",
-      "value": "Gaumont OUEST",
-      "metadata": {}
-    },
-    "requiredPermit": {
-      "type": "Text",
-      "value": "noPermitNeeded",
-      "metadata": {}
-    },
-    "status": {
-      "type": "Text",
-      "value": "Open",
-      "metadata": {
-        "timestamp": {
-          "type": "DateTime",
-          "value": "2025-12-23T15:36:31.000Z"
-        }
-      }
-    },
-    "totalSpotNumber": {
-      "type": "Number",
-      "value": 250,
-      "metadata": {}
-    },
-    "collecte": {
-      "timestamp": "2026-01-10T14:11:26.536150",
-      "heure": "14:11:26",
-      "cycle": 1,
-      "test": true
-    }
-  },
-  {
-    "id": "urn:ngsi-ld:parking:022",
-    "type": "OffStreetParking",
-    "allowedVehicleType": {
-      "type": "StructuredValue",
-      "value": [
-        "car",
-        "moped"
-      ],
-      "metadata": {}
-    },
-    "availableSpotNumber": {
-      "type": "Number",
-      "value": 170,
-      "metadata": {
-        "timestamp": {
-          "type": "DateTime",
-          "value": "2026-01-10T15:05:05.000Z"
-        }
-      }
-    },
-    "category": {
-      "type": "StructuredValue",
-      "value": [
-        "feeCharged",
-        "barrierAccess",
-        "underground"
-      ],
-      "metadata": {}
-    },
-    "layout": {
-      "type": "StructuredValue",
-      "value": [
-        "multiLevel"
-      ],
-      "metadata": {}
-    },
-    "location": {
-      "type": "geo:json",
-      "value": {
-        "type": "Point",
-        "coordinates": [
-          3.8977621,
-          43.6285421
-        ]
-      },
-      "metadata": {}
-    },
-    "name": {
-      "type": "Text",
-      "value": "Charles de Gaulle",
-      "metadata": {}
-    },
-    "requiredPermit": {
-      "type": "Text",
-      "value": "noPermitNeeded",
-      "metadata": {}
-    },
-    "status": {
-      "type": "Text",
-      "value": "Open",
-      "metadata": {
-        "timestamp": {
-          "type": "DateTime",
-          "value": "2026-01-10T15:05:05.000Z"
-        }
-      }
-    },
-    "totalSpotNumber": {
-      "type": "Number",
-      "value": 260,
-      "metadata": {}
-    },
-    "collecte": {
-      "timestamp": "2026-01-10T14:11:26.536150",
-      "heure": "14:11:26",
-      "cycle": 1,
-      "test": true
-    }
-  },
-  {
-    "id": "urn:ngsi-ld:parking:024",
-    "type": "OffStreetParking",
-    "allowedVehicleType": {
-      "type": "StructuredValue",
-      "value": [
-        "car",
-        "moped"
-      ],
-      "metadata": {}
-    },
-    "availableSpotNumber": {
-      "type": "Number",
-      "value": 1013,
-      "metadata": {
-        "timestamp": {
-          "type": "DateTime",
-          "value": "2025-12-31T16:42:19.099Z"
-        }
-      }
-    },
-    "category": {
-      "type": "StructuredValue",
-      "value": [
-        "feeCharged",
-        "barrierAccess",
-        "underground"
-      ],
-      "metadata": {}
-    },
-    "layout": {
-      "type": "StructuredValue",
-      "value": [
-        "multiLevel"
-      ],
-      "metadata": {}
-    },
-    "location": {
-      "type": "geo:json",
-      "value": {
-        "type": "Point",
-        "coordinates": [
-          3.88515,
-          43.607697
-        ]
-      },
-      "metadata": {}
-    },
-    "name": {
-      "type": "Text",
-      "value": "Polygone",
-      "metadata": {}
-    },
-    "requiredPermit": {
-      "type": "Text",
-      "value": "noPermitNeeded",
-      "metadata": {}
-    },
-    "status": {
-      "type": "Text",
-      "value": "Open",
-      "metadata": {
-        "timestamp": {
-          "type": "DateTime",
-          "value": "2025-12-31T16:42:19.099Z"
-        }
-      }
-    },
-    "totalSpotNumber": {
-      "type": "Number",
-      "value": 1911,
-      "metadata": {}
-    },
-    "collecte": {
-      "timestamp": "2026-01-10T14:11:26.536150",
-      "heure": "14:11:26",
-      "cycle": 1,
-      "test": true
-    }
-  },
-  {
-    "id": "urn:ngsi-ld:parking:002",
-    "type": "OffStreetParking",
-    "allowedVehicleType": {
-      "type": "StructuredValue",
-      "value": [
-        "car",
-        "moped"
-      ],
-      "metadata": {}
-    },
-    "availableSpotNumber": {
-      "type": "Number",
-      "value": 78,
-      "metadata": {
-        "timestamp": {
-          "type": "DateTime",
-          "value": "2026-01-10T15:05:14.000Z"
-        }
-      }
-    },
-    "category": {
-      "type": "StructuredValue",
-      "value": [
-        "feeCharged",
-        "barrierAccess",
-        "underground"
-      ],
-      "metadata": {}
-    },
-    "layout": {
-      "type": "StructuredValue",
-      "value": [
-        "multiLevel"
-      ],
-      "metadata": {}
-    },
-    "location": {
-      "type": "geo:json",
-      "value": {
-        "type": "Point",
-        "coordinates": [
-          3.8732007,
-          43.61100267
-        ]
-      },
-      "metadata": {}
-    },
-    "name": {
-      "type": "Text",
-      "value": "Arc de Triomphe",
-      "metadata": {}
-    },
-    "requiredPermit": {
-      "type": "Text",
-      "value": "noPermitNeeded",
-      "metadata": {}
-    },
-    "status": {
-      "type": "Text",
-      "value": "Open",
-      "metadata": {
-        "timestamp": {
-          "type": "DateTime",
-          "value": "2026-01-10T15:05:14.000Z"
-        }
-      }
-    },
-    "totalSpotNumber": {
-      "type": "Number",
-      "value": 440,
-      "metadata": {}
-    },
-    "collecte": {
-      "timestamp": "2026-01-10T14:11:26.536150",
-      "heure": "14:11:26",
-      "cycle": 1,
-      "test": true
-    }
-  },
-  {
-    "id": "urn:ngsi-ld:parking:025",
-    "type": "OffStreetParking",
-    "allowedVehicleType": {
-      "type": "StructuredValue",
-      "value": [
-        "car",
-        "moped"
-      ],
-      "metadata": {}
-    },
-    "availableSpotNumber": {
-      "type": "Number",
-      "value": 199,
-      "metadata": {
-        "timestamp": {
-          "type": "DateTime",
-          "value": "2025-12-23T15:36:31.000Z"
-        }
-      }
-    },
-    "category": {
-      "type": "StructuredValue",
-      "value": [
-        "feeCharged",
-        "barrierAccess",
-        "underground"
-      ],
-      "metadata": {}
-    },
-    "layout": {
-      "type": "StructuredValue",
-      "value": [
-        "multiLevel"
-      ],
-      "metadata": {}
-    },
-    "location": {
-      "type": "geo:json",
-      "value": {
-        "type": "Point",
-        "coordinates": [
-          3.9178495,
-          43.60495377
-        ]
-      },
-      "metadata": {}
-    },
-    "name": {
-      "type": "Text",
-      "value": "Gaumont-Circe",
-      "metadata": {}
-    },
-    "requiredPermit": {
-      "type": "Text",
-      "value": "noPermitNeeded",
-      "metadata": {}
-    },
-    "status": {
-      "type": "Text",
-      "value": "Open",
-      "metadata": {
-        "timestamp": {
-          "type": "DateTime",
-          "value": "2025-12-23T15:36:31.000Z"
-        }
-      }
-    },
-    "totalSpotNumber": {
-      "type": "Number",
-      "value": 500,
-      "metadata": {}
-    },
-    "collecte": {
-      "timestamp": "2026-01-10T14:11:26.536150",
-      "heure": "14:11:26",
-      "cycle": 1,
-      "test": true
-    }
-  },
-  {
-    "id": "urn:ngsi-ld:parking:001",
-    "type": "OffStreetParking",
-    "allowedVehicleType": {
-      "type": "StructuredValue",
-      "value": [
-        "car",
-        "moped"
-      ],
-      "metadata": {}
-    },
-    "availableSpotNumber": {
-      "type": "Number",
-      "value": 119,
-      "metadata": {
-        "timestamp": {
-          "type": "DateTime",
-          "value": "2026-01-10T15:10:20.000Z"
-        }
-      }
-    },
-    "category": {
-      "type": "StructuredValue",
-      "value": [
-        "feeCharged",
-        "barrierAccess",
-        "underground"
-      ],
-      "metadata": {}
-    },
-    "layout": {
-      "type": "StructuredValue",
-      "value": [
-        "multiLevel"
-      ],
-      "metadata": {}
-    },
-    "location": {
-      "type": "geo:json",
-      "value": {
-        "type": "Point",
-        "coordinates": [
-          3.88881893,
-          43.60871606
-        ]
-      },
-      "metadata": {}
-    },
-    "name": {
-      "type": "Text",
-      "value": "Antigone",
-      "metadata": {}
-    },
-    "requiredPermit": {
-      "type": "Text",
-      "value": "noPermitNeeded",
-      "metadata": {}
-    },
-    "status": {
-      "type": "Text",
-      "value": "Open",
-      "metadata": {
-        "timestamp": {
-          "type": "DateTime",
-          "value": "2026-01-10T15:10:20.000Z"
-        }
-      }
-    },
-    "totalSpotNumber": {
-      "type": "Number",
-      "value": 239,
-      "metadata": {}
-    },
-    "collecte": {
-      "timestamp": "2026-01-10T14:16:27.839018",
-      "heure": "14:16:27",
-      "cycle": 2,
-      "test": true
-    }
-  },
-  {
-    "id": "urn:ngsi-ld:parking:003",
-    "type": "OffStreetParking",
-    "allowedVehicleType": {
-      "type": "StructuredValue",
-      "value": [
-        "car",
-        "moped"
-      ],
-      "metadata": {}
-    },
-    "availableSpotNumber": {
-      "type": "Number",
-      "value": 123,
-      "metadata": {
-        "timestamp": {
-          "type": "DateTime",
-          "value": "2026-01-10T15:10:32.000Z"
-        }
-      }
-    },
-    "category": {
-      "type": "StructuredValue",
-      "value": [
-        "feeCharged",
-        "barrierAccess",
-        "underground"
-      ],
-      "metadata": {}
-    },
-    "layout": {
-      "type": "StructuredValue",
-      "value": [
-        "multiLevel"
-      ],
-      "metadata": {}
-    },
-    "location": {
-      "type": "geo:json",
-      "value": {
-        "type": "Point",
-        "coordinates": [
-          3.87976196,
-          43.60856092
-        ]
-      },
-      "metadata": {}
-    },
-    "name": {
-      "type": "Text",
-      "value": "Comedie",
-      "metadata": {}
-    },
-    "requiredPermit": {
-      "type": "Text",
-      "value": "noPermitNeeded",
-      "metadata": {}
-    },
-    "status": {
-      "type": "Text",
-      "value": "Open",
-      "metadata": {
-        "timestamp": {
-          "type": "DateTime",
-          "value": "2026-01-10T15:10:32.000Z"
-        }
-      }
-    },
-    "totalSpotNumber": {
-      "type": "Number",
-      "value": 664,
-      "metadata": {}
-    },
-    "collecte": {
-      "timestamp": "2026-01-10T14:16:27.839018",
-      "heure": "14:16:27",
-      "cycle": 2,
-      "test": true
-    }
-  },
-  {
-    "id": "urn:ngsi-ld:parking:004",
-    "type": "OffStreetParking",
-    "allowedVehicleType": {
-      "type": "StructuredValue",
-      "value": [
-        "car",
-        "moped"
-      ],
-      "metadata": {}
-    },
-    "availableSpotNumber": {
-      "type": "Number",
-      "value": 118,
-      "metadata": {
-        "timestamp": {
-          "type": "DateTime",
-          "value": "2026-01-10T15:10:20.000Z"
-        }
-      }
-    },
-    "category": {
-      "type": "StructuredValue",
-      "value": [
-        "feeCharged",
-        "barrierAccess",
-        "underground"
-      ],
-      "metadata": {}
-    },
-    "layout": {
-      "type": "StructuredValue",
-      "value": [
-        "multiLevel"
-      ],
-      "metadata": {}
-    },
-    "location": {
-      "type": "geo:json",
-      "value": {
-        "type": "Point",
-        "coordinates": [
-          3.88225773,
-          43.61388821
-        ]
-      },
-      "metadata": {}
-    },
-    "name": {
-      "type": "Text",
-      "value": "Corum",
-      "metadata": {}
-    },
-    "requiredPermit": {
-      "type": "Text",
-      "value": "noPermitNeeded",
-      "metadata": {}
-    },
-    "status": {
-      "type": "Text",
-      "value": "Open",
-      "metadata": {
-        "timestamp": {
-          "type": "DateTime",
-          "value": "2026-01-10T15:10:20.000Z"
-        }
-      }
-    },
-    "totalSpotNumber": {
-      "type": "Number",
-      "value": 480,
-      "metadata": {}
-    },
-    "collecte": {
-      "timestamp": "2026-01-10T14:16:27.839018",
-      "heure": "14:16:27",
-      "cycle": 2,
-      "test": true
-    }
-  },
-  {
-    "id": "urn:ngsi-ld:parking:005",
-    "type": "OffStreetParking",
-    "allowedVehicleType": {
-      "type": "StructuredValue",
-      "value": [
-        "car",
-        "moped"
-      ],
-      "metadata": {}
-    },
-    "availableSpotNumber": {
-      "type": "Number",
-      "value": 433,
-      "metadata": {
-        "timestamp": {
-          "type": "DateTime",
-          "value": "2026-01-10T15:10:20.000Z"
-        }
-      }
-    },
-    "category": {
-      "type": "StructuredValue",
-      "value": [
-        "feeCharged",
-        "barrierAccess",
-        "underground"
-      ],
-      "metadata": {}
-    },
-    "layout": {
-      "type": "StructuredValue",
-      "value": [
-        "multiLevel"
-      ],
-      "metadata": {}
-    },
-    "location": {
-      "type": "geo:json",
-      "value": {
-        "type": "Point",
-        "coordinates": [
-          3.89253074,
-          43.60784971
-        ]
-      },
-      "metadata": {}
-    },
-    "name": {
-      "type": "Text",
-      "value": "Europa",
-      "metadata": {}
-    },
-    "requiredPermit": {
-      "type": "Text",
-      "value": "noPermitNeeded",
-      "metadata": {}
-    },
-    "status": {
-      "type": "Text",
-      "value": "Open",
-      "metadata": {
-        "timestamp": {
-          "type": "DateTime",
-          "value": "2026-01-10T15:10:20.000Z"
-        }
-      }
-    },
-    "totalSpotNumber": {
-      "type": "Number",
-      "value": 591,
-      "metadata": {}
-    },
-    "collecte": {
-      "timestamp": "2026-01-10T14:16:27.839018",
-      "heure": "14:16:27",
-      "cycle": 2,
-      "test": true
-    }
-  },
-  {
-    "id": "urn:ngsi-ld:parking:006",
-    "type": "OffStreetParking",
-    "allowedVehicleType": {
-      "type": "StructuredValue",
-      "value": [
-        "car",
-        "moped"
-      ],
-      "metadata": {}
-    },
-    "availableSpotNumber": {
-      "type": "Number",
-      "value": 419,
-      "metadata": {
-        "timestamp": {
-          "type": "DateTime",
-          "value": "2026-01-10T15:10:38.000Z"
-        }
-      }
-    },
-    "category": {
-      "type": "StructuredValue",
-      "value": [
-        "feeCharged",
-        "barrierAccess",
-        "underground"
-      ],
-      "metadata": {}
-    },
-    "layout": {
-      "type": "StructuredValue",
-      "value": [
-        "multiLevel"
-      ],
-      "metadata": {}
-    },
-    "location": {
-      "type": "geo:json",
-      "value": {
-        "type": "Point",
-        "coordinates": [
-          3.87657084,
-          43.61074912
-        ]
-      },
-      "metadata": {}
-    },
-    "name": {
-      "type": "Text",
-      "value": "Foch",
-      "metadata": {}
-    },
-    "requiredPermit": {
-      "type": "Text",
-      "value": "noPermitNeeded",
-      "metadata": {}
-    },
-    "status": {
-      "type": "Text",
-      "value": "Open",
-      "metadata": {
-        "timestamp": {
-          "type": "DateTime",
-          "value": "2026-01-10T15:10:38.000Z"
-        }
-      }
-    },
-    "totalSpotNumber": {
-      "type": "Number",
-      "value": 620,
-      "metadata": {}
-    },
-    "collecte": {
-      "timestamp": "2026-01-10T14:16:27.839018",
-      "heure": "14:16:27",
-      "cycle": 2,
-      "test": true
-    }
-  },
-  {
-    "id": "urn:ngsi-ld:parking:007",
-    "type": "OffStreetParking",
-    "allowedVehicleType": {
-      "type": "StructuredValue",
-      "value": [
-        "car",
-        "moped"
-      ],
-      "metadata": {}
-    },
-    "availableSpotNumber": {
-      "type": "Number",
-      "value": 150,
-      "metadata": {
-        "timestamp": {
-          "type": "DateTime",
-          "value": "2026-01-10T15:10:20.000Z"
-        }
-      }
-    },
-    "category": {
-      "type": "StructuredValue",
-      "value": [
-        "feeCharged",
-        "barrierAccess",
-        "underground"
-      ],
-      "metadata": {}
-    },
-    "layout": {
-      "type": "StructuredValue",
-      "value": [
-        "multiLevel"
-      ],
-      "metadata": {}
-    },
-    "location": {
-      "type": "geo:json",
-      "value": {
-        "type": "Point",
-        "coordinates": [
-          3.87137436,
-          43.60695138
-        ]
-      },
-      "metadata": {}
-    },
-    "name": {
-      "type": "Text",
-      "value": "Gambetta",
-      "metadata": {}
-    },
-    "requiredPermit": {
-      "type": "Text",
-      "value": "noPermitNeeded",
-      "metadata": {}
-    },
-    "status": {
-      "type": "Text",
-      "value": "Open",
-      "metadata": {
-        "timestamp": {
-          "type": "DateTime",
-          "value": "2026-01-10T15:10:20.000Z"
-        }
-      }
-    },
-    "totalSpotNumber": {
-      "type": "Number",
-      "value": 452,
-      "metadata": {}
-    },
-    "collecte": {
-      "timestamp": "2026-01-10T14:16:27.839018",
-      "heure": "14:16:27",
-      "cycle": 2,
-      "test": true
-    }
-  },
-  {
-    "id": "urn:ngsi-ld:parking:008",
-    "type": "OffStreetParking",
-    "allowedVehicleType": {
-      "type": "StructuredValue",
-      "value": [
-        "car",
-        "moped"
-      ],
-      "metadata": {}
-    },
-    "availableSpotNumber": {
-      "type": "Number",
-      "value": 371,
-      "metadata": {
-        "timestamp": {
-          "type": "DateTime",
-          "value": "2026-01-10T15:10:08.000Z"
-        }
-      }
-    },
-    "category": {
-      "type": "StructuredValue",
-      "value": [
-        "feeCharged",
-        "barrierAccess",
-        "underground"
-      ],
-      "metadata": {}
-    },
-    "layout": {
-      "type": "StructuredValue",
-      "value": [
-        "multiLevel"
-      ],
-      "metadata": {}
-    },
-    "location": {
-      "type": "geo:json",
-      "value": {
-        "type": "Point",
-        "coordinates": [
-          3.87891,
-          43.604024
-        ]
-      },
-      "metadata": {}
-    },
-    "name": {
-      "type": "Text",
-      "value": "Gare",
-      "metadata": {}
-    },
-    "requiredPermit": {
-      "type": "Text",
-      "value": "noPermitNeeded",
-      "metadata": {}
-    },
-    "status": {
-      "type": "Text",
-      "value": "Open",
-      "metadata": {
-        "timestamp": {
-          "type": "DateTime",
-          "value": "2026-01-10T15:10:08.000Z"
-        }
-      }
-    },
-    "totalSpotNumber": {
-      "type": "Number",
-      "value": 656,
-      "metadata": {}
-    },
-    "collecte": {
-      "timestamp": "2026-01-10T14:16:27.839018",
-      "heure": "14:16:27",
-      "cycle": 2,
-      "test": true
-    }
-  },
-  {
-    "id": "urn:ngsi-ld:parking:009",
-    "type": "OffStreetParking",
-    "allowedVehicleType": {
-      "type": "StructuredValue",
-      "value": [
-        "car",
-        "moped"
-      ],
-      "metadata": {}
-    },
-    "availableSpotNumber": {
-      "type": "Number",
-      "value": 274,
-      "metadata": {
-        "timestamp": {
-          "type": "DateTime",
-          "value": "2025-12-31T16:39:58.000Z"
-        }
-      }
-    },
-    "category": {
-      "type": "StructuredValue",
-      "value": [
-        "feeCharged",
-        "barrierAccess",
-        "underground"
-      ],
-      "metadata": {}
-    },
-    "layout": {
-      "type": "StructuredValue",
-      "value": [
-        "multiLevel"
-      ],
-      "metadata": {}
-    },
-    "location": {
-      "type": "geo:json",
-      "value": {
-        "type": "Point",
-        "coordinates": [
-          3.88184418,
-          43.60923384
-        ]
-      },
-      "metadata": {}
-    },
-    "name": {
-      "type": "Text",
-      "value": "Triangle",
-      "metadata": {}
-    },
-    "requiredPermit": {
-      "type": "Text",
-      "value": "noPermitNeeded",
-      "metadata": {}
-    },
-    "status": {
-      "type": "Text",
-      "value": "Open",
-      "metadata": {
-        "timestamp": {
-          "type": "DateTime",
-          "value": "2025-12-31T16:39:58.000Z"
-        }
-      }
-    },
-    "totalSpotNumber": {
-      "type": "Number",
-      "value": 434,
-      "metadata": {}
-    },
-    "collecte": {
-      "timestamp": "2026-01-10T14:16:27.839018",
-      "heure": "14:16:27",
-      "cycle": 2,
-      "test": true
-    }
-  },
-  {
-    "id": "urn:ngsi-ld:parking:010",
-    "type": "OffStreetParking",
-    "allowedVehicleType": {
-      "type": "StructuredValue",
-      "value": [
-        "car",
-        "moped"
-      ],
-      "metadata": {}
-    },
-    "availableSpotNumber": {
-      "type": "Number",
-      "value": 403,
-      "metadata": {
-        "timestamp": {
-          "type": "DateTime",
-          "value": "2025-12-31T16:40:32.000Z"
-        }
-      }
-    },
-    "category": {
-      "type": "StructuredValue",
-      "value": [
-        "feeCharged",
-        "barrierAccess",
-        "underground"
-      ],
-      "metadata": {}
-    },
-    "layout": {
-      "type": "StructuredValue",
-      "value": [
-        "multiLevel"
-      ],
-      "metadata": {}
-    },
-    "location": {
-      "type": "geo:json",
-      "value": {
-        "type": "Point",
-        "coordinates": [
-          3.87019117,
-          43.61224494
-        ]
-      },
-      "metadata": {}
-    },
-    "name": {
-      "type": "Text",
-      "value": "Pitot",
-      "metadata": {}
-    },
-    "requiredPermit": {
-      "type": "Text",
-      "value": "noPermitNeeded",
-      "metadata": {}
-    },
-    "status": {
-      "type": "Text",
-      "value": "Open",
-      "metadata": {
-        "timestamp": {
-          "type": "DateTime",
-          "value": "2025-12-31T16:40:32.000Z"
-        }
-      }
-    },
-    "totalSpotNumber": {
-      "type": "Number",
-      "value": 590,
-      "metadata": {}
-    },
-    "collecte": {
-      "timestamp": "2026-01-10T14:16:27.839018",
-      "heure": "14:16:27",
-      "cycle": 2,
-      "test": true
-    }
-  },
-  {
-    "id": "urn:ngsi-ld:parking:011",
-    "type": "OffStreetParking",
-    "allowedVehicleType": {
-      "type": "StructuredValue",
-      "value": [
-        "car",
-        "moped"
-      ],
-      "metadata": {}
-    },
-    "availableSpotNumber": {
-      "type": "Number",
-      "value": 777,
-      "metadata": {
-        "timestamp": {
-          "type": "DateTime",
-          "value": "2026-01-10T15:10:03.000Z"
-        }
-      }
-    },
-    "category": {
-      "type": "StructuredValue",
-      "value": [
-        "feeCharged",
-        "barrierAccess",
-        "underground"
-      ],
-      "metadata": {}
-    },
-    "layout": {
-      "type": "StructuredValue",
-      "value": [
-        "multiLevel"
-      ],
-      "metadata": {}
-    },
-    "location": {
-      "type": "geo:json",
-      "value": {
-        "type": "Point",
-        "coordinates": [
-          3.9178495,
-          43.60495377
-        ]
-      },
-      "metadata": {}
-    },
-    "name": {
-      "type": "Text",
-      "value": "Circe",
-      "metadata": {}
-    },
-    "requiredPermit": {
-      "type": "Text",
-      "value": "noPermitNeeded",
-      "metadata": {}
-    },
-    "status": {
-      "type": "Text",
-      "value": "Open",
-      "metadata": {
-        "timestamp": {
-          "type": "DateTime",
-          "value": "2026-01-10T15:10:03.000Z"
-        }
-      }
-    },
-    "totalSpotNumber": {
-      "type": "Number",
-      "value": 1200,
-      "metadata": {}
-    },
-    "collecte": {
-      "timestamp": "2026-01-10T14:16:27.839018",
-      "heure": "14:16:27",
-      "cycle": 2,
-      "test": true
-    }
-  },
-  {
-    "id": "urn:ngsi-ld:parking:012",
-    "type": "OffStreetParking",
-    "allowedVehicleType": {
-      "type": "StructuredValue",
-      "value": [
-        "car",
-        "moped"
-      ],
-      "metadata": {}
-    },
-    "availableSpotNumber": {
-      "type": "Number",
-      "value": 359,
-      "metadata": {
-        "timestamp": {
-          "type": "DateTime",
-          "value": "2026-01-10T15:10:03.000Z"
-        }
-      }
-    },
-    "category": {
-      "type": "StructuredValue",
-      "value": [
-        "feeCharged",
-        "barrierAccess",
-        "underground"
-      ],
-      "metadata": {}
-    },
-    "layout": {
-      "type": "StructuredValue",
-      "value": [
-        "multiLevel"
-      ],
-      "metadata": {}
-    },
-    "location": {
-      "type": "geo:json",
-      "value": {
-        "type": "Point",
-        "coordinates": [
-          3.8907158,
-          43.59098509
-        ]
-      },
-      "metadata": {}
-    },
-    "name": {
-      "type": "Text",
-      "value": "Garcia Lorca",
-      "metadata": {}
-    },
-    "requiredPermit": {
-      "type": "Text",
-      "value": "noPermitNeeded",
-      "metadata": {}
-    },
-    "status": {
-      "type": "Text",
-      "value": "Open",
-      "metadata": {
-        "timestamp": {
-          "type": "DateTime",
-          "value": "2026-01-10T15:10:03.000Z"
-        }
-      }
-    },
-    "totalSpotNumber": {
-      "type": "Number",
-      "value": 400,
-      "metadata": {}
-    },
-    "collecte": {
-      "timestamp": "2026-01-10T14:16:27.839018",
-      "heure": "14:16:27",
-      "cycle": 2,
-      "test": true
-    }
-  },
-  {
-    "id": "urn:ngsi-ld:parking:013",
-    "type": "OffStreetParking",
-    "allowedVehicleType": {
-      "type": "StructuredValue",
-      "value": [
-        "car",
-        "moped"
-      ],
-      "metadata": {}
-    },
-    "availableSpotNumber": {
-      "type": "Number",
-      "value": 182,
-      "metadata": {
-        "timestamp": {
-          "type": "DateTime",
-          "value": "2026-01-10T15:10:03.000Z"
-        }
-      }
-    },
-    "category": {
-      "type": "StructuredValue",
-      "value": [
-        "feeCharged",
-        "barrierAccess",
-        "underground"
-      ],
-      "metadata": {}
-    },
-    "layout": {
-      "type": "StructuredValue",
-      "value": [
-        "multiLevel"
-      ],
-      "metadata": {}
-    },
-    "location": {
-      "type": "geo:json",
-      "value": {
-        "type": "Point",
-        "coordinates": [
-          3.81966554,
-          43.61623716
-        ]
-      },
-      "metadata": {}
-    },
-    "name": {
-      "type": "Text",
-      "value": "Mosson",
-      "metadata": {}
-    },
-    "requiredPermit": {
-      "type": "Text",
-      "value": "noPermitNeeded",
-      "metadata": {}
-    },
-    "status": {
-      "type": "Text",
-      "value": "Open",
-      "metadata": {
-        "timestamp": {
-          "type": "DateTime",
-          "value": "2026-01-10T15:10:03.000Z"
-        }
-      }
-    },
-    "totalSpotNumber": {
-      "type": "Number",
-      "value": 328,
-      "metadata": {}
-    },
-    "collecte": {
-      "timestamp": "2026-01-10T14:16:27.839018",
-      "heure": "14:16:27",
-      "cycle": 2,
-      "test": true
-    }
-  },
-  {
-    "id": "urn:ngsi-ld:parking:014",
-    "type": "OffStreetParking",
-    "allowedVehicleType": {
-      "type": "StructuredValue",
-      "value": [
-        "car",
-        "moped"
-      ],
-      "metadata": {}
-    },
-    "availableSpotNumber": {
-      "type": "Number",
-      "value": 124,
-      "metadata": {
-        "timestamp": {
-          "type": "DateTime",
-          "value": "2026-01-10T15:10:03.000Z"
-        }
-      }
-    },
-    "category": {
-      "type": "StructuredValue",
-      "value": [
-        "feeCharged",
-        "barrierAccess",
-        "underground"
-      ],
-      "metadata": {}
-    },
-    "layout": {
-      "type": "StructuredValue",
-      "value": [
-        "multiLevel"
-      ],
-      "metadata": {}
-    },
-    "location": {
-      "type": "geo:json",
-      "value": {
-        "type": "Point",
-        "coordinates": [
-          3.8602246,
-          43.58383263
-        ]
-      },
-      "metadata": {}
-    },
-    "name": {
-      "type": "Text",
-      "value": "Sabines",
-      "metadata": {}
-    },
-    "requiredPermit": {
-      "type": "Text",
-      "value": "noPermitNeeded",
-      "metadata": {}
-    },
-    "status": {
-      "type": "Text",
-      "value": "Open",
-      "metadata": {
-        "timestamp": {
-          "type": "DateTime",
-          "value": "2026-01-10T15:10:03.000Z"
-        }
-      }
-    },
-    "totalSpotNumber": {
-      "type": "Number",
-      "value": 285,
-      "metadata": {}
-    },
-    "collecte": {
-      "timestamp": "2026-01-10T14:16:27.839018",
-      "heure": "14:16:27",
-      "cycle": 2,
-      "test": true
-    }
-  },
-  {
-    "id": "urn:ngsi-ld:parking:015",
-    "type": "OffStreetParking",
-    "allowedVehicleType": {
-      "type": "StructuredValue",
-      "value": [
-        "car",
-        "moped"
-      ],
-      "metadata": {}
-    },
-    "availableSpotNumber": {
-      "type": "Number",
-      "value": 269,
-      "metadata": {
-        "timestamp": {
-          "type": "DateTime",
-          "value": "2026-01-10T15:10:03.000Z"
-        }
-      }
-    },
-    "category": {
-      "type": "StructuredValue",
-      "value": [
-        "feeCharged",
-        "barrierAccess",
-        "underground"
-      ],
-      "metadata": {}
-    },
-    "layout": {
-      "type": "StructuredValue",
-      "value": [
-        "multiLevel"
-      ],
-      "metadata": {}
-    },
-    "location": {
-      "type": "geo:json",
-      "value": {
-        "type": "Point",
-        "coordinates": [
-          3.92229536,
-          43.63419194
-        ]
-      },
-      "metadata": {}
-    },
-    "name": {
-      "type": "Text",
-      "value": "Sablassou",
-      "metadata": {}
-    },
-    "requiredPermit": {
-      "type": "Text",
-      "value": "noPermitNeeded",
-      "metadata": {}
-    },
-    "status": {
-      "type": "Text",
-      "value": "Open",
-      "metadata": {
-        "timestamp": {
-          "type": "DateTime",
-          "value": "2026-01-10T15:10:03.000Z"
-        }
-      }
-    },
-    "totalSpotNumber": {
-      "type": "Number",
-      "value": 379,
-      "metadata": {}
-    },
-    "collecte": {
-      "timestamp": "2026-01-10T14:16:27.839018",
-      "heure": "14:16:27",
-      "cycle": 2,
-      "test": true
-    }
-  },
-  {
-    "id": "urn:ngsi-ld:parking:016",
-    "type": "OffStreetParking",
-    "allowedVehicleType": {
-      "type": "StructuredValue",
-      "value": [
-        "car",
-        "moped"
-      ],
-      "metadata": {}
-    },
-    "availableSpotNumber": {
-      "type": "Number",
-      "value": 201,
-      "metadata": {
-        "timestamp": {
-          "type": "DateTime",
-          "value": "2026-01-10T15:10:03.000Z"
-        }
-      }
-    },
-    "category": {
-      "type": "StructuredValue",
-      "value": [
-        "feeCharged",
-        "barrierAccess",
-        "underground"
-      ],
-      "metadata": {}
-    },
-    "layout": {
-      "type": "StructuredValue",
-      "value": [
-        "multiLevel"
-      ],
-      "metadata": {}
-    },
-    "location": {
-      "type": "geo:json",
-      "value": {
-        "type": "Point",
-        "coordinates": [
-          3.8379312,
-          43.57082225
-        ]
-      },
-      "metadata": {}
-    },
-    "name": {
-      "type": "Text",
-      "value": "Saint Jean Le Sec",
-      "metadata": {}
-    },
-    "requiredPermit": {
-      "type": "Text",
-      "value": "noPermitNeeded",
-      "metadata": {}
-    },
-    "status": {
-      "type": "Text",
-      "value": "Open",
-      "metadata": {
-        "timestamp": {
-          "type": "DateTime",
-          "value": "2026-01-10T15:10:03.000Z"
-        }
-      }
-    },
-    "totalSpotNumber": {
-      "type": "Number",
-      "value": 285,
-      "metadata": {}
-    },
-    "collecte": {
-      "timestamp": "2026-01-10T14:16:27.839018",
-      "heure": "14:16:27",
-      "cycle": 2,
-      "test": true
-    }
-  },
-  {
-    "id": "urn:ngsi-ld:parking:017",
-    "type": "OffStreetParking",
-    "allowedVehicleType": {
-      "type": "StructuredValue",
-      "value": [
-        "car",
-        "moped"
-      ],
-      "metadata": {}
-    },
-    "availableSpotNumber": {
-      "type": "Number",
-      "value": 55,
-      "metadata": {
-        "timestamp": {
-          "type": "DateTime",
-          "value": "2026-01-10T15:10:03.000Z"
-        }
-      }
-    },
-    "category": {
-      "type": "StructuredValue",
-      "value": [
-        "feeCharged",
-        "barrierAccess",
-        "underground"
-      ],
-      "metadata": {}
-    },
-    "layout": {
-      "type": "StructuredValue",
-      "value": [
-        "multiLevel"
-      ],
-      "metadata": {}
-    },
-    "location": {
-      "type": "geo:json",
-      "value": {
-        "type": "Point",
-        "coordinates": [
-          3.82772365,
-          43.63895359
-        ]
-      },
-      "metadata": {}
-    },
-    "name": {
-      "type": "Text",
-      "value": "Euromedecine",
-      "metadata": {}
-    },
-    "requiredPermit": {
-      "type": "Text",
-      "value": "noPermitNeeded",
-      "metadata": {}
-    },
-    "status": {
-      "type": "Text",
-      "value": "Open",
-      "metadata": {
-        "timestamp": {
-          "type": "DateTime",
-          "value": "2026-01-10T15:10:03.000Z"
-        }
-      }
-    },
-    "totalSpotNumber": {
-      "type": "Number",
-      "value": 239,
-      "metadata": {}
-    },
-    "collecte": {
-      "timestamp": "2026-01-10T14:16:27.839018",
-      "heure": "14:16:27",
-      "cycle": 2,
-      "test": true
-    }
-  },
-  {
-    "id": "urn:ngsi-ld:parking:018",
-    "type": "OffStreetParking",
-    "allowedVehicleType": {
-      "type": "StructuredValue",
-      "value": [
-        "car",
-        "moped"
-      ],
-      "metadata": {}
-    },
-    "availableSpotNumber": {
-      "type": "Number",
-      "value": 375,
-      "metadata": {
-        "timestamp": {
-          "type": "DateTime",
-          "value": "2026-01-10T15:10:03.000Z"
-        }
-      }
-    },
-    "category": {
-      "type": "StructuredValue",
-      "value": [
-        "feeCharged",
-        "barrierAccess",
-        "underground"
-      ],
-      "metadata": {}
-    },
-    "layout": {
-      "type": "StructuredValue",
-      "value": [
-        "multiLevel"
-      ],
-      "metadata": {}
-    },
-    "location": {
-      "type": "geo:json",
-      "value": {
-        "type": "Point",
-        "coordinates": [
-          3.84859796,
-          43.63456232
-        ]
-      },
-      "metadata": {}
-    },
-    "name": {
-      "type": "Text",
-      "value": "Occitanie",
-      "metadata": {}
-    },
-    "requiredPermit": {
-      "type": "Text",
-      "value": "noPermitNeeded",
-      "metadata": {}
-    },
-    "status": {
-      "type": "Text",
-      "value": "Open",
-      "metadata": {
-        "timestamp": {
-          "type": "DateTime",
-          "value": "2026-01-10T15:10:03.000Z"
-        }
-      }
-    },
-    "totalSpotNumber": {
-      "type": "Number",
-      "value": 615,
-      "metadata": {}
-    },
-    "collecte": {
-      "timestamp": "2026-01-10T14:16:27.839018",
-      "heure": "14:16:27",
-      "cycle": 2,
-      "test": true
-    }
-  },
-  {
-    "id": "urn:ngsi-ld:parking:019",
-    "type": "OffStreetParking",
-    "allowedVehicleType": {
-      "type": "StructuredValue",
-      "value": [
-        "car",
-        "moped"
-      ],
-      "metadata": {}
-    },
-    "availableSpotNumber": {
-      "type": "Number",
-      "value": 43,
-      "metadata": {
-        "timestamp": {
-          "type": "DateTime",
-          "value": "2026-01-10T15:10:39.000Z"
-        }
-      }
-    },
-    "category": {
-      "type": "StructuredValue",
-      "value": [
-        "feeCharged",
-        "barrierAccess",
-        "underground"
-      ],
-      "metadata": {}
-    },
-    "layout": {
-      "type": "StructuredValue",
-      "value": [
-        "multiLevel"
-      ],
-      "metadata": {}
-    },
-    "location": {
-      "type": "geo:json",
-      "value": {
-        "type": "Point",
-        "coordinates": [
-          3.898411,
-          43.63286
-        ]
-      },
-      "metadata": {}
-    },
-    "name": {
-      "type": "Text",
-      "value": "Vicarello",
-      "metadata": {}
-    },
-    "requiredPermit": {
-      "type": "Text",
-      "value": "noPermitNeeded",
-      "metadata": {}
-    },
-    "status": {
-      "type": "Text",
-      "value": "Open",
-      "metadata": {
-        "timestamp": {
-          "type": "DateTime",
-          "value": "2026-01-10T15:10:39.000Z"
-        }
-      }
-    },
-    "totalSpotNumber": {
-      "type": "Number",
-      "value": 64,
-      "metadata": {}
-    },
-    "collecte": {
-      "timestamp": "2026-01-10T14:16:27.839018",
-      "heure": "14:16:27",
-      "cycle": 2,
-      "test": true
-    }
-  },
-  {
-    "id": "urn:ngsi-ld:parking:020",
-    "type": "OffStreetParking",
-    "allowedVehicleType": {
-      "type": "StructuredValue",
-      "value": [
-        "car",
-        "moped"
-      ],
-      "metadata": {}
-    },
-    "availableSpotNumber": {
-      "type": "Number",
-      "value": 74,
-      "metadata": {
-        "timestamp": {
-          "type": "DateTime",
-          "value": "2025-12-23T15:36:31.000Z"
-        }
-      }
-    },
-    "category": {
-      "type": "StructuredValue",
-      "value": [
-        "feeCharged",
-        "barrierAccess",
-        "underground"
-      ],
-      "metadata": {}
-    },
-    "layout": {
-      "type": "StructuredValue",
-      "value": [
-        "multiLevel"
-      ],
-      "metadata": {}
-    },
-    "location": {
-      "type": "geo:json",
-      "value": {
-        "type": "Point",
-        "coordinates": [
-          3.91529,
-          43.604526
-        ]
-      },
-      "metadata": {}
-    },
-    "name": {
-      "type": "Text",
-      "value": "Gaumont EST",
-      "metadata": {}
-    },
-    "requiredPermit": {
-      "type": "Text",
-      "value": "noPermitNeeded",
-      "metadata": {}
-    },
-    "status": {
-      "type": "Text",
-      "value": "Open",
-      "metadata": {
-        "timestamp": {
-          "type": "DateTime",
-          "value": "2025-12-23T15:36:31.000Z"
-        }
-      }
-    },
-    "totalSpotNumber": {
-      "type": "Number",
-      "value": 109,
-      "metadata": {}
-    },
-    "collecte": {
-      "timestamp": "2026-01-10T14:16:27.839018",
-      "heure": "14:16:27",
-      "cycle": 2,
-      "test": true
-    }
-  },
-  {
-    "id": "urn:ngsi-ld:parking:021",
-    "type": "OffStreetParking",
-    "allowedVehicleType": {
-      "type": "StructuredValue",
-      "value": [
-        "car",
-        "moped"
-      ],
-      "metadata": {}
-    },
-    "availableSpotNumber": {
-      "type": "Number",
-      "value": 5,
-      "metadata": {
-        "timestamp": {
-          "type": "DateTime",
-          "value": "2025-12-23T15:36:31.000Z"
-        }
-      }
-    },
-    "category": {
-      "type": "StructuredValue",
-      "value": [
-        "feeCharged",
-        "barrierAccess",
-        "underground"
-      ],
-      "metadata": {}
-    },
-    "layout": {
-      "type": "StructuredValue",
-      "value": [
-        "multiLevel"
-      ],
-      "metadata": {}
-    },
-    "location": {
-      "type": "geo:json",
-      "value": {
-        "type": "Point",
-        "coordinates": [
-          3.914158,
-          43.604824
-        ]
-      },
-      "metadata": {}
-    },
-    "name": {
-      "type": "Text",
-      "value": "Gaumont OUEST",
-      "metadata": {}
-    },
-    "requiredPermit": {
-      "type": "Text",
-      "value": "noPermitNeeded",
-      "metadata": {}
-    },
-    "status": {
-      "type": "Text",
-      "value": "Open",
-      "metadata": {
-        "timestamp": {
-          "type": "DateTime",
-          "value": "2025-12-23T15:36:31.000Z"
-        }
-      }
-    },
-    "totalSpotNumber": {
-      "type": "Number",
-      "value": 250,
-      "metadata": {}
-    },
-    "collecte": {
-      "timestamp": "2026-01-10T14:16:27.839018",
-      "heure": "14:16:27",
-      "cycle": 2,
-      "test": true
-    }
-  },
-  {
-    "id": "urn:ngsi-ld:parking:022",
-    "type": "OffStreetParking",
-    "allowedVehicleType": {
-      "type": "StructuredValue",
-      "value": [
-        "car",
-        "moped"
-      ],
-      "metadata": {}
-    },
-    "availableSpotNumber": {
-      "type": "Number",
-      "value": 171,
-      "metadata": {
-        "timestamp": {
-          "type": "DateTime",
-          "value": "2026-01-10T15:10:03.000Z"
-        }
-      }
-    },
-    "category": {
-      "type": "StructuredValue",
-      "value": [
-        "feeCharged",
-        "barrierAccess",
-        "underground"
-      ],
-      "metadata": {}
-    },
-    "layout": {
-      "type": "StructuredValue",
-      "value": [
-        "multiLevel"
-      ],
-      "metadata": {}
-    },
-    "location": {
-      "type": "geo:json",
-      "value": {
-        "type": "Point",
-        "coordinates": [
-          3.8977621,
-          43.6285421
-        ]
-      },
-      "metadata": {}
-    },
-    "name": {
-      "type": "Text",
-      "value": "Charles de Gaulle",
-      "metadata": {}
-    },
-    "requiredPermit": {
-      "type": "Text",
-      "value": "noPermitNeeded",
-      "metadata": {}
-    },
-    "status": {
-      "type": "Text",
-      "value": "Open",
-      "metadata": {
-        "timestamp": {
-          "type": "DateTime",
-          "value": "2026-01-10T15:10:03.000Z"
-        }
-      }
-    },
-    "totalSpotNumber": {
-      "type": "Number",
-      "value": 260,
-      "metadata": {}
-    },
-    "collecte": {
-      "timestamp": "2026-01-10T14:16:27.839018",
-      "heure": "14:16:27",
-      "cycle": 2,
-      "test": true
-    }
-  },
-  {
-    "id": "urn:ngsi-ld:parking:024",
-    "type": "OffStreetParking",
-    "allowedVehicleType": {
-      "type": "StructuredValue",
-      "value": [
-        "car",
-        "moped"
-      ],
-      "metadata": {}
-    },
-    "availableSpotNumber": {
-      "type": "Number",
-      "value": 1013,
-      "metadata": {
-        "timestamp": {
-          "type": "DateTime",
-          "value": "2025-12-31T16:42:19.099Z"
-        }
-      }
-    },
-    "category": {
-      "type": "StructuredValue",
-      "value": [
-        "feeCharged",
-        "barrierAccess",
-        "underground"
-      ],
-      "metadata": {}
-    },
-    "layout": {
-      "type": "StructuredValue",
-      "value": [
-        "multiLevel"
-      ],
-      "metadata": {}
-    },
-    "location": {
-      "type": "geo:json",
-      "value": {
-        "type": "Point",
-        "coordinates": [
-          3.88515,
-          43.607697
-        ]
-      },
-      "metadata": {}
-    },
-    "name": {
-      "type": "Text",
-      "value": "Polygone",
-      "metadata": {}
-    },
-    "requiredPermit": {
-      "type": "Text",
-      "value": "noPermitNeeded",
-      "metadata": {}
-    },
-    "status": {
-      "type": "Text",
-      "value": "Open",
-      "metadata": {
-        "timestamp": {
-          "type": "DateTime",
-          "value": "2025-12-31T16:42:19.099Z"
-        }
-      }
-    },
-    "totalSpotNumber": {
-      "type": "Number",
-      "value": 1911,
-      "metadata": {}
-    },
-    "collecte": {
-      "timestamp": "2026-01-10T14:16:27.839018",
-      "heure": "14:16:27",
-      "cycle": 2,
-      "test": true
-    }
-  },
-  {
-    "id": "urn:ngsi-ld:parking:002",
-    "type": "OffStreetParking",
-    "allowedVehicleType": {
-      "type": "StructuredValue",
-      "value": [
-        "car",
-        "moped"
-      ],
-      "metadata": {}
-    },
-    "availableSpotNumber": {
-      "type": "Number",
-      "value": 72,
-      "metadata": {
-        "timestamp": {
-          "type": "DateTime",
-          "value": "2026-01-10T15:10:17.000Z"
-        }
-      }
-    },
-    "category": {
-      "type": "StructuredValue",
-      "value": [
-        "feeCharged",
-        "barrierAccess",
-        "underground"
-      ],
-      "metadata": {}
-    },
-    "layout": {
-      "type": "StructuredValue",
-      "value": [
-        "multiLevel"
-      ],
-      "metadata": {}
-    },
-    "location": {
-      "type": "geo:json",
-      "value": {
-        "type": "Point",
-        "coordinates": [
-          3.8732007,
-          43.61100267
-        ]
-      },
-      "metadata": {}
-    },
-    "name": {
-      "type": "Text",
-      "value": "Arc de Triomphe",
-      "metadata": {}
-    },
-    "requiredPermit": {
-      "type": "Text",
-      "value": "noPermitNeeded",
-      "metadata": {}
-    },
-    "status": {
-      "type": "Text",
-      "value": "Open",
-      "metadata": {
-        "timestamp": {
-          "type": "DateTime",
-          "value": "2026-01-10T15:10:17.000Z"
-        }
-      }
-    },
-    "totalSpotNumber": {
-      "type": "Number",
-      "value": 440,
-      "metadata": {}
-    },
-    "collecte": {
-      "timestamp": "2026-01-10T14:16:27.839018",
-      "heure": "14:16:27",
-      "cycle": 2,
-      "test": true
-    }
-  },
-  {
-    "id": "urn:ngsi-ld:parking:025",
-    "type": "OffStreetParking",
-    "allowedVehicleType": {
-      "type": "StructuredValue",
-      "value": [
-        "car",
-        "moped"
-      ],
-      "metadata": {}
-    },
-    "availableSpotNumber": {
-      "type": "Number",
-      "value": 199,
-      "metadata": {
-        "timestamp": {
-          "type": "DateTime",
-          "value": "2025-12-23T15:36:31.000Z"
-        }
-      }
-    },
-    "category": {
-      "type": "StructuredValue",
-      "value": [
-        "feeCharged",
-        "barrierAccess",
-        "underground"
-      ],
-      "metadata": {}
-    },
-    "layout": {
-      "type": "StructuredValue",
-      "value": [
-        "multiLevel"
-      ],
-      "metadata": {}
-    },
-    "location": {
-      "type": "geo:json",
-      "value": {
-        "type": "Point",
-        "coordinates": [
-          3.9178495,
-          43.60495377
-        ]
-      },
-      "metadata": {}
-    },
-    "name": {
-      "type": "Text",
-      "value": "Gaumont-Circe",
-      "metadata": {}
-    },
-    "requiredPermit": {
-      "type": "Text",
-      "value": "noPermitNeeded",
-      "metadata": {}
-    },
-    "status": {
-      "type": "Text",
-      "value": "Open",
-      "metadata": {
-        "timestamp": {
-          "type": "DateTime",
-          "value": "2025-12-23T15:36:31.000Z"
-        }
-      }
-    },
-    "totalSpotNumber": {
-      "type": "Number",
-      "value": 500,
-      "metadata": {}
-    },
-    "collecte": {
-      "timestamp": "2026-01-10T14:16:27.839018",
-      "heure": "14:16:27",
-      "cycle": 2,
-      "test": true
-    }
-  },
-  {
-    "id": "urn:ngsi-ld:parking:001",
-    "type": "OffStreetParking",
-    "allowedVehicleType": {
-      "type": "StructuredValue",
-      "value": [
-        "car",
-        "moped"
-      ],
-      "metadata": {}
-    },
-    "availableSpotNumber": {
-      "type": "Number",
-      "value": 115,
-      "metadata": {
-        "timestamp": {
-          "type": "DateTime",
-          "value": "2026-01-10T15:15:25.000Z"
-        }
-      }
-    },
-    "category": {
-      "type": "StructuredValue",
-      "value": [
-        "feeCharged",
-        "barrierAccess",
-        "underground"
-      ],
-      "metadata": {}
-    },
-    "layout": {
-      "type": "StructuredValue",
-      "value": [
-        "multiLevel"
-      ],
-      "metadata": {}
-    },
-    "location": {
-      "type": "geo:json",
-      "value": {
-        "type": "Point",
-        "coordinates": [
-          3.88881893,
-          43.60871606
-        ]
-      },
-      "metadata": {}
-    },
-    "name": {
-      "type": "Text",
-      "value": "Antigone",
-      "metadata": {}
-    },
-    "requiredPermit": {
-      "type": "Text",
-      "value": "noPermitNeeded",
-      "metadata": {}
-    },
-    "status": {
-      "type": "Text",
-      "value": "Open",
-      "metadata": {
-        "timestamp": {
-          "type": "DateTime",
-          "value": "2026-01-10T15:15:25.000Z"
-        }
-      }
-    },
-    "totalSpotNumber": {
-      "type": "Number",
-      "value": 239,
-      "metadata": {}
-    },
-    "collecte": {
-      "timestamp": "2026-01-10T14:21:29.144390",
-      "heure": "14:21:29",
-      "cycle": 3,
-      "test": true
-    }
-  },
-  {
-    "id": "urn:ngsi-ld:parking:003",
-    "type": "OffStreetParking",
-    "allowedVehicleType": {
-      "type": "StructuredValue",
-      "value": [
-        "car",
-        "moped"
-      ],
-      "metadata": {}
-    },
-    "availableSpotNumber": {
-      "type": "Number",
-      "value": 118,
-      "metadata": {
-        "timestamp": {
-          "type": "DateTime",
-          "value": "2026-01-10T15:15:39.000Z"
-        }
-      }
-    },
-    "category": {
-      "type": "StructuredValue",
-      "value": [
-        "feeCharged",
-        "barrierAccess",
-        "underground"
-      ],
-      "metadata": {}
-    },
-    "layout": {
-      "type": "StructuredValue",
-      "value": [
-        "multiLevel"
-      ],
-      "metadata": {}
-    },
-    "location": {
-      "type": "geo:json",
-      "value": {
-        "type": "Point",
-        "coordinates": [
-          3.87976196,
-          43.60856092
-        ]
-      },
-      "metadata": {}
-    },
-    "name": {
-      "type": "Text",
-      "value": "Comedie",
-      "metadata": {}
-    },
-    "requiredPermit": {
-      "type": "Text",
-      "value": "noPermitNeeded",
-      "metadata": {}
-    },
-    "status": {
-      "type": "Text",
-      "value": "Open",
-      "metadata": {
-        "timestamp": {
-          "type": "DateTime",
-          "value": "2026-01-10T15:15:39.000Z"
-        }
-      }
-    },
-    "totalSpotNumber": {
-      "type": "Number",
-      "value": 664,
-      "metadata": {}
-    },
-    "collecte": {
-      "timestamp": "2026-01-10T14:21:29.144390",
-      "heure": "14:21:29",
-      "cycle": 3,
-      "test": true
-    }
-  },
-  {
-    "id": "urn:ngsi-ld:parking:004",
-    "type": "OffStreetParking",
-    "allowedVehicleType": {
-      "type": "StructuredValue",
-      "value": [
-        "car",
-        "moped"
-      ],
-      "metadata": {}
-    },
-    "availableSpotNumber": {
-      "type": "Number",
-      "value": 118,
-      "metadata": {
-        "timestamp": {
-          "type": "DateTime",
-          "value": "2026-01-10T15:15:25.000Z"
-        }
-      }
-    },
-    "category": {
-      "type": "StructuredValue",
-      "value": [
-        "feeCharged",
-        "barrierAccess",
-        "underground"
-      ],
-      "metadata": {}
-    },
-    "layout": {
-      "type": "StructuredValue",
-      "value": [
-        "multiLevel"
-      ],
-      "metadata": {}
-    },
-    "location": {
-      "type": "geo:json",
-      "value": {
-        "type": "Point",
-        "coordinates": [
-          3.88225773,
-          43.61388821
-        ]
-      },
-      "metadata": {}
-    },
-    "name": {
-      "type": "Text",
-      "value": "Corum",
-      "metadata": {}
-    },
-    "requiredPermit": {
-      "type": "Text",
-      "value": "noPermitNeeded",
-      "metadata": {}
-    },
-    "status": {
-      "type": "Text",
-      "value": "Open",
-      "metadata": {
-        "timestamp": {
-          "type": "DateTime",
-          "value": "2026-01-10T15:15:25.000Z"
-        }
-      }
-    },
-    "totalSpotNumber": {
-      "type": "Number",
-      "value": 480,
-      "metadata": {}
-    },
-    "collecte": {
-      "timestamp": "2026-01-10T14:21:29.144390",
-      "heure": "14:21:29",
-      "cycle": 3,
-      "test": true
-    }
-  },
-  {
-    "id": "urn:ngsi-ld:parking:005",
-    "type": "OffStreetParking",
-    "allowedVehicleType": {
-      "type": "StructuredValue",
-      "value": [
-        "car",
-        "moped"
-      ],
-      "metadata": {}
-    },
-    "availableSpotNumber": {
-      "type": "Number",
-      "value": 433,
-      "metadata": {
-        "timestamp": {
-          "type": "DateTime",
-          "value": "2026-01-10T15:15:25.000Z"
-        }
-      }
-    },
-    "category": {
-      "type": "StructuredValue",
-      "value": [
-        "feeCharged",
-        "barrierAccess",
-        "underground"
-      ],
-      "metadata": {}
-    },
-    "layout": {
-      "type": "StructuredValue",
-      "value": [
-        "multiLevel"
-      ],
-      "metadata": {}
-    },
-    "location": {
-      "type": "geo:json",
-      "value": {
-        "type": "Point",
-        "coordinates": [
-          3.89253074,
-          43.60784971
-        ]
-      },
-      "metadata": {}
-    },
-    "name": {
-      "type": "Text",
-      "value": "Europa",
-      "metadata": {}
-    },
-    "requiredPermit": {
-      "type": "Text",
-      "value": "noPermitNeeded",
-      "metadata": {}
-    },
-    "status": {
-      "type": "Text",
-      "value": "Open",
-      "metadata": {
-        "timestamp": {
-          "type": "DateTime",
-          "value": "2026-01-10T15:15:25.000Z"
-        }
-      }
-    },
-    "totalSpotNumber": {
-      "type": "Number",
-      "value": 591,
-      "metadata": {}
-    },
-    "collecte": {
-      "timestamp": "2026-01-10T14:21:29.144390",
-      "heure": "14:21:29",
-      "cycle": 3,
-      "test": true
-    }
-  },
-  {
-    "id": "urn:ngsi-ld:parking:006",
-    "type": "OffStreetParking",
-    "allowedVehicleType": {
-      "type": "StructuredValue",
-      "value": [
-        "car",
-        "moped"
-      ],
-      "metadata": {}
-    },
-    "availableSpotNumber": {
-      "type": "Number",
-      "value": 418,
-      "metadata": {
-        "timestamp": {
-          "type": "DateTime",
-          "value": "2026-01-10T15:15:42.000Z"
-        }
-      }
-    },
-    "category": {
-      "type": "StructuredValue",
-      "value": [
-        "feeCharged",
-        "barrierAccess",
-        "underground"
-      ],
-      "metadata": {}
-    },
-    "layout": {
-      "type": "StructuredValue",
-      "value": [
-        "multiLevel"
-      ],
-      "metadata": {}
-    },
-    "location": {
-      "type": "geo:json",
-      "value": {
-        "type": "Point",
-        "coordinates": [
-          3.87657084,
-          43.61074912
-        ]
-      },
-      "metadata": {}
-    },
-    "name": {
-      "type": "Text",
-      "value": "Foch",
-      "metadata": {}
-    },
-    "requiredPermit": {
-      "type": "Text",
-      "value": "noPermitNeeded",
-      "metadata": {}
-    },
-    "status": {
-      "type": "Text",
-      "value": "Open",
-      "metadata": {
-        "timestamp": {
-          "type": "DateTime",
-          "value": "2026-01-10T15:15:42.000Z"
-        }
-      }
-    },
-    "totalSpotNumber": {
-      "type": "Number",
-      "value": 620,
-      "metadata": {}
-    },
-    "collecte": {
-      "timestamp": "2026-01-10T14:21:29.144390",
-      "heure": "14:21:29",
-      "cycle": 3,
-      "test": true
-    }
-  },
-  {
-    "id": "urn:ngsi-ld:parking:007",
-    "type": "OffStreetParking",
-    "allowedVehicleType": {
-      "type": "StructuredValue",
-      "value": [
-        "car",
-        "moped"
-      ],
-      "metadata": {}
-    },
-    "availableSpotNumber": {
-      "type": "Number",
-      "value": 146,
-      "metadata": {
-        "timestamp": {
-          "type": "DateTime",
-          "value": "2026-01-10T15:15:25.000Z"
-        }
-      }
-    },
-    "category": {
-      "type": "StructuredValue",
-      "value": [
-        "feeCharged",
-        "barrierAccess",
-        "underground"
-      ],
-      "metadata": {}
-    },
-    "layout": {
-      "type": "StructuredValue",
-      "value": [
-        "multiLevel"
-      ],
-      "metadata": {}
-    },
-    "location": {
-      "type": "geo:json",
-      "value": {
-        "type": "Point",
-        "coordinates": [
-          3.87137436,
-          43.60695138
-        ]
-      },
-      "metadata": {}
-    },
-    "name": {
-      "type": "Text",
-      "value": "Gambetta",
-      "metadata": {}
-    },
-    "requiredPermit": {
-      "type": "Text",
-      "value": "noPermitNeeded",
-      "metadata": {}
-    },
-    "status": {
-      "type": "Text",
-      "value": "Open",
-      "metadata": {
-        "timestamp": {
-          "type": "DateTime",
-          "value": "2026-01-10T15:15:25.000Z"
-        }
-      }
-    },
-    "totalSpotNumber": {
-      "type": "Number",
-      "value": 452,
-      "metadata": {}
-    },
-    "collecte": {
-      "timestamp": "2026-01-10T14:21:29.144390",
-      "heure": "14:21:29",
-      "cycle": 3,
-      "test": true
-    }
-  },
-  {
-    "id": "urn:ngsi-ld:parking:008",
-    "type": "OffStreetParking",
-    "allowedVehicleType": {
-      "type": "StructuredValue",
-      "value": [
-        "car",
-        "moped"
-      ],
-      "metadata": {}
-    },
-    "availableSpotNumber": {
-      "type": "Number",
-      "value": 374,
-      "metadata": {
-        "timestamp": {
-          "type": "DateTime",
-          "value": "2026-01-10T15:15:08.000Z"
-        }
-      }
-    },
-    "category": {
-      "type": "StructuredValue",
-      "value": [
-        "feeCharged",
-        "barrierAccess",
-        "underground"
-      ],
-      "metadata": {}
-    },
-    "layout": {
-      "type": "StructuredValue",
-      "value": [
-        "multiLevel"
-      ],
-      "metadata": {}
-    },
-    "location": {
-      "type": "geo:json",
-      "value": {
-        "type": "Point",
-        "coordinates": [
-          3.87891,
-          43.604024
-        ]
-      },
-      "metadata": {}
-    },
-    "name": {
-      "type": "Text",
-      "value": "Gare",
-      "metadata": {}
-    },
-    "requiredPermit": {
-      "type": "Text",
-      "value": "noPermitNeeded",
-      "metadata": {}
-    },
-    "status": {
-      "type": "Text",
-      "value": "Open",
-      "metadata": {
-        "timestamp": {
-          "type": "DateTime",
-          "value": "2026-01-10T15:15:08.000Z"
-        }
-      }
-    },
-    "totalSpotNumber": {
-      "type": "Number",
-      "value": 656,
-      "metadata": {}
-    },
-    "collecte": {
-      "timestamp": "2026-01-10T14:21:29.144390",
-      "heure": "14:21:29",
-      "cycle": 3,
-      "test": true
-    }
-  },
-  {
-    "id": "urn:ngsi-ld:parking:009",
-    "type": "OffStreetParking",
-    "allowedVehicleType": {
-      "type": "StructuredValue",
-      "value": [
-        "car",
-        "moped"
-      ],
-      "metadata": {}
-    },
-    "availableSpotNumber": {
-      "type": "Number",
-      "value": 274,
-      "metadata": {
-        "timestamp": {
-          "type": "DateTime",
-          "value": "2025-12-31T16:39:58.000Z"
-        }
-      }
-    },
-    "category": {
-      "type": "StructuredValue",
-      "value": [
-        "feeCharged",
-        "barrierAccess",
-        "underground"
-      ],
-      "metadata": {}
-    },
-    "layout": {
-      "type": "StructuredValue",
-      "value": [
-        "multiLevel"
-      ],
-      "metadata": {}
-    },
-    "location": {
-      "type": "geo:json",
-      "value": {
-        "type": "Point",
-        "coordinates": [
-          3.88184418,
-          43.60923384
-        ]
-      },
-      "metadata": {}
-    },
-    "name": {
-      "type": "Text",
-      "value": "Triangle",
-      "metadata": {}
-    },
-    "requiredPermit": {
-      "type": "Text",
-      "value": "noPermitNeeded",
-      "metadata": {}
-    },
-    "status": {
-      "type": "Text",
-      "value": "Open",
-      "metadata": {
-        "timestamp": {
-          "type": "DateTime",
-          "value": "2025-12-31T16:39:58.000Z"
-        }
-      }
-    },
-    "totalSpotNumber": {
-      "type": "Number",
-      "value": 434,
-      "metadata": {}
-    },
-    "collecte": {
-      "timestamp": "2026-01-10T14:21:29.144390",
-      "heure": "14:21:29",
-      "cycle": 3,
-      "test": true
-    }
-  },
-  {
-    "id": "urn:ngsi-ld:parking:010",
-    "type": "OffStreetParking",
-    "allowedVehicleType": {
-      "type": "StructuredValue",
-      "value": [
-        "car",
-        "moped"
-      ],
-      "metadata": {}
-    },
-    "availableSpotNumber": {
-      "type": "Number",
-      "value": 403,
-      "metadata": {
-        "timestamp": {
-          "type": "DateTime",
-          "value": "2025-12-31T16:40:32.000Z"
-        }
-      }
-    },
-    "category": {
-      "type": "StructuredValue",
-      "value": [
-        "feeCharged",
-        "barrierAccess",
-        "underground"
-      ],
-      "metadata": {}
-    },
-    "layout": {
-      "type": "StructuredValue",
-      "value": [
-        "multiLevel"
-      ],
-      "metadata": {}
-    },
-    "location": {
-      "type": "geo:json",
-      "value": {
-        "type": "Point",
-        "coordinates": [
-          3.87019117,
-          43.61224494
-        ]
-      },
-      "metadata": {}
-    },
-    "name": {
-      "type": "Text",
-      "value": "Pitot",
-      "metadata": {}
-    },
-    "requiredPermit": {
-      "type": "Text",
-      "value": "noPermitNeeded",
-      "metadata": {}
-    },
-    "status": {
-      "type": "Text",
-      "value": "Open",
-      "metadata": {
-        "timestamp": {
-          "type": "DateTime",
-          "value": "2025-12-31T16:40:32.000Z"
-        }
-      }
-    },
-    "totalSpotNumber": {
-      "type": "Number",
-      "value": 590,
-      "metadata": {}
-    },
-    "collecte": {
-      "timestamp": "2026-01-10T14:21:29.144390",
-      "heure": "14:21:29",
-      "cycle": 3,
-      "test": true
-    }
-  },
-  {
-    "id": "urn:ngsi-ld:parking:011",
-    "type": "OffStreetParking",
-    "allowedVehicleType": {
-      "type": "StructuredValue",
-      "value": [
-        "car",
-        "moped"
-      ],
-      "metadata": {}
-    },
-    "availableSpotNumber": {
-      "type": "Number",
-      "value": 776,
-      "metadata": {
-        "timestamp": {
-          "type": "DateTime",
-          "value": "2026-01-10T15:15:02.000Z"
-        }
-      }
-    },
-    "category": {
-      "type": "StructuredValue",
-      "value": [
-        "feeCharged",
-        "barrierAccess",
-        "underground"
-      ],
-      "metadata": {}
-    },
-    "layout": {
-      "type": "StructuredValue",
-      "value": [
-        "multiLevel"
-      ],
-      "metadata": {}
-    },
-    "location": {
-      "type": "geo:json",
-      "value": {
-        "type": "Point",
-        "coordinates": [
-          3.9178495,
-          43.60495377
-        ]
-      },
-      "metadata": {}
-    },
-    "name": {
-      "type": "Text",
-      "value": "Circe",
-      "metadata": {}
-    },
-    "requiredPermit": {
-      "type": "Text",
-      "value": "noPermitNeeded",
-      "metadata": {}
-    },
-    "status": {
-      "type": "Text",
-      "value": "Open",
-      "metadata": {
-        "timestamp": {
-          "type": "DateTime",
-          "value": "2026-01-10T15:15:02.000Z"
-        }
-      }
-    },
-    "totalSpotNumber": {
-      "type": "Number",
-      "value": 1200,
-      "metadata": {}
-    },
-    "collecte": {
-      "timestamp": "2026-01-10T14:21:29.144390",
-      "heure": "14:21:29",
-      "cycle": 3,
-      "test": true
-    }
-  },
-  {
-    "id": "urn:ngsi-ld:parking:012",
-    "type": "OffStreetParking",
-    "allowedVehicleType": {
-      "type": "StructuredValue",
-      "value": [
-        "car",
-        "moped"
-      ],
-      "metadata": {}
-    },
-    "availableSpotNumber": {
-      "type": "Number",
-      "value": 359,
-      "metadata": {
-        "timestamp": {
-          "type": "DateTime",
-          "value": "2026-01-10T15:15:02.000Z"
-        }
-      }
-    },
-    "category": {
-      "type": "StructuredValue",
-      "value": [
-        "feeCharged",
-        "barrierAccess",
-        "underground"
-      ],
-      "metadata": {}
-    },
-    "layout": {
-      "type": "StructuredValue",
-      "value": [
-        "multiLevel"
-      ],
-      "metadata": {}
-    },
-    "location": {
-      "type": "geo:json",
-      "value": {
-        "type": "Point",
-        "coordinates": [
-          3.8907158,
-          43.59098509
-        ]
-      },
-      "metadata": {}
-    },
-    "name": {
-      "type": "Text",
-      "value": "Garcia Lorca",
-      "metadata": {}
-    },
-    "requiredPermit": {
-      "type": "Text",
-      "value": "noPermitNeeded",
-      "metadata": {}
-    },
-    "status": {
-      "type": "Text",
-      "value": "Open",
-      "metadata": {
-        "timestamp": {
-          "type": "DateTime",
-          "value": "2026-01-10T15:15:02.000Z"
-        }
-      }
-    },
-    "totalSpotNumber": {
-      "type": "Number",
-      "value": 400,
-      "metadata": {}
-    },
-    "collecte": {
-      "timestamp": "2026-01-10T14:21:29.144390",
-      "heure": "14:21:29",
-      "cycle": 3,
       "test": true
     }
   },
@@ -4736,7 +896,7 @@
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-10T15:15:02.000Z"
+          "value": "2026-01-10T17:05:05.000Z"
         }
       }
     },
@@ -4783,7 +943,7 @@
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-10T15:15:02.000Z"
+          "value": "2026-01-10T17:05:05.000Z"
         }
       }
     },
@@ -4793,9 +953,9 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-10T14:21:29.144390",
-      "heure": "14:21:29",
-      "cycle": 3,
+      "timestamp": "2026-01-10T16:13:39.089898",
+      "heure": "16:13:39",
+      "cycle": 1,
       "test": true
     }
   },
@@ -4812,11 +972,11 @@
     },
     "availableSpotNumber": {
       "type": "Number",
-      "value": 120,
+      "value": 128,
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-10T15:15:02.000Z"
+          "value": "2026-01-10T17:05:05.000Z"
         }
       }
     },
@@ -4863,7 +1023,7 @@
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-10T15:15:02.000Z"
+          "value": "2026-01-10T17:05:05.000Z"
         }
       }
     },
@@ -4873,9 +1033,9 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-10T14:21:29.144390",
-      "heure": "14:21:29",
-      "cycle": 3,
+      "timestamp": "2026-01-10T16:13:39.089898",
+      "heure": "16:13:39",
+      "cycle": 1,
       "test": true
     }
   },
@@ -4892,11 +1052,11 @@
     },
     "availableSpotNumber": {
       "type": "Number",
-      "value": 266,
+      "value": 275,
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-10T15:15:02.000Z"
+          "value": "2026-01-10T17:05:05.000Z"
         }
       }
     },
@@ -4943,7 +1103,7 @@
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-10T15:15:02.000Z"
+          "value": "2026-01-10T17:05:05.000Z"
         }
       }
     },
@@ -4953,9 +1113,9 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-10T14:21:29.144390",
-      "heure": "14:21:29",
-      "cycle": 3,
+      "timestamp": "2026-01-10T16:13:39.089898",
+      "heure": "16:13:39",
+      "cycle": 1,
       "test": true
     }
   },
@@ -4972,11 +1132,11 @@
     },
     "availableSpotNumber": {
       "type": "Number",
-      "value": 201,
+      "value": 209,
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-10T15:15:02.000Z"
+          "value": "2026-01-10T17:05:05.000Z"
         }
       }
     },
@@ -5023,7 +1183,7 @@
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-10T15:15:02.000Z"
+          "value": "2026-01-10T17:05:05.000Z"
         }
       }
     },
@@ -5033,9 +1193,9 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-10T14:21:29.144390",
-      "heure": "14:21:29",
-      "cycle": 3,
+      "timestamp": "2026-01-10T16:13:39.089898",
+      "heure": "16:13:39",
+      "cycle": 1,
       "test": true
     }
   },
@@ -5052,11 +1212,11 @@
     },
     "availableSpotNumber": {
       "type": "Number",
-      "value": 55,
+      "value": 51,
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-10T15:15:02.000Z"
+          "value": "2026-01-10T17:05:05.000Z"
         }
       }
     },
@@ -5103,7 +1263,7 @@
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-10T15:15:02.000Z"
+          "value": "2026-01-10T17:05:05.000Z"
         }
       }
     },
@@ -5113,9 +1273,9 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-10T14:21:29.144390",
-      "heure": "14:21:29",
-      "cycle": 3,
+      "timestamp": "2026-01-10T16:13:39.089898",
+      "heure": "16:13:39",
+      "cycle": 1,
       "test": true
     }
   },
@@ -5132,11 +1292,11 @@
     },
     "availableSpotNumber": {
       "type": "Number",
-      "value": 377,
+      "value": 394,
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-10T15:15:02.000Z"
+          "value": "2026-01-10T17:05:05.000Z"
         }
       }
     },
@@ -5183,7 +1343,7 @@
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-10T15:15:02.000Z"
+          "value": "2026-01-10T17:05:05.000Z"
         }
       }
     },
@@ -5193,9 +1353,9 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-10T14:21:29.144390",
-      "heure": "14:21:29",
-      "cycle": 3,
+      "timestamp": "2026-01-10T16:13:39.089898",
+      "heure": "16:13:39",
+      "cycle": 1,
       "test": true
     }
   },
@@ -5212,11 +1372,11 @@
     },
     "availableSpotNumber": {
       "type": "Number",
-      "value": 45,
+      "value": 46,
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-10T15:15:34.000Z"
+          "value": "2026-01-10T17:05:42.000Z"
         }
       }
     },
@@ -5263,7 +1423,7 @@
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-10T15:15:34.000Z"
+          "value": "2026-01-10T17:05:42.000Z"
         }
       }
     },
@@ -5273,8 +1433,3848 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-10T14:21:29.144390",
-      "heure": "14:21:29",
+      "timestamp": "2026-01-10T16:13:39.089898",
+      "heure": "16:13:39",
+      "cycle": 1,
+      "test": true
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:parking:020",
+    "type": "OffStreetParking",
+    "allowedVehicleType": {
+      "type": "StructuredValue",
+      "value": [
+        "car",
+        "moped"
+      ],
+      "metadata": {}
+    },
+    "availableSpotNumber": {
+      "type": "Number",
+      "value": 74,
+      "metadata": {
+        "timestamp": {
+          "type": "DateTime",
+          "value": "2025-12-23T15:36:31.000Z"
+        }
+      }
+    },
+    "category": {
+      "type": "StructuredValue",
+      "value": [
+        "feeCharged",
+        "barrierAccess",
+        "underground"
+      ],
+      "metadata": {}
+    },
+    "layout": {
+      "type": "StructuredValue",
+      "value": [
+        "multiLevel"
+      ],
+      "metadata": {}
+    },
+    "location": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          3.91529,
+          43.604526
+        ]
+      },
+      "metadata": {}
+    },
+    "name": {
+      "type": "Text",
+      "value": "Gaumont EST",
+      "metadata": {}
+    },
+    "requiredPermit": {
+      "type": "Text",
+      "value": "noPermitNeeded",
+      "metadata": {}
+    },
+    "status": {
+      "type": "Text",
+      "value": "Open",
+      "metadata": {
+        "timestamp": {
+          "type": "DateTime",
+          "value": "2025-12-23T15:36:31.000Z"
+        }
+      }
+    },
+    "totalSpotNumber": {
+      "type": "Number",
+      "value": 109,
+      "metadata": {}
+    },
+    "collecte": {
+      "timestamp": "2026-01-10T16:13:39.089898",
+      "heure": "16:13:39",
+      "cycle": 1,
+      "test": true
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:parking:021",
+    "type": "OffStreetParking",
+    "allowedVehicleType": {
+      "type": "StructuredValue",
+      "value": [
+        "car",
+        "moped"
+      ],
+      "metadata": {}
+    },
+    "availableSpotNumber": {
+      "type": "Number",
+      "value": 5,
+      "metadata": {
+        "timestamp": {
+          "type": "DateTime",
+          "value": "2025-12-23T15:36:31.000Z"
+        }
+      }
+    },
+    "category": {
+      "type": "StructuredValue",
+      "value": [
+        "feeCharged",
+        "barrierAccess",
+        "underground"
+      ],
+      "metadata": {}
+    },
+    "layout": {
+      "type": "StructuredValue",
+      "value": [
+        "multiLevel"
+      ],
+      "metadata": {}
+    },
+    "location": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          3.914158,
+          43.604824
+        ]
+      },
+      "metadata": {}
+    },
+    "name": {
+      "type": "Text",
+      "value": "Gaumont OUEST",
+      "metadata": {}
+    },
+    "requiredPermit": {
+      "type": "Text",
+      "value": "noPermitNeeded",
+      "metadata": {}
+    },
+    "status": {
+      "type": "Text",
+      "value": "Open",
+      "metadata": {
+        "timestamp": {
+          "type": "DateTime",
+          "value": "2025-12-23T15:36:31.000Z"
+        }
+      }
+    },
+    "totalSpotNumber": {
+      "type": "Number",
+      "value": 250,
+      "metadata": {}
+    },
+    "collecte": {
+      "timestamp": "2026-01-10T16:13:39.089898",
+      "heure": "16:13:39",
+      "cycle": 1,
+      "test": true
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:parking:022",
+    "type": "OffStreetParking",
+    "allowedVehicleType": {
+      "type": "StructuredValue",
+      "value": [
+        "car",
+        "moped"
+      ],
+      "metadata": {}
+    },
+    "availableSpotNumber": {
+      "type": "Number",
+      "value": 161,
+      "metadata": {
+        "timestamp": {
+          "type": "DateTime",
+          "value": "2026-01-10T17:05:05.000Z"
+        }
+      }
+    },
+    "category": {
+      "type": "StructuredValue",
+      "value": [
+        "feeCharged",
+        "barrierAccess",
+        "underground"
+      ],
+      "metadata": {}
+    },
+    "layout": {
+      "type": "StructuredValue",
+      "value": [
+        "multiLevel"
+      ],
+      "metadata": {}
+    },
+    "location": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          3.8977621,
+          43.6285421
+        ]
+      },
+      "metadata": {}
+    },
+    "name": {
+      "type": "Text",
+      "value": "Charles de Gaulle",
+      "metadata": {}
+    },
+    "requiredPermit": {
+      "type": "Text",
+      "value": "noPermitNeeded",
+      "metadata": {}
+    },
+    "status": {
+      "type": "Text",
+      "value": "Open",
+      "metadata": {
+        "timestamp": {
+          "type": "DateTime",
+          "value": "2026-01-10T17:05:05.000Z"
+        }
+      }
+    },
+    "totalSpotNumber": {
+      "type": "Number",
+      "value": 260,
+      "metadata": {}
+    },
+    "collecte": {
+      "timestamp": "2026-01-10T16:13:39.089898",
+      "heure": "16:13:39",
+      "cycle": 1,
+      "test": true
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:parking:024",
+    "type": "OffStreetParking",
+    "allowedVehicleType": {
+      "type": "StructuredValue",
+      "value": [
+        "car",
+        "moped"
+      ],
+      "metadata": {}
+    },
+    "availableSpotNumber": {
+      "type": "Number",
+      "value": 1013,
+      "metadata": {
+        "timestamp": {
+          "type": "DateTime",
+          "value": "2025-12-31T16:42:19.099Z"
+        }
+      }
+    },
+    "category": {
+      "type": "StructuredValue",
+      "value": [
+        "feeCharged",
+        "barrierAccess",
+        "underground"
+      ],
+      "metadata": {}
+    },
+    "layout": {
+      "type": "StructuredValue",
+      "value": [
+        "multiLevel"
+      ],
+      "metadata": {}
+    },
+    "location": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          3.88515,
+          43.607697
+        ]
+      },
+      "metadata": {}
+    },
+    "name": {
+      "type": "Text",
+      "value": "Polygone",
+      "metadata": {}
+    },
+    "requiredPermit": {
+      "type": "Text",
+      "value": "noPermitNeeded",
+      "metadata": {}
+    },
+    "status": {
+      "type": "Text",
+      "value": "Open",
+      "metadata": {
+        "timestamp": {
+          "type": "DateTime",
+          "value": "2025-12-31T16:42:19.099Z"
+        }
+      }
+    },
+    "totalSpotNumber": {
+      "type": "Number",
+      "value": 1911,
+      "metadata": {}
+    },
+    "collecte": {
+      "timestamp": "2026-01-10T16:13:39.089898",
+      "heure": "16:13:39",
+      "cycle": 1,
+      "test": true
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:parking:002",
+    "type": "OffStreetParking",
+    "allowedVehicleType": {
+      "type": "StructuredValue",
+      "value": [
+        "car",
+        "moped"
+      ],
+      "metadata": {}
+    },
+    "availableSpotNumber": {
+      "type": "Number",
+      "value": 75,
+      "metadata": {
+        "timestamp": {
+          "type": "DateTime",
+          "value": "2026-01-10T17:05:21.000Z"
+        }
+      }
+    },
+    "category": {
+      "type": "StructuredValue",
+      "value": [
+        "feeCharged",
+        "barrierAccess",
+        "underground"
+      ],
+      "metadata": {}
+    },
+    "layout": {
+      "type": "StructuredValue",
+      "value": [
+        "multiLevel"
+      ],
+      "metadata": {}
+    },
+    "location": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          3.8732007,
+          43.61100267
+        ]
+      },
+      "metadata": {}
+    },
+    "name": {
+      "type": "Text",
+      "value": "Arc de Triomphe",
+      "metadata": {}
+    },
+    "requiredPermit": {
+      "type": "Text",
+      "value": "noPermitNeeded",
+      "metadata": {}
+    },
+    "status": {
+      "type": "Text",
+      "value": "Open",
+      "metadata": {
+        "timestamp": {
+          "type": "DateTime",
+          "value": "2026-01-10T17:05:21.000Z"
+        }
+      }
+    },
+    "totalSpotNumber": {
+      "type": "Number",
+      "value": 440,
+      "metadata": {}
+    },
+    "collecte": {
+      "timestamp": "2026-01-10T16:13:39.089898",
+      "heure": "16:13:39",
+      "cycle": 1,
+      "test": true
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:parking:025",
+    "type": "OffStreetParking",
+    "allowedVehicleType": {
+      "type": "StructuredValue",
+      "value": [
+        "car",
+        "moped"
+      ],
+      "metadata": {}
+    },
+    "availableSpotNumber": {
+      "type": "Number",
+      "value": 199,
+      "metadata": {
+        "timestamp": {
+          "type": "DateTime",
+          "value": "2025-12-23T15:36:31.000Z"
+        }
+      }
+    },
+    "category": {
+      "type": "StructuredValue",
+      "value": [
+        "feeCharged",
+        "barrierAccess",
+        "underground"
+      ],
+      "metadata": {}
+    },
+    "layout": {
+      "type": "StructuredValue",
+      "value": [
+        "multiLevel"
+      ],
+      "metadata": {}
+    },
+    "location": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          3.9178495,
+          43.60495377
+        ]
+      },
+      "metadata": {}
+    },
+    "name": {
+      "type": "Text",
+      "value": "Gaumont-Circe",
+      "metadata": {}
+    },
+    "requiredPermit": {
+      "type": "Text",
+      "value": "noPermitNeeded",
+      "metadata": {}
+    },
+    "status": {
+      "type": "Text",
+      "value": "Open",
+      "metadata": {
+        "timestamp": {
+          "type": "DateTime",
+          "value": "2025-12-23T15:36:31.000Z"
+        }
+      }
+    },
+    "totalSpotNumber": {
+      "type": "Number",
+      "value": 500,
+      "metadata": {}
+    },
+    "collecte": {
+      "timestamp": "2026-01-10T16:13:39.089898",
+      "heure": "16:13:39",
+      "cycle": 1,
+      "test": true
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:parking:001",
+    "type": "OffStreetParking",
+    "allowedVehicleType": {
+      "type": "StructuredValue",
+      "value": [
+        "car",
+        "moped"
+      ],
+      "metadata": {}
+    },
+    "availableSpotNumber": {
+      "type": "Number",
+      "value": 95,
+      "metadata": {
+        "timestamp": {
+          "type": "DateTime",
+          "value": "2026-01-10T17:10:23.000Z"
+        }
+      }
+    },
+    "category": {
+      "type": "StructuredValue",
+      "value": [
+        "feeCharged",
+        "barrierAccess",
+        "underground"
+      ],
+      "metadata": {}
+    },
+    "layout": {
+      "type": "StructuredValue",
+      "value": [
+        "multiLevel"
+      ],
+      "metadata": {}
+    },
+    "location": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          3.88881893,
+          43.60871606
+        ]
+      },
+      "metadata": {}
+    },
+    "name": {
+      "type": "Text",
+      "value": "Antigone",
+      "metadata": {}
+    },
+    "requiredPermit": {
+      "type": "Text",
+      "value": "noPermitNeeded",
+      "metadata": {}
+    },
+    "status": {
+      "type": "Text",
+      "value": "Open",
+      "metadata": {
+        "timestamp": {
+          "type": "DateTime",
+          "value": "2026-01-10T17:10:23.000Z"
+        }
+      }
+    },
+    "totalSpotNumber": {
+      "type": "Number",
+      "value": 239,
+      "metadata": {}
+    },
+    "collecte": {
+      "timestamp": "2026-01-10T16:18:40.035423",
+      "heure": "16:18:40",
+      "cycle": 2,
+      "test": true
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:parking:003",
+    "type": "OffStreetParking",
+    "allowedVehicleType": {
+      "type": "StructuredValue",
+      "value": [
+        "car",
+        "moped"
+      ],
+      "metadata": {}
+    },
+    "availableSpotNumber": {
+      "type": "Number",
+      "value": 125,
+      "metadata": {
+        "timestamp": {
+          "type": "DateTime",
+          "value": "2026-01-10T17:10:33.000Z"
+        }
+      }
+    },
+    "category": {
+      "type": "StructuredValue",
+      "value": [
+        "feeCharged",
+        "barrierAccess",
+        "underground"
+      ],
+      "metadata": {}
+    },
+    "layout": {
+      "type": "StructuredValue",
+      "value": [
+        "multiLevel"
+      ],
+      "metadata": {}
+    },
+    "location": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          3.87976196,
+          43.60856092
+        ]
+      },
+      "metadata": {}
+    },
+    "name": {
+      "type": "Text",
+      "value": "Comedie",
+      "metadata": {}
+    },
+    "requiredPermit": {
+      "type": "Text",
+      "value": "noPermitNeeded",
+      "metadata": {}
+    },
+    "status": {
+      "type": "Text",
+      "value": "Open",
+      "metadata": {
+        "timestamp": {
+          "type": "DateTime",
+          "value": "2026-01-10T17:10:33.000Z"
+        }
+      }
+    },
+    "totalSpotNumber": {
+      "type": "Number",
+      "value": 664,
+      "metadata": {}
+    },
+    "collecte": {
+      "timestamp": "2026-01-10T16:18:40.035423",
+      "heure": "16:18:40",
+      "cycle": 2,
+      "test": true
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:parking:004",
+    "type": "OffStreetParking",
+    "allowedVehicleType": {
+      "type": "StructuredValue",
+      "value": [
+        "car",
+        "moped"
+      ],
+      "metadata": {}
+    },
+    "availableSpotNumber": {
+      "type": "Number",
+      "value": 132,
+      "metadata": {
+        "timestamp": {
+          "type": "DateTime",
+          "value": "2026-01-10T17:10:23.000Z"
+        }
+      }
+    },
+    "category": {
+      "type": "StructuredValue",
+      "value": [
+        "feeCharged",
+        "barrierAccess",
+        "underground"
+      ],
+      "metadata": {}
+    },
+    "layout": {
+      "type": "StructuredValue",
+      "value": [
+        "multiLevel"
+      ],
+      "metadata": {}
+    },
+    "location": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          3.88225773,
+          43.61388821
+        ]
+      },
+      "metadata": {}
+    },
+    "name": {
+      "type": "Text",
+      "value": "Corum",
+      "metadata": {}
+    },
+    "requiredPermit": {
+      "type": "Text",
+      "value": "noPermitNeeded",
+      "metadata": {}
+    },
+    "status": {
+      "type": "Text",
+      "value": "Open",
+      "metadata": {
+        "timestamp": {
+          "type": "DateTime",
+          "value": "2026-01-10T17:10:23.000Z"
+        }
+      }
+    },
+    "totalSpotNumber": {
+      "type": "Number",
+      "value": 480,
+      "metadata": {}
+    },
+    "collecte": {
+      "timestamp": "2026-01-10T16:18:40.035423",
+      "heure": "16:18:40",
+      "cycle": 2,
+      "test": true
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:parking:005",
+    "type": "OffStreetParking",
+    "allowedVehicleType": {
+      "type": "StructuredValue",
+      "value": [
+        "car",
+        "moped"
+      ],
+      "metadata": {}
+    },
+    "availableSpotNumber": {
+      "type": "Number",
+      "value": 395,
+      "metadata": {
+        "timestamp": {
+          "type": "DateTime",
+          "value": "2026-01-10T17:10:23.000Z"
+        }
+      }
+    },
+    "category": {
+      "type": "StructuredValue",
+      "value": [
+        "feeCharged",
+        "barrierAccess",
+        "underground"
+      ],
+      "metadata": {}
+    },
+    "layout": {
+      "type": "StructuredValue",
+      "value": [
+        "multiLevel"
+      ],
+      "metadata": {}
+    },
+    "location": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          3.89253074,
+          43.60784971
+        ]
+      },
+      "metadata": {}
+    },
+    "name": {
+      "type": "Text",
+      "value": "Europa",
+      "metadata": {}
+    },
+    "requiredPermit": {
+      "type": "Text",
+      "value": "noPermitNeeded",
+      "metadata": {}
+    },
+    "status": {
+      "type": "Text",
+      "value": "Open",
+      "metadata": {
+        "timestamp": {
+          "type": "DateTime",
+          "value": "2026-01-10T17:10:23.000Z"
+        }
+      }
+    },
+    "totalSpotNumber": {
+      "type": "Number",
+      "value": 591,
+      "metadata": {}
+    },
+    "collecte": {
+      "timestamp": "2026-01-10T16:18:40.035423",
+      "heure": "16:18:40",
+      "cycle": 2,
+      "test": true
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:parking:006",
+    "type": "OffStreetParking",
+    "allowedVehicleType": {
+      "type": "StructuredValue",
+      "value": [
+        "car",
+        "moped"
+      ],
+      "metadata": {}
+    },
+    "availableSpotNumber": {
+      "type": "Number",
+      "value": 464,
+      "metadata": {
+        "timestamp": {
+          "type": "DateTime",
+          "value": "2026-01-10T17:10:41.000Z"
+        }
+      }
+    },
+    "category": {
+      "type": "StructuredValue",
+      "value": [
+        "feeCharged",
+        "barrierAccess",
+        "underground"
+      ],
+      "metadata": {}
+    },
+    "layout": {
+      "type": "StructuredValue",
+      "value": [
+        "multiLevel"
+      ],
+      "metadata": {}
+    },
+    "location": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          3.87657084,
+          43.61074912
+        ]
+      },
+      "metadata": {}
+    },
+    "name": {
+      "type": "Text",
+      "value": "Foch",
+      "metadata": {}
+    },
+    "requiredPermit": {
+      "type": "Text",
+      "value": "noPermitNeeded",
+      "metadata": {}
+    },
+    "status": {
+      "type": "Text",
+      "value": "Open",
+      "metadata": {
+        "timestamp": {
+          "type": "DateTime",
+          "value": "2026-01-10T17:10:41.000Z"
+        }
+      }
+    },
+    "totalSpotNumber": {
+      "type": "Number",
+      "value": 620,
+      "metadata": {}
+    },
+    "collecte": {
+      "timestamp": "2026-01-10T16:18:40.035423",
+      "heure": "16:18:40",
+      "cycle": 2,
+      "test": true
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:parking:007",
+    "type": "OffStreetParking",
+    "allowedVehicleType": {
+      "type": "StructuredValue",
+      "value": [
+        "car",
+        "moped"
+      ],
+      "metadata": {}
+    },
+    "availableSpotNumber": {
+      "type": "Number",
+      "value": 160,
+      "metadata": {
+        "timestamp": {
+          "type": "DateTime",
+          "value": "2026-01-10T17:10:23.000Z"
+        }
+      }
+    },
+    "category": {
+      "type": "StructuredValue",
+      "value": [
+        "feeCharged",
+        "barrierAccess",
+        "underground"
+      ],
+      "metadata": {}
+    },
+    "layout": {
+      "type": "StructuredValue",
+      "value": [
+        "multiLevel"
+      ],
+      "metadata": {}
+    },
+    "location": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          3.87137436,
+          43.60695138
+        ]
+      },
+      "metadata": {}
+    },
+    "name": {
+      "type": "Text",
+      "value": "Gambetta",
+      "metadata": {}
+    },
+    "requiredPermit": {
+      "type": "Text",
+      "value": "noPermitNeeded",
+      "metadata": {}
+    },
+    "status": {
+      "type": "Text",
+      "value": "Open",
+      "metadata": {
+        "timestamp": {
+          "type": "DateTime",
+          "value": "2026-01-10T17:10:23.000Z"
+        }
+      }
+    },
+    "totalSpotNumber": {
+      "type": "Number",
+      "value": 452,
+      "metadata": {}
+    },
+    "collecte": {
+      "timestamp": "2026-01-10T16:18:40.035423",
+      "heure": "16:18:40",
+      "cycle": 2,
+      "test": true
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:parking:008",
+    "type": "OffStreetParking",
+    "allowedVehicleType": {
+      "type": "StructuredValue",
+      "value": [
+        "car",
+        "moped"
+      ],
+      "metadata": {}
+    },
+    "availableSpotNumber": {
+      "type": "Number",
+      "value": 379,
+      "metadata": {
+        "timestamp": {
+          "type": "DateTime",
+          "value": "2026-01-10T17:10:09.000Z"
+        }
+      }
+    },
+    "category": {
+      "type": "StructuredValue",
+      "value": [
+        "feeCharged",
+        "barrierAccess",
+        "underground"
+      ],
+      "metadata": {}
+    },
+    "layout": {
+      "type": "StructuredValue",
+      "value": [
+        "multiLevel"
+      ],
+      "metadata": {}
+    },
+    "location": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          3.87891,
+          43.604024
+        ]
+      },
+      "metadata": {}
+    },
+    "name": {
+      "type": "Text",
+      "value": "Gare",
+      "metadata": {}
+    },
+    "requiredPermit": {
+      "type": "Text",
+      "value": "noPermitNeeded",
+      "metadata": {}
+    },
+    "status": {
+      "type": "Text",
+      "value": "Open",
+      "metadata": {
+        "timestamp": {
+          "type": "DateTime",
+          "value": "2026-01-10T17:10:09.000Z"
+        }
+      }
+    },
+    "totalSpotNumber": {
+      "type": "Number",
+      "value": 656,
+      "metadata": {}
+    },
+    "collecte": {
+      "timestamp": "2026-01-10T16:18:40.035423",
+      "heure": "16:18:40",
+      "cycle": 2,
+      "test": true
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:parking:009",
+    "type": "OffStreetParking",
+    "allowedVehicleType": {
+      "type": "StructuredValue",
+      "value": [
+        "car",
+        "moped"
+      ],
+      "metadata": {}
+    },
+    "availableSpotNumber": {
+      "type": "Number",
+      "value": 274,
+      "metadata": {
+        "timestamp": {
+          "type": "DateTime",
+          "value": "2025-12-31T16:39:58.000Z"
+        }
+      }
+    },
+    "category": {
+      "type": "StructuredValue",
+      "value": [
+        "feeCharged",
+        "barrierAccess",
+        "underground"
+      ],
+      "metadata": {}
+    },
+    "layout": {
+      "type": "StructuredValue",
+      "value": [
+        "multiLevel"
+      ],
+      "metadata": {}
+    },
+    "location": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          3.88184418,
+          43.60923384
+        ]
+      },
+      "metadata": {}
+    },
+    "name": {
+      "type": "Text",
+      "value": "Triangle",
+      "metadata": {}
+    },
+    "requiredPermit": {
+      "type": "Text",
+      "value": "noPermitNeeded",
+      "metadata": {}
+    },
+    "status": {
+      "type": "Text",
+      "value": "Open",
+      "metadata": {
+        "timestamp": {
+          "type": "DateTime",
+          "value": "2025-12-31T16:39:58.000Z"
+        }
+      }
+    },
+    "totalSpotNumber": {
+      "type": "Number",
+      "value": 434,
+      "metadata": {}
+    },
+    "collecte": {
+      "timestamp": "2026-01-10T16:18:40.035423",
+      "heure": "16:18:40",
+      "cycle": 2,
+      "test": true
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:parking:010",
+    "type": "OffStreetParking",
+    "allowedVehicleType": {
+      "type": "StructuredValue",
+      "value": [
+        "car",
+        "moped"
+      ],
+      "metadata": {}
+    },
+    "availableSpotNumber": {
+      "type": "Number",
+      "value": 403,
+      "metadata": {
+        "timestamp": {
+          "type": "DateTime",
+          "value": "2025-12-31T16:40:32.000Z"
+        }
+      }
+    },
+    "category": {
+      "type": "StructuredValue",
+      "value": [
+        "feeCharged",
+        "barrierAccess",
+        "underground"
+      ],
+      "metadata": {}
+    },
+    "layout": {
+      "type": "StructuredValue",
+      "value": [
+        "multiLevel"
+      ],
+      "metadata": {}
+    },
+    "location": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          3.87019117,
+          43.61224494
+        ]
+      },
+      "metadata": {}
+    },
+    "name": {
+      "type": "Text",
+      "value": "Pitot",
+      "metadata": {}
+    },
+    "requiredPermit": {
+      "type": "Text",
+      "value": "noPermitNeeded",
+      "metadata": {}
+    },
+    "status": {
+      "type": "Text",
+      "value": "Open",
+      "metadata": {
+        "timestamp": {
+          "type": "DateTime",
+          "value": "2025-12-31T16:40:32.000Z"
+        }
+      }
+    },
+    "totalSpotNumber": {
+      "type": "Number",
+      "value": 590,
+      "metadata": {}
+    },
+    "collecte": {
+      "timestamp": "2026-01-10T16:18:40.035423",
+      "heure": "16:18:40",
+      "cycle": 2,
+      "test": true
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:parking:011",
+    "type": "OffStreetParking",
+    "allowedVehicleType": {
+      "type": "StructuredValue",
+      "value": [
+        "car",
+        "moped"
+      ],
+      "metadata": {}
+    },
+    "availableSpotNumber": {
+      "type": "Number",
+      "value": 714,
+      "metadata": {
+        "timestamp": {
+          "type": "DateTime",
+          "value": "2026-01-10T17:09:57.000Z"
+        }
+      }
+    },
+    "category": {
+      "type": "StructuredValue",
+      "value": [
+        "feeCharged",
+        "barrierAccess",
+        "underground"
+      ],
+      "metadata": {}
+    },
+    "layout": {
+      "type": "StructuredValue",
+      "value": [
+        "multiLevel"
+      ],
+      "metadata": {}
+    },
+    "location": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          3.9178495,
+          43.60495377
+        ]
+      },
+      "metadata": {}
+    },
+    "name": {
+      "type": "Text",
+      "value": "Circe",
+      "metadata": {}
+    },
+    "requiredPermit": {
+      "type": "Text",
+      "value": "noPermitNeeded",
+      "metadata": {}
+    },
+    "status": {
+      "type": "Text",
+      "value": "Open",
+      "metadata": {
+        "timestamp": {
+          "type": "DateTime",
+          "value": "2026-01-10T17:09:57.000Z"
+        }
+      }
+    },
+    "totalSpotNumber": {
+      "type": "Number",
+      "value": 1200,
+      "metadata": {}
+    },
+    "collecte": {
+      "timestamp": "2026-01-10T16:18:40.035423",
+      "heure": "16:18:40",
+      "cycle": 2,
+      "test": true
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:parking:012",
+    "type": "OffStreetParking",
+    "allowedVehicleType": {
+      "type": "StructuredValue",
+      "value": [
+        "car",
+        "moped"
+      ],
+      "metadata": {}
+    },
+    "availableSpotNumber": {
+      "type": "Number",
+      "value": 351,
+      "metadata": {
+        "timestamp": {
+          "type": "DateTime",
+          "value": "2026-01-10T17:09:57.000Z"
+        }
+      }
+    },
+    "category": {
+      "type": "StructuredValue",
+      "value": [
+        "feeCharged",
+        "barrierAccess",
+        "underground"
+      ],
+      "metadata": {}
+    },
+    "layout": {
+      "type": "StructuredValue",
+      "value": [
+        "multiLevel"
+      ],
+      "metadata": {}
+    },
+    "location": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          3.8907158,
+          43.59098509
+        ]
+      },
+      "metadata": {}
+    },
+    "name": {
+      "type": "Text",
+      "value": "Garcia Lorca",
+      "metadata": {}
+    },
+    "requiredPermit": {
+      "type": "Text",
+      "value": "noPermitNeeded",
+      "metadata": {}
+    },
+    "status": {
+      "type": "Text",
+      "value": "Open",
+      "metadata": {
+        "timestamp": {
+          "type": "DateTime",
+          "value": "2026-01-10T17:09:57.000Z"
+        }
+      }
+    },
+    "totalSpotNumber": {
+      "type": "Number",
+      "value": 400,
+      "metadata": {}
+    },
+    "collecte": {
+      "timestamp": "2026-01-10T16:18:40.035423",
+      "heure": "16:18:40",
+      "cycle": 2,
+      "test": true
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:parking:013",
+    "type": "OffStreetParking",
+    "allowedVehicleType": {
+      "type": "StructuredValue",
+      "value": [
+        "car",
+        "moped"
+      ],
+      "metadata": {}
+    },
+    "availableSpotNumber": {
+      "type": "Number",
+      "value": 185,
+      "metadata": {
+        "timestamp": {
+          "type": "DateTime",
+          "value": "2026-01-10T17:09:57.000Z"
+        }
+      }
+    },
+    "category": {
+      "type": "StructuredValue",
+      "value": [
+        "feeCharged",
+        "barrierAccess",
+        "underground"
+      ],
+      "metadata": {}
+    },
+    "layout": {
+      "type": "StructuredValue",
+      "value": [
+        "multiLevel"
+      ],
+      "metadata": {}
+    },
+    "location": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          3.81966554,
+          43.61623716
+        ]
+      },
+      "metadata": {}
+    },
+    "name": {
+      "type": "Text",
+      "value": "Mosson",
+      "metadata": {}
+    },
+    "requiredPermit": {
+      "type": "Text",
+      "value": "noPermitNeeded",
+      "metadata": {}
+    },
+    "status": {
+      "type": "Text",
+      "value": "Open",
+      "metadata": {
+        "timestamp": {
+          "type": "DateTime",
+          "value": "2026-01-10T17:09:57.000Z"
+        }
+      }
+    },
+    "totalSpotNumber": {
+      "type": "Number",
+      "value": 328,
+      "metadata": {}
+    },
+    "collecte": {
+      "timestamp": "2026-01-10T16:18:40.035423",
+      "heure": "16:18:40",
+      "cycle": 2,
+      "test": true
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:parking:014",
+    "type": "OffStreetParking",
+    "allowedVehicleType": {
+      "type": "StructuredValue",
+      "value": [
+        "car",
+        "moped"
+      ],
+      "metadata": {}
+    },
+    "availableSpotNumber": {
+      "type": "Number",
+      "value": 129,
+      "metadata": {
+        "timestamp": {
+          "type": "DateTime",
+          "value": "2026-01-10T17:10:07.000Z"
+        }
+      }
+    },
+    "category": {
+      "type": "StructuredValue",
+      "value": [
+        "feeCharged",
+        "barrierAccess",
+        "underground"
+      ],
+      "metadata": {}
+    },
+    "layout": {
+      "type": "StructuredValue",
+      "value": [
+        "multiLevel"
+      ],
+      "metadata": {}
+    },
+    "location": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          3.8602246,
+          43.58383263
+        ]
+      },
+      "metadata": {}
+    },
+    "name": {
+      "type": "Text",
+      "value": "Sabines",
+      "metadata": {}
+    },
+    "requiredPermit": {
+      "type": "Text",
+      "value": "noPermitNeeded",
+      "metadata": {}
+    },
+    "status": {
+      "type": "Text",
+      "value": "Open",
+      "metadata": {
+        "timestamp": {
+          "type": "DateTime",
+          "value": "2026-01-10T17:10:07.000Z"
+        }
+      }
+    },
+    "totalSpotNumber": {
+      "type": "Number",
+      "value": 285,
+      "metadata": {}
+    },
+    "collecte": {
+      "timestamp": "2026-01-10T16:18:40.035423",
+      "heure": "16:18:40",
+      "cycle": 2,
+      "test": true
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:parking:015",
+    "type": "OffStreetParking",
+    "allowedVehicleType": {
+      "type": "StructuredValue",
+      "value": [
+        "car",
+        "moped"
+      ],
+      "metadata": {}
+    },
+    "availableSpotNumber": {
+      "type": "Number",
+      "value": 276,
+      "metadata": {
+        "timestamp": {
+          "type": "DateTime",
+          "value": "2026-01-10T17:10:07.000Z"
+        }
+      }
+    },
+    "category": {
+      "type": "StructuredValue",
+      "value": [
+        "feeCharged",
+        "barrierAccess",
+        "underground"
+      ],
+      "metadata": {}
+    },
+    "layout": {
+      "type": "StructuredValue",
+      "value": [
+        "multiLevel"
+      ],
+      "metadata": {}
+    },
+    "location": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          3.92229536,
+          43.63419194
+        ]
+      },
+      "metadata": {}
+    },
+    "name": {
+      "type": "Text",
+      "value": "Sablassou",
+      "metadata": {}
+    },
+    "requiredPermit": {
+      "type": "Text",
+      "value": "noPermitNeeded",
+      "metadata": {}
+    },
+    "status": {
+      "type": "Text",
+      "value": "Open",
+      "metadata": {
+        "timestamp": {
+          "type": "DateTime",
+          "value": "2026-01-10T17:10:07.000Z"
+        }
+      }
+    },
+    "totalSpotNumber": {
+      "type": "Number",
+      "value": 379,
+      "metadata": {}
+    },
+    "collecte": {
+      "timestamp": "2026-01-10T16:18:40.035423",
+      "heure": "16:18:40",
+      "cycle": 2,
+      "test": true
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:parking:016",
+    "type": "OffStreetParking",
+    "allowedVehicleType": {
+      "type": "StructuredValue",
+      "value": [
+        "car",
+        "moped"
+      ],
+      "metadata": {}
+    },
+    "availableSpotNumber": {
+      "type": "Number",
+      "value": 209,
+      "metadata": {
+        "timestamp": {
+          "type": "DateTime",
+          "value": "2026-01-10T17:09:57.000Z"
+        }
+      }
+    },
+    "category": {
+      "type": "StructuredValue",
+      "value": [
+        "feeCharged",
+        "barrierAccess",
+        "underground"
+      ],
+      "metadata": {}
+    },
+    "layout": {
+      "type": "StructuredValue",
+      "value": [
+        "multiLevel"
+      ],
+      "metadata": {}
+    },
+    "location": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          3.8379312,
+          43.57082225
+        ]
+      },
+      "metadata": {}
+    },
+    "name": {
+      "type": "Text",
+      "value": "Saint Jean Le Sec",
+      "metadata": {}
+    },
+    "requiredPermit": {
+      "type": "Text",
+      "value": "noPermitNeeded",
+      "metadata": {}
+    },
+    "status": {
+      "type": "Text",
+      "value": "Open",
+      "metadata": {
+        "timestamp": {
+          "type": "DateTime",
+          "value": "2026-01-10T17:09:57.000Z"
+        }
+      }
+    },
+    "totalSpotNumber": {
+      "type": "Number",
+      "value": 285,
+      "metadata": {}
+    },
+    "collecte": {
+      "timestamp": "2026-01-10T16:18:40.035423",
+      "heure": "16:18:40",
+      "cycle": 2,
+      "test": true
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:parking:017",
+    "type": "OffStreetParking",
+    "allowedVehicleType": {
+      "type": "StructuredValue",
+      "value": [
+        "car",
+        "moped"
+      ],
+      "metadata": {}
+    },
+    "availableSpotNumber": {
+      "type": "Number",
+      "value": 52,
+      "metadata": {
+        "timestamp": {
+          "type": "DateTime",
+          "value": "2026-01-10T17:10:07.000Z"
+        }
+      }
+    },
+    "category": {
+      "type": "StructuredValue",
+      "value": [
+        "feeCharged",
+        "barrierAccess",
+        "underground"
+      ],
+      "metadata": {}
+    },
+    "layout": {
+      "type": "StructuredValue",
+      "value": [
+        "multiLevel"
+      ],
+      "metadata": {}
+    },
+    "location": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          3.82772365,
+          43.63895359
+        ]
+      },
+      "metadata": {}
+    },
+    "name": {
+      "type": "Text",
+      "value": "Euromedecine",
+      "metadata": {}
+    },
+    "requiredPermit": {
+      "type": "Text",
+      "value": "noPermitNeeded",
+      "metadata": {}
+    },
+    "status": {
+      "type": "Text",
+      "value": "Open",
+      "metadata": {
+        "timestamp": {
+          "type": "DateTime",
+          "value": "2026-01-10T17:10:07.000Z"
+        }
+      }
+    },
+    "totalSpotNumber": {
+      "type": "Number",
+      "value": 239,
+      "metadata": {}
+    },
+    "collecte": {
+      "timestamp": "2026-01-10T16:18:40.035423",
+      "heure": "16:18:40",
+      "cycle": 2,
+      "test": true
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:parking:018",
+    "type": "OffStreetParking",
+    "allowedVehicleType": {
+      "type": "StructuredValue",
+      "value": [
+        "car",
+        "moped"
+      ],
+      "metadata": {}
+    },
+    "availableSpotNumber": {
+      "type": "Number",
+      "value": 396,
+      "metadata": {
+        "timestamp": {
+          "type": "DateTime",
+          "value": "2026-01-10T17:10:07.000Z"
+        }
+      }
+    },
+    "category": {
+      "type": "StructuredValue",
+      "value": [
+        "feeCharged",
+        "barrierAccess",
+        "underground"
+      ],
+      "metadata": {}
+    },
+    "layout": {
+      "type": "StructuredValue",
+      "value": [
+        "multiLevel"
+      ],
+      "metadata": {}
+    },
+    "location": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          3.84859796,
+          43.63456232
+        ]
+      },
+      "metadata": {}
+    },
+    "name": {
+      "type": "Text",
+      "value": "Occitanie",
+      "metadata": {}
+    },
+    "requiredPermit": {
+      "type": "Text",
+      "value": "noPermitNeeded",
+      "metadata": {}
+    },
+    "status": {
+      "type": "Text",
+      "value": "Open",
+      "metadata": {
+        "timestamp": {
+          "type": "DateTime",
+          "value": "2026-01-10T17:10:07.000Z"
+        }
+      }
+    },
+    "totalSpotNumber": {
+      "type": "Number",
+      "value": 615,
+      "metadata": {}
+    },
+    "collecte": {
+      "timestamp": "2026-01-10T16:18:40.035423",
+      "heure": "16:18:40",
+      "cycle": 2,
+      "test": true
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:parking:019",
+    "type": "OffStreetParking",
+    "allowedVehicleType": {
+      "type": "StructuredValue",
+      "value": [
+        "car",
+        "moped"
+      ],
+      "metadata": {}
+    },
+    "availableSpotNumber": {
+      "type": "Number",
+      "value": 45,
+      "metadata": {
+        "timestamp": {
+          "type": "DateTime",
+          "value": "2026-01-10T17:10:37.000Z"
+        }
+      }
+    },
+    "category": {
+      "type": "StructuredValue",
+      "value": [
+        "feeCharged",
+        "barrierAccess",
+        "underground"
+      ],
+      "metadata": {}
+    },
+    "layout": {
+      "type": "StructuredValue",
+      "value": [
+        "multiLevel"
+      ],
+      "metadata": {}
+    },
+    "location": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          3.898411,
+          43.63286
+        ]
+      },
+      "metadata": {}
+    },
+    "name": {
+      "type": "Text",
+      "value": "Vicarello",
+      "metadata": {}
+    },
+    "requiredPermit": {
+      "type": "Text",
+      "value": "noPermitNeeded",
+      "metadata": {}
+    },
+    "status": {
+      "type": "Text",
+      "value": "Open",
+      "metadata": {
+        "timestamp": {
+          "type": "DateTime",
+          "value": "2026-01-10T17:10:37.000Z"
+        }
+      }
+    },
+    "totalSpotNumber": {
+      "type": "Number",
+      "value": 64,
+      "metadata": {}
+    },
+    "collecte": {
+      "timestamp": "2026-01-10T16:18:40.035423",
+      "heure": "16:18:40",
+      "cycle": 2,
+      "test": true
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:parking:020",
+    "type": "OffStreetParking",
+    "allowedVehicleType": {
+      "type": "StructuredValue",
+      "value": [
+        "car",
+        "moped"
+      ],
+      "metadata": {}
+    },
+    "availableSpotNumber": {
+      "type": "Number",
+      "value": 74,
+      "metadata": {
+        "timestamp": {
+          "type": "DateTime",
+          "value": "2025-12-23T15:36:31.000Z"
+        }
+      }
+    },
+    "category": {
+      "type": "StructuredValue",
+      "value": [
+        "feeCharged",
+        "barrierAccess",
+        "underground"
+      ],
+      "metadata": {}
+    },
+    "layout": {
+      "type": "StructuredValue",
+      "value": [
+        "multiLevel"
+      ],
+      "metadata": {}
+    },
+    "location": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          3.91529,
+          43.604526
+        ]
+      },
+      "metadata": {}
+    },
+    "name": {
+      "type": "Text",
+      "value": "Gaumont EST",
+      "metadata": {}
+    },
+    "requiredPermit": {
+      "type": "Text",
+      "value": "noPermitNeeded",
+      "metadata": {}
+    },
+    "status": {
+      "type": "Text",
+      "value": "Open",
+      "metadata": {
+        "timestamp": {
+          "type": "DateTime",
+          "value": "2025-12-23T15:36:31.000Z"
+        }
+      }
+    },
+    "totalSpotNumber": {
+      "type": "Number",
+      "value": 109,
+      "metadata": {}
+    },
+    "collecte": {
+      "timestamp": "2026-01-10T16:18:40.035423",
+      "heure": "16:18:40",
+      "cycle": 2,
+      "test": true
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:parking:021",
+    "type": "OffStreetParking",
+    "allowedVehicleType": {
+      "type": "StructuredValue",
+      "value": [
+        "car",
+        "moped"
+      ],
+      "metadata": {}
+    },
+    "availableSpotNumber": {
+      "type": "Number",
+      "value": 5,
+      "metadata": {
+        "timestamp": {
+          "type": "DateTime",
+          "value": "2025-12-23T15:36:31.000Z"
+        }
+      }
+    },
+    "category": {
+      "type": "StructuredValue",
+      "value": [
+        "feeCharged",
+        "barrierAccess",
+        "underground"
+      ],
+      "metadata": {}
+    },
+    "layout": {
+      "type": "StructuredValue",
+      "value": [
+        "multiLevel"
+      ],
+      "metadata": {}
+    },
+    "location": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          3.914158,
+          43.604824
+        ]
+      },
+      "metadata": {}
+    },
+    "name": {
+      "type": "Text",
+      "value": "Gaumont OUEST",
+      "metadata": {}
+    },
+    "requiredPermit": {
+      "type": "Text",
+      "value": "noPermitNeeded",
+      "metadata": {}
+    },
+    "status": {
+      "type": "Text",
+      "value": "Open",
+      "metadata": {
+        "timestamp": {
+          "type": "DateTime",
+          "value": "2025-12-23T15:36:31.000Z"
+        }
+      }
+    },
+    "totalSpotNumber": {
+      "type": "Number",
+      "value": 250,
+      "metadata": {}
+    },
+    "collecte": {
+      "timestamp": "2026-01-10T16:18:40.035423",
+      "heure": "16:18:40",
+      "cycle": 2,
+      "test": true
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:parking:022",
+    "type": "OffStreetParking",
+    "allowedVehicleType": {
+      "type": "StructuredValue",
+      "value": [
+        "car",
+        "moped"
+      ],
+      "metadata": {}
+    },
+    "availableSpotNumber": {
+      "type": "Number",
+      "value": 162,
+      "metadata": {
+        "timestamp": {
+          "type": "DateTime",
+          "value": "2026-01-10T17:10:07.000Z"
+        }
+      }
+    },
+    "category": {
+      "type": "StructuredValue",
+      "value": [
+        "feeCharged",
+        "barrierAccess",
+        "underground"
+      ],
+      "metadata": {}
+    },
+    "layout": {
+      "type": "StructuredValue",
+      "value": [
+        "multiLevel"
+      ],
+      "metadata": {}
+    },
+    "location": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          3.8977621,
+          43.6285421
+        ]
+      },
+      "metadata": {}
+    },
+    "name": {
+      "type": "Text",
+      "value": "Charles de Gaulle",
+      "metadata": {}
+    },
+    "requiredPermit": {
+      "type": "Text",
+      "value": "noPermitNeeded",
+      "metadata": {}
+    },
+    "status": {
+      "type": "Text",
+      "value": "Open",
+      "metadata": {
+        "timestamp": {
+          "type": "DateTime",
+          "value": "2026-01-10T17:10:07.000Z"
+        }
+      }
+    },
+    "totalSpotNumber": {
+      "type": "Number",
+      "value": 260,
+      "metadata": {}
+    },
+    "collecte": {
+      "timestamp": "2026-01-10T16:18:40.035423",
+      "heure": "16:18:40",
+      "cycle": 2,
+      "test": true
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:parking:024",
+    "type": "OffStreetParking",
+    "allowedVehicleType": {
+      "type": "StructuredValue",
+      "value": [
+        "car",
+        "moped"
+      ],
+      "metadata": {}
+    },
+    "availableSpotNumber": {
+      "type": "Number",
+      "value": 1013,
+      "metadata": {
+        "timestamp": {
+          "type": "DateTime",
+          "value": "2025-12-31T16:42:19.099Z"
+        }
+      }
+    },
+    "category": {
+      "type": "StructuredValue",
+      "value": [
+        "feeCharged",
+        "barrierAccess",
+        "underground"
+      ],
+      "metadata": {}
+    },
+    "layout": {
+      "type": "StructuredValue",
+      "value": [
+        "multiLevel"
+      ],
+      "metadata": {}
+    },
+    "location": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          3.88515,
+          43.607697
+        ]
+      },
+      "metadata": {}
+    },
+    "name": {
+      "type": "Text",
+      "value": "Polygone",
+      "metadata": {}
+    },
+    "requiredPermit": {
+      "type": "Text",
+      "value": "noPermitNeeded",
+      "metadata": {}
+    },
+    "status": {
+      "type": "Text",
+      "value": "Open",
+      "metadata": {
+        "timestamp": {
+          "type": "DateTime",
+          "value": "2025-12-31T16:42:19.099Z"
+        }
+      }
+    },
+    "totalSpotNumber": {
+      "type": "Number",
+      "value": 1911,
+      "metadata": {}
+    },
+    "collecte": {
+      "timestamp": "2026-01-10T16:18:40.035423",
+      "heure": "16:18:40",
+      "cycle": 2,
+      "test": true
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:parking:002",
+    "type": "OffStreetParking",
+    "allowedVehicleType": {
+      "type": "StructuredValue",
+      "value": [
+        "car",
+        "moped"
+      ],
+      "metadata": {}
+    },
+    "availableSpotNumber": {
+      "type": "Number",
+      "value": 75,
+      "metadata": {
+        "timestamp": {
+          "type": "DateTime",
+          "value": "2026-01-10T17:10:15.000Z"
+        }
+      }
+    },
+    "category": {
+      "type": "StructuredValue",
+      "value": [
+        "feeCharged",
+        "barrierAccess",
+        "underground"
+      ],
+      "metadata": {}
+    },
+    "layout": {
+      "type": "StructuredValue",
+      "value": [
+        "multiLevel"
+      ],
+      "metadata": {}
+    },
+    "location": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          3.8732007,
+          43.61100267
+        ]
+      },
+      "metadata": {}
+    },
+    "name": {
+      "type": "Text",
+      "value": "Arc de Triomphe",
+      "metadata": {}
+    },
+    "requiredPermit": {
+      "type": "Text",
+      "value": "noPermitNeeded",
+      "metadata": {}
+    },
+    "status": {
+      "type": "Text",
+      "value": "Open",
+      "metadata": {
+        "timestamp": {
+          "type": "DateTime",
+          "value": "2026-01-10T17:10:15.000Z"
+        }
+      }
+    },
+    "totalSpotNumber": {
+      "type": "Number",
+      "value": 440,
+      "metadata": {}
+    },
+    "collecte": {
+      "timestamp": "2026-01-10T16:18:40.035423",
+      "heure": "16:18:40",
+      "cycle": 2,
+      "test": true
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:parking:025",
+    "type": "OffStreetParking",
+    "allowedVehicleType": {
+      "type": "StructuredValue",
+      "value": [
+        "car",
+        "moped"
+      ],
+      "metadata": {}
+    },
+    "availableSpotNumber": {
+      "type": "Number",
+      "value": 199,
+      "metadata": {
+        "timestamp": {
+          "type": "DateTime",
+          "value": "2025-12-23T15:36:31.000Z"
+        }
+      }
+    },
+    "category": {
+      "type": "StructuredValue",
+      "value": [
+        "feeCharged",
+        "barrierAccess",
+        "underground"
+      ],
+      "metadata": {}
+    },
+    "layout": {
+      "type": "StructuredValue",
+      "value": [
+        "multiLevel"
+      ],
+      "metadata": {}
+    },
+    "location": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          3.9178495,
+          43.60495377
+        ]
+      },
+      "metadata": {}
+    },
+    "name": {
+      "type": "Text",
+      "value": "Gaumont-Circe",
+      "metadata": {}
+    },
+    "requiredPermit": {
+      "type": "Text",
+      "value": "noPermitNeeded",
+      "metadata": {}
+    },
+    "status": {
+      "type": "Text",
+      "value": "Open",
+      "metadata": {
+        "timestamp": {
+          "type": "DateTime",
+          "value": "2025-12-23T15:36:31.000Z"
+        }
+      }
+    },
+    "totalSpotNumber": {
+      "type": "Number",
+      "value": 500,
+      "metadata": {}
+    },
+    "collecte": {
+      "timestamp": "2026-01-10T16:18:40.035423",
+      "heure": "16:18:40",
+      "cycle": 2,
+      "test": true
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:parking:001",
+    "type": "OffStreetParking",
+    "allowedVehicleType": {
+      "type": "StructuredValue",
+      "value": [
+        "car",
+        "moped"
+      ],
+      "metadata": {}
+    },
+    "availableSpotNumber": {
+      "type": "Number",
+      "value": 97,
+      "metadata": {
+        "timestamp": {
+          "type": "DateTime",
+          "value": "2026-01-10T17:15:28.000Z"
+        }
+      }
+    },
+    "category": {
+      "type": "StructuredValue",
+      "value": [
+        "feeCharged",
+        "barrierAccess",
+        "underground"
+      ],
+      "metadata": {}
+    },
+    "layout": {
+      "type": "StructuredValue",
+      "value": [
+        "multiLevel"
+      ],
+      "metadata": {}
+    },
+    "location": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          3.88881893,
+          43.60871606
+        ]
+      },
+      "metadata": {}
+    },
+    "name": {
+      "type": "Text",
+      "value": "Antigone",
+      "metadata": {}
+    },
+    "requiredPermit": {
+      "type": "Text",
+      "value": "noPermitNeeded",
+      "metadata": {}
+    },
+    "status": {
+      "type": "Text",
+      "value": "Open",
+      "metadata": {
+        "timestamp": {
+          "type": "DateTime",
+          "value": "2026-01-10T17:15:28.000Z"
+        }
+      }
+    },
+    "totalSpotNumber": {
+      "type": "Number",
+      "value": 239,
+      "metadata": {}
+    },
+    "collecte": {
+      "timestamp": "2026-01-10T16:23:40.938266",
+      "heure": "16:23:40",
+      "cycle": 3,
+      "test": true
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:parking:003",
+    "type": "OffStreetParking",
+    "allowedVehicleType": {
+      "type": "StructuredValue",
+      "value": [
+        "car",
+        "moped"
+      ],
+      "metadata": {}
+    },
+    "availableSpotNumber": {
+      "type": "Number",
+      "value": 141,
+      "metadata": {
+        "timestamp": {
+          "type": "DateTime",
+          "value": "2026-01-10T17:15:34.000Z"
+        }
+      }
+    },
+    "category": {
+      "type": "StructuredValue",
+      "value": [
+        "feeCharged",
+        "barrierAccess",
+        "underground"
+      ],
+      "metadata": {}
+    },
+    "layout": {
+      "type": "StructuredValue",
+      "value": [
+        "multiLevel"
+      ],
+      "metadata": {}
+    },
+    "location": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          3.87976196,
+          43.60856092
+        ]
+      },
+      "metadata": {}
+    },
+    "name": {
+      "type": "Text",
+      "value": "Comedie",
+      "metadata": {}
+    },
+    "requiredPermit": {
+      "type": "Text",
+      "value": "noPermitNeeded",
+      "metadata": {}
+    },
+    "status": {
+      "type": "Text",
+      "value": "Open",
+      "metadata": {
+        "timestamp": {
+          "type": "DateTime",
+          "value": "2026-01-10T17:15:34.000Z"
+        }
+      }
+    },
+    "totalSpotNumber": {
+      "type": "Number",
+      "value": 664,
+      "metadata": {}
+    },
+    "collecte": {
+      "timestamp": "2026-01-10T16:23:40.938266",
+      "heure": "16:23:40",
+      "cycle": 3,
+      "test": true
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:parking:004",
+    "type": "OffStreetParking",
+    "allowedVehicleType": {
+      "type": "StructuredValue",
+      "value": [
+        "car",
+        "moped"
+      ],
+      "metadata": {}
+    },
+    "availableSpotNumber": {
+      "type": "Number",
+      "value": 131,
+      "metadata": {
+        "timestamp": {
+          "type": "DateTime",
+          "value": "2026-01-10T17:15:17.000Z"
+        }
+      }
+    },
+    "category": {
+      "type": "StructuredValue",
+      "value": [
+        "feeCharged",
+        "barrierAccess",
+        "underground"
+      ],
+      "metadata": {}
+    },
+    "layout": {
+      "type": "StructuredValue",
+      "value": [
+        "multiLevel"
+      ],
+      "metadata": {}
+    },
+    "location": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          3.88225773,
+          43.61388821
+        ]
+      },
+      "metadata": {}
+    },
+    "name": {
+      "type": "Text",
+      "value": "Corum",
+      "metadata": {}
+    },
+    "requiredPermit": {
+      "type": "Text",
+      "value": "noPermitNeeded",
+      "metadata": {}
+    },
+    "status": {
+      "type": "Text",
+      "value": "Open",
+      "metadata": {
+        "timestamp": {
+          "type": "DateTime",
+          "value": "2026-01-10T17:15:17.000Z"
+        }
+      }
+    },
+    "totalSpotNumber": {
+      "type": "Number",
+      "value": 480,
+      "metadata": {}
+    },
+    "collecte": {
+      "timestamp": "2026-01-10T16:23:40.938266",
+      "heure": "16:23:40",
+      "cycle": 3,
+      "test": true
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:parking:005",
+    "type": "OffStreetParking",
+    "allowedVehicleType": {
+      "type": "StructuredValue",
+      "value": [
+        "car",
+        "moped"
+      ],
+      "metadata": {}
+    },
+    "availableSpotNumber": {
+      "type": "Number",
+      "value": 390,
+      "metadata": {
+        "timestamp": {
+          "type": "DateTime",
+          "value": "2026-01-10T17:15:17.000Z"
+        }
+      }
+    },
+    "category": {
+      "type": "StructuredValue",
+      "value": [
+        "feeCharged",
+        "barrierAccess",
+        "underground"
+      ],
+      "metadata": {}
+    },
+    "layout": {
+      "type": "StructuredValue",
+      "value": [
+        "multiLevel"
+      ],
+      "metadata": {}
+    },
+    "location": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          3.89253074,
+          43.60784971
+        ]
+      },
+      "metadata": {}
+    },
+    "name": {
+      "type": "Text",
+      "value": "Europa",
+      "metadata": {}
+    },
+    "requiredPermit": {
+      "type": "Text",
+      "value": "noPermitNeeded",
+      "metadata": {}
+    },
+    "status": {
+      "type": "Text",
+      "value": "Open",
+      "metadata": {
+        "timestamp": {
+          "type": "DateTime",
+          "value": "2026-01-10T17:15:17.000Z"
+        }
+      }
+    },
+    "totalSpotNumber": {
+      "type": "Number",
+      "value": 591,
+      "metadata": {}
+    },
+    "collecte": {
+      "timestamp": "2026-01-10T16:23:40.938266",
+      "heure": "16:23:40",
+      "cycle": 3,
+      "test": true
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:parking:006",
+    "type": "OffStreetParking",
+    "allowedVehicleType": {
+      "type": "StructuredValue",
+      "value": [
+        "car",
+        "moped"
+      ],
+      "metadata": {}
+    },
+    "availableSpotNumber": {
+      "type": "Number",
+      "value": 463,
+      "metadata": {
+        "timestamp": {
+          "type": "DateTime",
+          "value": "2026-01-10T17:15:45.000Z"
+        }
+      }
+    },
+    "category": {
+      "type": "StructuredValue",
+      "value": [
+        "feeCharged",
+        "barrierAccess",
+        "underground"
+      ],
+      "metadata": {}
+    },
+    "layout": {
+      "type": "StructuredValue",
+      "value": [
+        "multiLevel"
+      ],
+      "metadata": {}
+    },
+    "location": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          3.87657084,
+          43.61074912
+        ]
+      },
+      "metadata": {}
+    },
+    "name": {
+      "type": "Text",
+      "value": "Foch",
+      "metadata": {}
+    },
+    "requiredPermit": {
+      "type": "Text",
+      "value": "noPermitNeeded",
+      "metadata": {}
+    },
+    "status": {
+      "type": "Text",
+      "value": "Open",
+      "metadata": {
+        "timestamp": {
+          "type": "DateTime",
+          "value": "2026-01-10T17:15:45.000Z"
+        }
+      }
+    },
+    "totalSpotNumber": {
+      "type": "Number",
+      "value": 620,
+      "metadata": {}
+    },
+    "collecte": {
+      "timestamp": "2026-01-10T16:23:40.938266",
+      "heure": "16:23:40",
+      "cycle": 3,
+      "test": true
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:parking:007",
+    "type": "OffStreetParking",
+    "allowedVehicleType": {
+      "type": "StructuredValue",
+      "value": [
+        "car",
+        "moped"
+      ],
+      "metadata": {}
+    },
+    "availableSpotNumber": {
+      "type": "Number",
+      "value": 160,
+      "metadata": {
+        "timestamp": {
+          "type": "DateTime",
+          "value": "2026-01-10T17:15:17.000Z"
+        }
+      }
+    },
+    "category": {
+      "type": "StructuredValue",
+      "value": [
+        "feeCharged",
+        "barrierAccess",
+        "underground"
+      ],
+      "metadata": {}
+    },
+    "layout": {
+      "type": "StructuredValue",
+      "value": [
+        "multiLevel"
+      ],
+      "metadata": {}
+    },
+    "location": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          3.87137436,
+          43.60695138
+        ]
+      },
+      "metadata": {}
+    },
+    "name": {
+      "type": "Text",
+      "value": "Gambetta",
+      "metadata": {}
+    },
+    "requiredPermit": {
+      "type": "Text",
+      "value": "noPermitNeeded",
+      "metadata": {}
+    },
+    "status": {
+      "type": "Text",
+      "value": "Open",
+      "metadata": {
+        "timestamp": {
+          "type": "DateTime",
+          "value": "2026-01-10T17:15:17.000Z"
+        }
+      }
+    },
+    "totalSpotNumber": {
+      "type": "Number",
+      "value": 452,
+      "metadata": {}
+    },
+    "collecte": {
+      "timestamp": "2026-01-10T16:23:40.938266",
+      "heure": "16:23:40",
+      "cycle": 3,
+      "test": true
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:parking:008",
+    "type": "OffStreetParking",
+    "allowedVehicleType": {
+      "type": "StructuredValue",
+      "value": [
+        "car",
+        "moped"
+      ],
+      "metadata": {}
+    },
+    "availableSpotNumber": {
+      "type": "Number",
+      "value": 381,
+      "metadata": {
+        "timestamp": {
+          "type": "DateTime",
+          "value": "2026-01-10T17:15:09.000Z"
+        }
+      }
+    },
+    "category": {
+      "type": "StructuredValue",
+      "value": [
+        "feeCharged",
+        "barrierAccess",
+        "underground"
+      ],
+      "metadata": {}
+    },
+    "layout": {
+      "type": "StructuredValue",
+      "value": [
+        "multiLevel"
+      ],
+      "metadata": {}
+    },
+    "location": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          3.87891,
+          43.604024
+        ]
+      },
+      "metadata": {}
+    },
+    "name": {
+      "type": "Text",
+      "value": "Gare",
+      "metadata": {}
+    },
+    "requiredPermit": {
+      "type": "Text",
+      "value": "noPermitNeeded",
+      "metadata": {}
+    },
+    "status": {
+      "type": "Text",
+      "value": "Open",
+      "metadata": {
+        "timestamp": {
+          "type": "DateTime",
+          "value": "2026-01-10T17:15:09.000Z"
+        }
+      }
+    },
+    "totalSpotNumber": {
+      "type": "Number",
+      "value": 656,
+      "metadata": {}
+    },
+    "collecte": {
+      "timestamp": "2026-01-10T16:23:40.938266",
+      "heure": "16:23:40",
+      "cycle": 3,
+      "test": true
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:parking:009",
+    "type": "OffStreetParking",
+    "allowedVehicleType": {
+      "type": "StructuredValue",
+      "value": [
+        "car",
+        "moped"
+      ],
+      "metadata": {}
+    },
+    "availableSpotNumber": {
+      "type": "Number",
+      "value": 274,
+      "metadata": {
+        "timestamp": {
+          "type": "DateTime",
+          "value": "2025-12-31T16:39:58.000Z"
+        }
+      }
+    },
+    "category": {
+      "type": "StructuredValue",
+      "value": [
+        "feeCharged",
+        "barrierAccess",
+        "underground"
+      ],
+      "metadata": {}
+    },
+    "layout": {
+      "type": "StructuredValue",
+      "value": [
+        "multiLevel"
+      ],
+      "metadata": {}
+    },
+    "location": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          3.88184418,
+          43.60923384
+        ]
+      },
+      "metadata": {}
+    },
+    "name": {
+      "type": "Text",
+      "value": "Triangle",
+      "metadata": {}
+    },
+    "requiredPermit": {
+      "type": "Text",
+      "value": "noPermitNeeded",
+      "metadata": {}
+    },
+    "status": {
+      "type": "Text",
+      "value": "Open",
+      "metadata": {
+        "timestamp": {
+          "type": "DateTime",
+          "value": "2025-12-31T16:39:58.000Z"
+        }
+      }
+    },
+    "totalSpotNumber": {
+      "type": "Number",
+      "value": 434,
+      "metadata": {}
+    },
+    "collecte": {
+      "timestamp": "2026-01-10T16:23:40.938266",
+      "heure": "16:23:40",
+      "cycle": 3,
+      "test": true
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:parking:010",
+    "type": "OffStreetParking",
+    "allowedVehicleType": {
+      "type": "StructuredValue",
+      "value": [
+        "car",
+        "moped"
+      ],
+      "metadata": {}
+    },
+    "availableSpotNumber": {
+      "type": "Number",
+      "value": 403,
+      "metadata": {
+        "timestamp": {
+          "type": "DateTime",
+          "value": "2025-12-31T16:40:32.000Z"
+        }
+      }
+    },
+    "category": {
+      "type": "StructuredValue",
+      "value": [
+        "feeCharged",
+        "barrierAccess",
+        "underground"
+      ],
+      "metadata": {}
+    },
+    "layout": {
+      "type": "StructuredValue",
+      "value": [
+        "multiLevel"
+      ],
+      "metadata": {}
+    },
+    "location": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          3.87019117,
+          43.61224494
+        ]
+      },
+      "metadata": {}
+    },
+    "name": {
+      "type": "Text",
+      "value": "Pitot",
+      "metadata": {}
+    },
+    "requiredPermit": {
+      "type": "Text",
+      "value": "noPermitNeeded",
+      "metadata": {}
+    },
+    "status": {
+      "type": "Text",
+      "value": "Open",
+      "metadata": {
+        "timestamp": {
+          "type": "DateTime",
+          "value": "2025-12-31T16:40:32.000Z"
+        }
+      }
+    },
+    "totalSpotNumber": {
+      "type": "Number",
+      "value": 590,
+      "metadata": {}
+    },
+    "collecte": {
+      "timestamp": "2026-01-10T16:23:40.938266",
+      "heure": "16:23:40",
+      "cycle": 3,
+      "test": true
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:parking:011",
+    "type": "OffStreetParking",
+    "allowedVehicleType": {
+      "type": "StructuredValue",
+      "value": [
+        "car",
+        "moped"
+      ],
+      "metadata": {}
+    },
+    "availableSpotNumber": {
+      "type": "Number",
+      "value": 719,
+      "metadata": {
+        "timestamp": {
+          "type": "DateTime",
+          "value": "2026-01-10T17:14:57.000Z"
+        }
+      }
+    },
+    "category": {
+      "type": "StructuredValue",
+      "value": [
+        "feeCharged",
+        "barrierAccess",
+        "underground"
+      ],
+      "metadata": {}
+    },
+    "layout": {
+      "type": "StructuredValue",
+      "value": [
+        "multiLevel"
+      ],
+      "metadata": {}
+    },
+    "location": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          3.9178495,
+          43.60495377
+        ]
+      },
+      "metadata": {}
+    },
+    "name": {
+      "type": "Text",
+      "value": "Circe",
+      "metadata": {}
+    },
+    "requiredPermit": {
+      "type": "Text",
+      "value": "noPermitNeeded",
+      "metadata": {}
+    },
+    "status": {
+      "type": "Text",
+      "value": "Open",
+      "metadata": {
+        "timestamp": {
+          "type": "DateTime",
+          "value": "2026-01-10T17:14:57.000Z"
+        }
+      }
+    },
+    "totalSpotNumber": {
+      "type": "Number",
+      "value": 1200,
+      "metadata": {}
+    },
+    "collecte": {
+      "timestamp": "2026-01-10T16:23:40.938266",
+      "heure": "16:23:40",
+      "cycle": 3,
+      "test": true
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:parking:012",
+    "type": "OffStreetParking",
+    "allowedVehicleType": {
+      "type": "StructuredValue",
+      "value": [
+        "car",
+        "moped"
+      ],
+      "metadata": {}
+    },
+    "availableSpotNumber": {
+      "type": "Number",
+      "value": 352,
+      "metadata": {
+        "timestamp": {
+          "type": "DateTime",
+          "value": "2026-01-10T17:14:57.000Z"
+        }
+      }
+    },
+    "category": {
+      "type": "StructuredValue",
+      "value": [
+        "feeCharged",
+        "barrierAccess",
+        "underground"
+      ],
+      "metadata": {}
+    },
+    "layout": {
+      "type": "StructuredValue",
+      "value": [
+        "multiLevel"
+      ],
+      "metadata": {}
+    },
+    "location": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          3.8907158,
+          43.59098509
+        ]
+      },
+      "metadata": {}
+    },
+    "name": {
+      "type": "Text",
+      "value": "Garcia Lorca",
+      "metadata": {}
+    },
+    "requiredPermit": {
+      "type": "Text",
+      "value": "noPermitNeeded",
+      "metadata": {}
+    },
+    "status": {
+      "type": "Text",
+      "value": "Open",
+      "metadata": {
+        "timestamp": {
+          "type": "DateTime",
+          "value": "2026-01-10T17:14:57.000Z"
+        }
+      }
+    },
+    "totalSpotNumber": {
+      "type": "Number",
+      "value": 400,
+      "metadata": {}
+    },
+    "collecte": {
+      "timestamp": "2026-01-10T16:23:40.938266",
+      "heure": "16:23:40",
+      "cycle": 3,
+      "test": true
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:parking:013",
+    "type": "OffStreetParking",
+    "allowedVehicleType": {
+      "type": "StructuredValue",
+      "value": [
+        "car",
+        "moped"
+      ],
+      "metadata": {}
+    },
+    "availableSpotNumber": {
+      "type": "Number",
+      "value": 182,
+      "metadata": {
+        "timestamp": {
+          "type": "DateTime",
+          "value": "2026-01-10T17:14:57.000Z"
+        }
+      }
+    },
+    "category": {
+      "type": "StructuredValue",
+      "value": [
+        "feeCharged",
+        "barrierAccess",
+        "underground"
+      ],
+      "metadata": {}
+    },
+    "layout": {
+      "type": "StructuredValue",
+      "value": [
+        "multiLevel"
+      ],
+      "metadata": {}
+    },
+    "location": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          3.81966554,
+          43.61623716
+        ]
+      },
+      "metadata": {}
+    },
+    "name": {
+      "type": "Text",
+      "value": "Mosson",
+      "metadata": {}
+    },
+    "requiredPermit": {
+      "type": "Text",
+      "value": "noPermitNeeded",
+      "metadata": {}
+    },
+    "status": {
+      "type": "Text",
+      "value": "Open",
+      "metadata": {
+        "timestamp": {
+          "type": "DateTime",
+          "value": "2026-01-10T17:14:57.000Z"
+        }
+      }
+    },
+    "totalSpotNumber": {
+      "type": "Number",
+      "value": 328,
+      "metadata": {}
+    },
+    "collecte": {
+      "timestamp": "2026-01-10T16:23:40.938266",
+      "heure": "16:23:40",
+      "cycle": 3,
+      "test": true
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:parking:014",
+    "type": "OffStreetParking",
+    "allowedVehicleType": {
+      "type": "StructuredValue",
+      "value": [
+        "car",
+        "moped"
+      ],
+      "metadata": {}
+    },
+    "availableSpotNumber": {
+      "type": "Number",
+      "value": 131,
+      "metadata": {
+        "timestamp": {
+          "type": "DateTime",
+          "value": "2026-01-10T17:15:08.000Z"
+        }
+      }
+    },
+    "category": {
+      "type": "StructuredValue",
+      "value": [
+        "feeCharged",
+        "barrierAccess",
+        "underground"
+      ],
+      "metadata": {}
+    },
+    "layout": {
+      "type": "StructuredValue",
+      "value": [
+        "multiLevel"
+      ],
+      "metadata": {}
+    },
+    "location": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          3.8602246,
+          43.58383263
+        ]
+      },
+      "metadata": {}
+    },
+    "name": {
+      "type": "Text",
+      "value": "Sabines",
+      "metadata": {}
+    },
+    "requiredPermit": {
+      "type": "Text",
+      "value": "noPermitNeeded",
+      "metadata": {}
+    },
+    "status": {
+      "type": "Text",
+      "value": "Open",
+      "metadata": {
+        "timestamp": {
+          "type": "DateTime",
+          "value": "2026-01-10T17:15:08.000Z"
+        }
+      }
+    },
+    "totalSpotNumber": {
+      "type": "Number",
+      "value": 285,
+      "metadata": {}
+    },
+    "collecte": {
+      "timestamp": "2026-01-10T16:23:40.938266",
+      "heure": "16:23:40",
+      "cycle": 3,
+      "test": true
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:parking:015",
+    "type": "OffStreetParking",
+    "allowedVehicleType": {
+      "type": "StructuredValue",
+      "value": [
+        "car",
+        "moped"
+      ],
+      "metadata": {}
+    },
+    "availableSpotNumber": {
+      "type": "Number",
+      "value": 276,
+      "metadata": {
+        "timestamp": {
+          "type": "DateTime",
+          "value": "2026-01-10T17:15:08.000Z"
+        }
+      }
+    },
+    "category": {
+      "type": "StructuredValue",
+      "value": [
+        "feeCharged",
+        "barrierAccess",
+        "underground"
+      ],
+      "metadata": {}
+    },
+    "layout": {
+      "type": "StructuredValue",
+      "value": [
+        "multiLevel"
+      ],
+      "metadata": {}
+    },
+    "location": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          3.92229536,
+          43.63419194
+        ]
+      },
+      "metadata": {}
+    },
+    "name": {
+      "type": "Text",
+      "value": "Sablassou",
+      "metadata": {}
+    },
+    "requiredPermit": {
+      "type": "Text",
+      "value": "noPermitNeeded",
+      "metadata": {}
+    },
+    "status": {
+      "type": "Text",
+      "value": "Open",
+      "metadata": {
+        "timestamp": {
+          "type": "DateTime",
+          "value": "2026-01-10T17:15:08.000Z"
+        }
+      }
+    },
+    "totalSpotNumber": {
+      "type": "Number",
+      "value": 379,
+      "metadata": {}
+    },
+    "collecte": {
+      "timestamp": "2026-01-10T16:23:40.938266",
+      "heure": "16:23:40",
+      "cycle": 3,
+      "test": true
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:parking:016",
+    "type": "OffStreetParking",
+    "allowedVehicleType": {
+      "type": "StructuredValue",
+      "value": [
+        "car",
+        "moped"
+      ],
+      "metadata": {}
+    },
+    "availableSpotNumber": {
+      "type": "Number",
+      "value": 207,
+      "metadata": {
+        "timestamp": {
+          "type": "DateTime",
+          "value": "2026-01-10T17:14:57.000Z"
+        }
+      }
+    },
+    "category": {
+      "type": "StructuredValue",
+      "value": [
+        "feeCharged",
+        "barrierAccess",
+        "underground"
+      ],
+      "metadata": {}
+    },
+    "layout": {
+      "type": "StructuredValue",
+      "value": [
+        "multiLevel"
+      ],
+      "metadata": {}
+    },
+    "location": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          3.8379312,
+          43.57082225
+        ]
+      },
+      "metadata": {}
+    },
+    "name": {
+      "type": "Text",
+      "value": "Saint Jean Le Sec",
+      "metadata": {}
+    },
+    "requiredPermit": {
+      "type": "Text",
+      "value": "noPermitNeeded",
+      "metadata": {}
+    },
+    "status": {
+      "type": "Text",
+      "value": "Open",
+      "metadata": {
+        "timestamp": {
+          "type": "DateTime",
+          "value": "2026-01-10T17:14:57.000Z"
+        }
+      }
+    },
+    "totalSpotNumber": {
+      "type": "Number",
+      "value": 285,
+      "metadata": {}
+    },
+    "collecte": {
+      "timestamp": "2026-01-10T16:23:40.938266",
+      "heure": "16:23:40",
+      "cycle": 3,
+      "test": true
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:parking:017",
+    "type": "OffStreetParking",
+    "allowedVehicleType": {
+      "type": "StructuredValue",
+      "value": [
+        "car",
+        "moped"
+      ],
+      "metadata": {}
+    },
+    "availableSpotNumber": {
+      "type": "Number",
+      "value": 53,
+      "metadata": {
+        "timestamp": {
+          "type": "DateTime",
+          "value": "2026-01-10T17:14:57.000Z"
+        }
+      }
+    },
+    "category": {
+      "type": "StructuredValue",
+      "value": [
+        "feeCharged",
+        "barrierAccess",
+        "underground"
+      ],
+      "metadata": {}
+    },
+    "layout": {
+      "type": "StructuredValue",
+      "value": [
+        "multiLevel"
+      ],
+      "metadata": {}
+    },
+    "location": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          3.82772365,
+          43.63895359
+        ]
+      },
+      "metadata": {}
+    },
+    "name": {
+      "type": "Text",
+      "value": "Euromedecine",
+      "metadata": {}
+    },
+    "requiredPermit": {
+      "type": "Text",
+      "value": "noPermitNeeded",
+      "metadata": {}
+    },
+    "status": {
+      "type": "Text",
+      "value": "Open",
+      "metadata": {
+        "timestamp": {
+          "type": "DateTime",
+          "value": "2026-01-10T17:14:57.000Z"
+        }
+      }
+    },
+    "totalSpotNumber": {
+      "type": "Number",
+      "value": 239,
+      "metadata": {}
+    },
+    "collecte": {
+      "timestamp": "2026-01-10T16:23:40.938266",
+      "heure": "16:23:40",
+      "cycle": 3,
+      "test": true
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:parking:018",
+    "type": "OffStreetParking",
+    "allowedVehicleType": {
+      "type": "StructuredValue",
+      "value": [
+        "car",
+        "moped"
+      ],
+      "metadata": {}
+    },
+    "availableSpotNumber": {
+      "type": "Number",
+      "value": 397,
+      "metadata": {
+        "timestamp": {
+          "type": "DateTime",
+          "value": "2026-01-10T17:14:57.000Z"
+        }
+      }
+    },
+    "category": {
+      "type": "StructuredValue",
+      "value": [
+        "feeCharged",
+        "barrierAccess",
+        "underground"
+      ],
+      "metadata": {}
+    },
+    "layout": {
+      "type": "StructuredValue",
+      "value": [
+        "multiLevel"
+      ],
+      "metadata": {}
+    },
+    "location": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          3.84859796,
+          43.63456232
+        ]
+      },
+      "metadata": {}
+    },
+    "name": {
+      "type": "Text",
+      "value": "Occitanie",
+      "metadata": {}
+    },
+    "requiredPermit": {
+      "type": "Text",
+      "value": "noPermitNeeded",
+      "metadata": {}
+    },
+    "status": {
+      "type": "Text",
+      "value": "Open",
+      "metadata": {
+        "timestamp": {
+          "type": "DateTime",
+          "value": "2026-01-10T17:14:57.000Z"
+        }
+      }
+    },
+    "totalSpotNumber": {
+      "type": "Number",
+      "value": 615,
+      "metadata": {}
+    },
+    "collecte": {
+      "timestamp": "2026-01-10T16:23:40.938266",
+      "heure": "16:23:40",
+      "cycle": 3,
+      "test": true
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:parking:019",
+    "type": "OffStreetParking",
+    "allowedVehicleType": {
+      "type": "StructuredValue",
+      "value": [
+        "car",
+        "moped"
+      ],
+      "metadata": {}
+    },
+    "availableSpotNumber": {
+      "type": "Number",
+      "value": 45,
+      "metadata": {
+        "timestamp": {
+          "type": "DateTime",
+          "value": "2026-01-10T17:15:43.000Z"
+        }
+      }
+    },
+    "category": {
+      "type": "StructuredValue",
+      "value": [
+        "feeCharged",
+        "barrierAccess",
+        "underground"
+      ],
+      "metadata": {}
+    },
+    "layout": {
+      "type": "StructuredValue",
+      "value": [
+        "multiLevel"
+      ],
+      "metadata": {}
+    },
+    "location": {
+      "type": "geo:json",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          3.898411,
+          43.63286
+        ]
+      },
+      "metadata": {}
+    },
+    "name": {
+      "type": "Text",
+      "value": "Vicarello",
+      "metadata": {}
+    },
+    "requiredPermit": {
+      "type": "Text",
+      "value": "noPermitNeeded",
+      "metadata": {}
+    },
+    "status": {
+      "type": "Text",
+      "value": "Open",
+      "metadata": {
+        "timestamp": {
+          "type": "DateTime",
+          "value": "2026-01-10T17:15:43.000Z"
+        }
+      }
+    },
+    "totalSpotNumber": {
+      "type": "Number",
+      "value": 64,
+      "metadata": {}
+    },
+    "collecte": {
+      "timestamp": "2026-01-10T16:23:40.938266",
+      "heure": "16:23:40",
       "cycle": 3,
       "test": true
     }
@@ -5353,8 +5353,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-10T14:21:29.144390",
-      "heure": "14:21:29",
+      "timestamp": "2026-01-10T16:23:40.938266",
+      "heure": "16:23:40",
       "cycle": 3,
       "test": true
     }
@@ -5433,8 +5433,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-10T14:21:29.144390",
-      "heure": "14:21:29",
+      "timestamp": "2026-01-10T16:23:40.938266",
+      "heure": "16:23:40",
       "cycle": 3,
       "test": true
     }
@@ -5452,11 +5452,11 @@
     },
     "availableSpotNumber": {
       "type": "Number",
-      "value": 172,
+      "value": 163,
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-10T15:15:02.000Z"
+          "value": "2026-01-10T17:15:08.000Z"
         }
       }
     },
@@ -5503,7 +5503,7 @@
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-10T15:15:02.000Z"
+          "value": "2026-01-10T17:15:08.000Z"
         }
       }
     },
@@ -5513,8 +5513,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-10T14:21:29.144390",
-      "heure": "14:21:29",
+      "timestamp": "2026-01-10T16:23:40.938266",
+      "heure": "16:23:40",
       "cycle": 3,
       "test": true
     }
@@ -5593,8 +5593,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-10T14:21:29.144390",
-      "heure": "14:21:29",
+      "timestamp": "2026-01-10T16:23:40.938266",
+      "heure": "16:23:40",
       "cycle": 3,
       "test": true
     }
@@ -5612,11 +5612,11 @@
     },
     "availableSpotNumber": {
       "type": "Number",
-      "value": 75,
+      "value": 60,
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-10T15:15:21.000Z"
+          "value": "2026-01-10T17:15:19.000Z"
         }
       }
     },
@@ -5663,7 +5663,7 @@
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-10T15:15:21.000Z"
+          "value": "2026-01-10T17:15:19.000Z"
         }
       }
     },
@@ -5673,8 +5673,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-10T14:21:29.144390",
-      "heure": "14:21:29",
+      "timestamp": "2026-01-10T16:23:40.938266",
+      "heure": "16:23:40",
       "cycle": 3,
       "test": true
     }
@@ -5753,8 +5753,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-10T14:21:29.144390",
-      "heure": "14:21:29",
+      "timestamp": "2026-01-10T16:23:40.938266",
+      "heure": "16:23:40",
       "cycle": 3,
       "test": true
     }
