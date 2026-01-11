@@ -1,4 +1,4 @@
-GitHub Actions Test - 2026-01-11 10:22
-Total records: 72
+GitHub Actions Test - 2026-01-11 12:24
+Total records: 24
 Parkings found: 24
 Status: ✅ SUCCESS
