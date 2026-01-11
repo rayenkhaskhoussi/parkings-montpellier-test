@@ -12,11 +12,11 @@
     },
     "availableSpotNumber": {
       "type": "Number",
-      "value": 154,
+      "value": 157,
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-11T07:10:23.000Z"
+          "value": "2026-01-11T09:10:19.000Z"
         }
       }
     },
@@ -63,7 +63,7 @@
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-11T07:10:23.000Z"
+          "value": "2026-01-11T09:10:19.000Z"
         }
       }
     },
@@ -73,8 +73,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-11T06:18:46.647561",
-      "heure": "06:18:46",
+      "timestamp": "2026-01-11T08:15:48.776511",
+      "heure": "08:15:48",
       "cycle": 1,
       "test": true
     }
@@ -96,7 +96,7 @@
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-11T07:10:33.000Z"
+          "value": "2026-01-11T09:05:42.000Z"
         }
       }
     },
@@ -143,7 +143,7 @@
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-11T07:10:33.000Z"
+          "value": "2026-01-11T09:05:42.000Z"
         }
       }
     },
@@ -153,8 +153,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-11T06:18:46.647561",
-      "heure": "06:18:46",
+      "timestamp": "2026-01-11T08:15:48.776511",
+      "heure": "08:15:48",
       "cycle": 1,
       "test": true
     }
@@ -172,11 +172,11 @@
     },
     "availableSpotNumber": {
       "type": "Number",
-      "value": 311,
+      "value": 314,
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-11T07:10:23.000Z"
+          "value": "2026-01-11T09:05:27.000Z"
         }
       }
     },
@@ -223,7 +223,7 @@
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-11T07:10:23.000Z"
+          "value": "2026-01-11T09:05:27.000Z"
         }
       }
     },
@@ -233,8 +233,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-11T06:18:46.647561",
-      "heure": "06:18:46",
+      "timestamp": "2026-01-11T08:15:48.776511",
+      "heure": "08:15:48",
       "cycle": 1,
       "test": true
     }
@@ -252,11 +252,11 @@
     },
     "availableSpotNumber": {
       "type": "Number",
-      "value": 488,
+      "value": 485,
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-11T07:10:23.000Z"
+          "value": "2026-01-11T09:05:27.000Z"
         }
       }
     },
@@ -303,7 +303,7 @@
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-11T07:10:23.000Z"
+          "value": "2026-01-11T09:05:27.000Z"
         }
       }
     },
@@ -313,8 +313,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-11T06:18:46.647561",
-      "heure": "06:18:46",
+      "timestamp": "2026-01-11T08:15:48.776511",
+      "heure": "08:15:48",
       "cycle": 1,
       "test": true
     }
@@ -332,11 +332,11 @@
     },
     "availableSpotNumber": {
       "type": "Number",
-      "value": 585,
+      "value": 589,
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-11T07:10:41.000Z"
+          "value": "2026-01-11T09:10:42.000Z"
         }
       }
     },
@@ -383,7 +383,7 @@
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-11T07:10:41.000Z"
+          "value": "2026-01-11T09:10:42.000Z"
         }
       }
     },
@@ -393,8 +393,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-11T06:18:46.647561",
-      "heure": "06:18:46",
+      "timestamp": "2026-01-11T08:15:48.776511",
+      "heure": "08:15:48",
       "cycle": 1,
       "test": true
     }
@@ -412,11 +412,11 @@
     },
     "availableSpotNumber": {
       "type": "Number",
-      "value": 209,
+      "value": 216,
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-11T07:10:23.000Z"
+          "value": "2026-01-11T09:05:27.000Z"
         }
       }
     },
@@ -463,7 +463,7 @@
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-11T07:10:23.000Z"
+          "value": "2026-01-11T09:05:27.000Z"
         }
       }
     },
@@ -473,8 +473,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-11T06:18:46.647561",
-      "heure": "06:18:46",
+      "timestamp": "2026-01-11T08:15:48.776511",
+      "heure": "08:15:48",
       "cycle": 1,
       "test": true
     }
@@ -492,11 +492,11 @@
     },
     "availableSpotNumber": {
       "type": "Number",
-      "value": 447,
+      "value": 421,
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-11T07:10:10.000Z"
+          "value": "2026-01-11T09:05:10.000Z"
         }
       }
     },
@@ -543,7 +543,7 @@
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-11T07:10:10.000Z"
+          "value": "2026-01-11T09:05:10.000Z"
         }
       }
     },
@@ -553,8 +553,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-11T06:18:46.647561",
-      "heure": "06:18:46",
+      "timestamp": "2026-01-11T08:15:48.776511",
+      "heure": "08:15:48",
       "cycle": 1,
       "test": true
     }
@@ -633,8 +633,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-11T06:18:46.647561",
-      "heure": "06:18:46",
+      "timestamp": "2026-01-11T08:15:48.776511",
+      "heure": "08:15:48",
       "cycle": 1,
       "test": true
     }
@@ -713,8 +713,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-11T06:18:46.647561",
-      "heure": "06:18:46",
+      "timestamp": "2026-01-11T08:15:48.776511",
+      "heure": "08:15:48",
       "cycle": 1,
       "test": true
     }
@@ -732,11 +732,11 @@
     },
     "availableSpotNumber": {
       "type": "Number",
-      "value": 1160,
+      "value": 1156,
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-11T07:10:07.000Z"
+          "value": "2026-01-11T09:05:07.000Z"
         }
       }
     },
@@ -783,7 +783,7 @@
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-11T07:10:07.000Z"
+          "value": "2026-01-11T09:05:07.000Z"
         }
       }
     },
@@ -793,8 +793,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-11T06:18:46.647561",
-      "heure": "06:18:46",
+      "timestamp": "2026-01-11T08:15:48.776511",
+      "heure": "08:15:48",
       "cycle": 1,
       "test": true
     }
@@ -812,11 +812,11 @@
     },
     "availableSpotNumber": {
       "type": "Number",
-      "value": 388,
+      "value": 386,
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-11T07:10:07.000Z"
+          "value": "2026-01-11T09:05:07.000Z"
         }
       }
     },
@@ -863,7 +863,7 @@
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-11T07:10:07.000Z"
+          "value": "2026-01-11T09:05:07.000Z"
         }
       }
     },
@@ -873,8 +873,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-11T06:18:46.647561",
-      "heure": "06:18:46",
+      "timestamp": "2026-01-11T08:15:48.776511",
+      "heure": "08:15:48",
       "cycle": 1,
       "test": true
     }
@@ -892,11 +892,11 @@
     },
     "availableSpotNumber": {
       "type": "Number",
-      "value": 184,
+      "value": 3,
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-11T07:00:02.000Z"
+          "value": "2026-01-11T09:05:07.000Z"
         }
       }
     },
@@ -943,7 +943,7 @@
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-11T07:00:02.000Z"
+          "value": "2026-01-11T09:05:07.000Z"
         }
       }
     },
@@ -953,8 +953,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-11T06:18:46.647561",
-      "heure": "06:18:46",
+      "timestamp": "2026-01-11T08:15:48.776511",
+      "heure": "08:15:48",
       "cycle": 1,
       "test": true
     }
@@ -972,11 +972,11 @@
     },
     "availableSpotNumber": {
       "type": "Number",
-      "value": 192,
+      "value": 188,
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-11T07:05:09.000Z"
+          "value": "2026-01-11T09:05:07.000Z"
         }
       }
     },
@@ -1023,7 +1023,7 @@
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-11T07:05:09.000Z"
+          "value": "2026-01-11T09:05:07.000Z"
         }
       }
     },
@@ -1033,8 +1033,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-11T06:18:46.647561",
-      "heure": "06:18:46",
+      "timestamp": "2026-01-11T08:15:48.776511",
+      "heure": "08:15:48",
       "cycle": 1,
       "test": true
     }
@@ -1052,11 +1052,11 @@
     },
     "availableSpotNumber": {
       "type": "Number",
-      "value": 367,
+      "value": 365,
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-11T07:05:09.000Z"
+          "value": "2026-01-11T09:05:07.000Z"
         }
       }
     },
@@ -1103,7 +1103,7 @@
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-11T07:05:09.000Z"
+          "value": "2026-01-11T09:05:07.000Z"
         }
       }
     },
@@ -1113,8 +1113,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-11T06:18:46.647561",
-      "heure": "06:18:46",
+      "timestamp": "2026-01-11T08:15:48.776511",
+      "heure": "08:15:48",
       "cycle": 1,
       "test": true
     }
@@ -1136,7 +1136,7 @@
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-11T07:04:59.000Z"
+          "value": "2026-01-11T09:04:56.000Z"
         }
       }
     },
@@ -1183,7 +1183,7 @@
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-11T07:04:59.000Z"
+          "value": "2026-01-11T09:04:56.000Z"
         }
       }
     },
@@ -1193,8 +1193,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-11T06:18:46.647561",
-      "heure": "06:18:46",
+      "timestamp": "2026-01-11T08:15:48.776511",
+      "heure": "08:15:48",
       "cycle": 1,
       "test": true
     }
@@ -1212,11 +1212,11 @@
     },
     "availableSpotNumber": {
       "type": "Number",
-      "value": 96,
+      "value": 95,
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-11T07:10:07.000Z"
+          "value": "2026-01-11T09:05:07.000Z"
         }
       }
     },
@@ -1263,7 +1263,7 @@
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-11T07:10:07.000Z"
+          "value": "2026-01-11T09:05:07.000Z"
         }
       }
     },
@@ -1273,8 +1273,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-11T06:18:46.647561",
-      "heure": "06:18:46",
+      "timestamp": "2026-01-11T08:15:48.776511",
+      "heure": "08:15:48",
       "cycle": 1,
       "test": true
     }
@@ -1292,11 +1292,11 @@
     },
     "availableSpotNumber": {
       "type": "Number",
-      "value": 535,
+      "value": 532,
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-11T07:04:59.000Z"
+          "value": "2026-01-11T09:05:07.000Z"
         }
       }
     },
@@ -1343,7 +1343,7 @@
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-11T07:04:59.000Z"
+          "value": "2026-01-11T09:05:07.000Z"
         }
       }
     },
@@ -1353,8 +1353,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-11T06:18:46.647561",
-      "heure": "06:18:46",
+      "timestamp": "2026-01-11T08:15:48.776511",
+      "heure": "08:15:48",
       "cycle": 1,
       "test": true
     }
@@ -1372,11 +1372,11 @@
     },
     "availableSpotNumber": {
       "type": "Number",
-      "value": 48,
+      "value": 50,
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-11T07:10:01.000Z"
+          "value": "2026-01-11T09:09:59.000Z"
         }
       }
     },
@@ -1423,7 +1423,7 @@
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-11T07:10:01.000Z"
+          "value": "2026-01-11T09:09:59.000Z"
         }
       }
     },
@@ -1433,8 +1433,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-11T06:18:46.647561",
-      "heure": "06:18:46",
+      "timestamp": "2026-01-11T08:15:48.776511",
+      "heure": "08:15:48",
       "cycle": 1,
       "test": true
     }
@@ -1513,8 +1513,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-11T06:18:46.647561",
-      "heure": "06:18:46",
+      "timestamp": "2026-01-11T08:15:48.776511",
+      "heure": "08:15:48",
       "cycle": 1,
       "test": true
     }
@@ -1593,8 +1593,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-11T06:18:46.647561",
-      "heure": "06:18:46",
+      "timestamp": "2026-01-11T08:15:48.776511",
+      "heure": "08:15:48",
       "cycle": 1,
       "test": true
     }
@@ -1612,11 +1612,11 @@
     },
     "availableSpotNumber": {
       "type": "Number",
-      "value": 171,
+      "value": 174,
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-11T07:10:07.000Z"
+          "value": "2026-01-11T09:10:07.000Z"
         }
       }
     },
@@ -1663,7 +1663,7 @@
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-11T07:10:07.000Z"
+          "value": "2026-01-11T09:10:07.000Z"
         }
       }
     },
@@ -1673,8 +1673,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-11T06:18:46.647561",
-      "heure": "06:18:46",
+      "timestamp": "2026-01-11T08:15:48.776511",
+      "heure": "08:15:48",
       "cycle": 1,
       "test": true
     }
@@ -1753,8 +1753,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-11T06:18:46.647561",
-      "heure": "06:18:46",
+      "timestamp": "2026-01-11T08:15:48.776511",
+      "heure": "08:15:48",
       "cycle": 1,
       "test": true
     }
@@ -1772,11 +1772,11 @@
     },
     "availableSpotNumber": {
       "type": "Number",
-      "value": 168,
+      "value": 169,
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-11T07:10:20.000Z"
+          "value": "2026-01-11T09:10:22.000Z"
         }
       }
     },
@@ -1823,7 +1823,7 @@
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-11T07:10:20.000Z"
+          "value": "2026-01-11T09:10:22.000Z"
         }
       }
     },
@@ -1833,8 +1833,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-11T06:18:46.647561",
-      "heure": "06:18:46",
+      "timestamp": "2026-01-11T08:15:48.776511",
+      "heure": "08:15:48",
       "cycle": 1,
       "test": true
     }
@@ -1913,8 +1913,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-11T06:18:46.647561",
-      "heure": "06:18:46",
+      "timestamp": "2026-01-11T08:15:48.776511",
+      "heure": "08:15:48",
       "cycle": 1,
       "test": true
     }
@@ -1932,11 +1932,11 @@
     },
     "availableSpotNumber": {
       "type": "Number",
-      "value": 154,
+      "value": 158,
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-11T07:15:27.000Z"
+          "value": "2026-01-11T09:15:23.000Z"
         }
       }
     },
@@ -1983,7 +1983,7 @@
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-11T07:15:27.000Z"
+          "value": "2026-01-11T09:15:23.000Z"
         }
       }
     },
@@ -1993,8 +1993,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-11T06:23:47.530101",
-      "heure": "06:23:47",
+      "timestamp": "2026-01-11T08:20:49.546438",
+      "heure": "08:20:49",
       "cycle": 2,
       "test": true
     }
@@ -2012,11 +2012,11 @@
     },
     "availableSpotNumber": {
       "type": "Number",
-      "value": 456,
+      "value": 459,
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-11T07:15:39.000Z"
+          "value": "2026-01-11T09:15:42.000Z"
         }
       }
     },
@@ -2063,7 +2063,7 @@
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-11T07:15:39.000Z"
+          "value": "2026-01-11T09:15:42.000Z"
         }
       }
     },
@@ -2073,8 +2073,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-11T06:23:47.530101",
-      "heure": "06:23:47",
+      "timestamp": "2026-01-11T08:20:49.546438",
+      "heure": "08:20:49",
       "cycle": 2,
       "test": true
     }
@@ -2092,11 +2092,11 @@
     },
     "availableSpotNumber": {
       "type": "Number",
-      "value": 311,
+      "value": 312,
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-11T07:15:27.000Z"
+          "value": "2026-01-11T09:15:23.000Z"
         }
       }
     },
@@ -2143,7 +2143,7 @@
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-11T07:15:27.000Z"
+          "value": "2026-01-11T09:15:23.000Z"
         }
       }
     },
@@ -2153,8 +2153,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-11T06:23:47.530101",
-      "heure": "06:23:47",
+      "timestamp": "2026-01-11T08:20:49.546438",
+      "heure": "08:20:49",
       "cycle": 2,
       "test": true
     }
@@ -2172,11 +2172,11 @@
     },
     "availableSpotNumber": {
       "type": "Number",
-      "value": 488,
+      "value": 484,
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-11T07:15:27.000Z"
+          "value": "2026-01-11T09:15:23.000Z"
         }
       }
     },
@@ -2223,7 +2223,7 @@
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-11T07:15:27.000Z"
+          "value": "2026-01-11T09:15:23.000Z"
         }
       }
     },
@@ -2233,8 +2233,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-11T06:23:47.530101",
-      "heure": "06:23:47",
+      "timestamp": "2026-01-11T08:20:49.546438",
+      "heure": "08:20:49",
       "cycle": 2,
       "test": true
     }
@@ -2252,11 +2252,11 @@
     },
     "availableSpotNumber": {
       "type": "Number",
-      "value": 585,
+      "value": 588,
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-11T07:15:45.000Z"
+          "value": "2026-01-11T09:15:46.000Z"
         }
       }
     },
@@ -2303,7 +2303,7 @@
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-11T07:15:45.000Z"
+          "value": "2026-01-11T09:15:46.000Z"
         }
       }
     },
@@ -2313,8 +2313,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-11T06:23:47.530101",
-      "heure": "06:23:47",
+      "timestamp": "2026-01-11T08:20:49.546438",
+      "heure": "08:20:49",
       "cycle": 2,
       "test": true
     }
@@ -2332,11 +2332,11 @@
     },
     "availableSpotNumber": {
       "type": "Number",
-      "value": 210,
+      "value": 217,
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-11T07:15:27.000Z"
+          "value": "2026-01-11T09:15:23.000Z"
         }
       }
     },
@@ -2383,7 +2383,7 @@
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-11T07:15:27.000Z"
+          "value": "2026-01-11T09:15:23.000Z"
         }
       }
     },
@@ -2393,8 +2393,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-11T06:23:47.530101",
-      "heure": "06:23:47",
+      "timestamp": "2026-01-11T08:20:49.546438",
+      "heure": "08:20:49",
       "cycle": 2,
       "test": true
     }
@@ -2412,11 +2412,11 @@
     },
     "availableSpotNumber": {
       "type": "Number",
-      "value": 446,
+      "value": 428,
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-11T07:15:10.000Z"
+          "value": "2026-01-11T09:15:10.000Z"
         }
       }
     },
@@ -2463,7 +2463,7 @@
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-11T07:15:10.000Z"
+          "value": "2026-01-11T09:15:10.000Z"
         }
       }
     },
@@ -2473,8 +2473,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-11T06:23:47.530101",
-      "heure": "06:23:47",
+      "timestamp": "2026-01-11T08:20:49.546438",
+      "heure": "08:20:49",
       "cycle": 2,
       "test": true
     }
@@ -2553,8 +2553,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-11T06:23:47.530101",
-      "heure": "06:23:47",
+      "timestamp": "2026-01-11T08:20:49.546438",
+      "heure": "08:20:49",
       "cycle": 2,
       "test": true
     }
@@ -2633,8 +2633,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-11T06:23:47.530101",
-      "heure": "06:23:47",
+      "timestamp": "2026-01-11T08:20:49.546438",
+      "heure": "08:20:49",
       "cycle": 2,
       "test": true
     }
@@ -2652,11 +2652,11 @@
     },
     "availableSpotNumber": {
       "type": "Number",
-      "value": 1160,
+      "value": 1155,
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-11T07:15:04.000Z"
+          "value": "2026-01-11T09:14:59.000Z"
         }
       }
     },
@@ -2703,7 +2703,7 @@
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-11T07:15:04.000Z"
+          "value": "2026-01-11T09:14:59.000Z"
         }
       }
     },
@@ -2713,8 +2713,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-11T06:23:47.530101",
-      "heure": "06:23:47",
+      "timestamp": "2026-01-11T08:20:49.546438",
+      "heure": "08:20:49",
       "cycle": 2,
       "test": true
     }
@@ -2732,11 +2732,11 @@
     },
     "availableSpotNumber": {
       "type": "Number",
-      "value": 388,
+      "value": 386,
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-11T07:15:04.000Z"
+          "value": "2026-01-11T09:14:59.000Z"
         }
       }
     },
@@ -2783,7 +2783,7 @@
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-11T07:15:04.000Z"
+          "value": "2026-01-11T09:14:59.000Z"
         }
       }
     },
@@ -2793,8 +2793,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-11T06:23:47.530101",
-      "heure": "06:23:47",
+      "timestamp": "2026-01-11T08:20:49.546438",
+      "heure": "08:20:49",
       "cycle": 2,
       "test": true
     }
@@ -2812,11 +2812,11 @@
     },
     "availableSpotNumber": {
       "type": "Number",
-      "value": 177,
+      "value": 31,
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-11T07:15:04.000Z"
+          "value": "2026-01-11T09:09:57.000Z"
         }
       }
     },
@@ -2863,7 +2863,7 @@
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-11T07:15:04.000Z"
+          "value": "2026-01-11T09:09:57.000Z"
         }
       }
     },
@@ -2873,8 +2873,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-11T06:23:47.530101",
-      "heure": "06:23:47",
+      "timestamp": "2026-01-11T08:20:49.546438",
+      "heure": "08:20:49",
       "cycle": 2,
       "test": true
     }
@@ -2892,11 +2892,11 @@
     },
     "availableSpotNumber": {
       "type": "Number",
-      "value": 190,
+      "value": 188,
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-11T07:15:04.000Z"
+          "value": "2026-01-11T09:10:07.000Z"
         }
       }
     },
@@ -2943,7 +2943,7 @@
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-11T07:15:04.000Z"
+          "value": "2026-01-11T09:10:07.000Z"
         }
       }
     },
@@ -2953,8 +2953,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-11T06:23:47.530101",
-      "heure": "06:23:47",
+      "timestamp": "2026-01-11T08:20:49.546438",
+      "heure": "08:20:49",
       "cycle": 2,
       "test": true
     }
@@ -2972,11 +2972,11 @@
     },
     "availableSpotNumber": {
       "type": "Number",
-      "value": 367,
+      "value": 365,
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-11T07:05:09.000Z"
+          "value": "2026-01-11T09:10:07.000Z"
         }
       }
     },
@@ -3023,7 +3023,7 @@
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-11T07:05:09.000Z"
+          "value": "2026-01-11T09:10:07.000Z"
         }
       }
     },
@@ -3033,8 +3033,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-11T06:23:47.530101",
-      "heure": "06:23:47",
+      "timestamp": "2026-01-11T08:20:49.546438",
+      "heure": "08:20:49",
       "cycle": 2,
       "test": true
     }
@@ -3056,7 +3056,7 @@
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-11T07:09:56.000Z"
+          "value": "2026-01-11T09:09:57.000Z"
         }
       }
     },
@@ -3103,7 +3103,7 @@
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-11T07:09:56.000Z"
+          "value": "2026-01-11T09:09:57.000Z"
         }
       }
     },
@@ -3113,8 +3113,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-11T06:23:47.530101",
-      "heure": "06:23:47",
+      "timestamp": "2026-01-11T08:20:49.546438",
+      "heure": "08:20:49",
       "cycle": 2,
       "test": true
     }
@@ -3132,11 +3132,11 @@
     },
     "availableSpotNumber": {
       "type": "Number",
-      "value": 96,
+      "value": 95,
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-11T07:15:04.000Z"
+          "value": "2026-01-11T09:05:07.000Z"
         }
       }
     },
@@ -3183,7 +3183,7 @@
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-11T07:15:04.000Z"
+          "value": "2026-01-11T09:05:07.000Z"
         }
       }
     },
@@ -3193,8 +3193,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-11T06:23:47.530101",
-      "heure": "06:23:47",
+      "timestamp": "2026-01-11T08:20:49.546438",
+      "heure": "08:20:49",
       "cycle": 2,
       "test": true
     }
@@ -3212,11 +3212,11 @@
     },
     "availableSpotNumber": {
       "type": "Number",
-      "value": 535,
+      "value": 532,
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-11T07:15:04.000Z"
+          "value": "2026-01-11T09:10:07.000Z"
         }
       }
     },
@@ -3263,7 +3263,7 @@
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-11T07:15:04.000Z"
+          "value": "2026-01-11T09:10:07.000Z"
         }
       }
     },
@@ -3273,8 +3273,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-11T06:23:47.530101",
-      "heure": "06:23:47",
+      "timestamp": "2026-01-11T08:20:49.546438",
+      "heure": "08:20:49",
       "cycle": 2,
       "test": true
     }
@@ -3292,11 +3292,11 @@
     },
     "availableSpotNumber": {
       "type": "Number",
-      "value": 48,
+      "value": 50,
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-11T07:14:57.000Z"
+          "value": "2026-01-11T09:15:05.000Z"
         }
       }
     },
@@ -3343,7 +3343,7 @@
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-11T07:14:57.000Z"
+          "value": "2026-01-11T09:15:05.000Z"
         }
       }
     },
@@ -3353,8 +3353,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-11T06:23:47.530101",
-      "heure": "06:23:47",
+      "timestamp": "2026-01-11T08:20:49.546438",
+      "heure": "08:20:49",
       "cycle": 2,
       "test": true
     }
@@ -3433,8 +3433,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-11T06:23:47.530101",
-      "heure": "06:23:47",
+      "timestamp": "2026-01-11T08:20:49.546438",
+      "heure": "08:20:49",
       "cycle": 2,
       "test": true
     }
@@ -3513,8 +3513,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-11T06:23:47.530101",
-      "heure": "06:23:47",
+      "timestamp": "2026-01-11T08:20:49.546438",
+      "heure": "08:20:49",
       "cycle": 2,
       "test": true
     }
@@ -3532,11 +3532,11 @@
     },
     "availableSpotNumber": {
       "type": "Number",
-      "value": 171,
+      "value": 174,
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-11T07:15:04.000Z"
+          "value": "2026-01-11T09:15:09.000Z"
         }
       }
     },
@@ -3583,7 +3583,7 @@
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-11T07:15:04.000Z"
+          "value": "2026-01-11T09:15:09.000Z"
         }
       }
     },
@@ -3593,8 +3593,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-11T06:23:47.530101",
-      "heure": "06:23:47",
+      "timestamp": "2026-01-11T08:20:49.546438",
+      "heure": "08:20:49",
       "cycle": 2,
       "test": true
     }
@@ -3673,8 +3673,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-11T06:23:47.530101",
-      "heure": "06:23:47",
+      "timestamp": "2026-01-11T08:20:49.546438",
+      "heure": "08:20:49",
       "cycle": 2,
       "test": true
     }
@@ -3692,11 +3692,11 @@
     },
     "availableSpotNumber": {
       "type": "Number",
-      "value": 168,
+      "value": 169,
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-11T07:15:23.000Z"
+          "value": "2026-01-11T09:15:16.000Z"
         }
       }
     },
@@ -3743,7 +3743,7 @@
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-11T07:15:23.000Z"
+          "value": "2026-01-11T09:15:16.000Z"
         }
       }
     },
@@ -3753,8 +3753,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-11T06:23:47.530101",
-      "heure": "06:23:47",
+      "timestamp": "2026-01-11T08:20:49.546438",
+      "heure": "08:20:49",
       "cycle": 2,
       "test": true
     }
@@ -3833,8 +3833,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-11T06:23:47.530101",
-      "heure": "06:23:47",
+      "timestamp": "2026-01-11T08:20:49.546438",
+      "heure": "08:20:49",
       "cycle": 2,
       "test": true
     }
@@ -3852,11 +3852,11 @@
     },
     "availableSpotNumber": {
       "type": "Number",
-      "value": 154,
+      "value": 158,
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-11T07:20:19.000Z"
+          "value": "2026-01-11T09:20:27.000Z"
         }
       }
     },
@@ -3903,7 +3903,7 @@
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-11T07:20:19.000Z"
+          "value": "2026-01-11T09:20:27.000Z"
         }
       }
     },
@@ -3913,8 +3913,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-11T06:28:48.312183",
-      "heure": "06:28:48",
+      "timestamp": "2026-01-11T08:25:50.319730",
+      "heure": "08:25:50",
       "cycle": 3,
       "test": true
     }
@@ -3932,11 +3932,11 @@
     },
     "availableSpotNumber": {
       "type": "Number",
-      "value": 456,
+      "value": 459,
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-11T07:20:36.000Z"
+          "value": "2026-01-11T09:20:40.000Z"
         }
       }
     },
@@ -3983,7 +3983,7 @@
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-11T07:20:36.000Z"
+          "value": "2026-01-11T09:20:40.000Z"
         }
       }
     },
@@ -3993,8 +3993,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-11T06:28:48.312183",
-      "heure": "06:28:48",
+      "timestamp": "2026-01-11T08:25:50.319730",
+      "heure": "08:25:50",
       "cycle": 3,
       "test": true
     }
@@ -4012,11 +4012,11 @@
     },
     "availableSpotNumber": {
       "type": "Number",
-      "value": 311,
+      "value": 312,
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-11T07:20:19.000Z"
+          "value": "2026-01-11T09:20:27.000Z"
         }
       }
     },
@@ -4063,7 +4063,7 @@
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-11T07:20:19.000Z"
+          "value": "2026-01-11T09:20:27.000Z"
         }
       }
     },
@@ -4073,8 +4073,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-11T06:28:48.312183",
-      "heure": "06:28:48",
+      "timestamp": "2026-01-11T08:25:50.319730",
+      "heure": "08:25:50",
       "cycle": 3,
       "test": true
     }
@@ -4092,11 +4092,11 @@
     },
     "availableSpotNumber": {
       "type": "Number",
-      "value": 488,
+      "value": 484,
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-11T07:20:19.000Z"
+          "value": "2026-01-11T09:20:27.000Z"
         }
       }
     },
@@ -4143,7 +4143,7 @@
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-11T07:20:19.000Z"
+          "value": "2026-01-11T09:20:27.000Z"
         }
       }
     },
@@ -4153,8 +4153,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-11T06:28:48.312183",
-      "heure": "06:28:48",
+      "timestamp": "2026-01-11T08:25:50.319730",
+      "heure": "08:25:50",
       "cycle": 3,
       "test": true
     }
@@ -4172,11 +4172,11 @@
     },
     "availableSpotNumber": {
       "type": "Number",
-      "value": 585,
+      "value": 589,
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-11T07:20:38.000Z"
+          "value": "2026-01-11T09:20:39.000Z"
         }
       }
     },
@@ -4223,7 +4223,7 @@
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-11T07:20:38.000Z"
+          "value": "2026-01-11T09:20:39.000Z"
         }
       }
     },
@@ -4233,8 +4233,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-11T06:28:48.312183",
-      "heure": "06:28:48",
+      "timestamp": "2026-01-11T08:25:50.319730",
+      "heure": "08:25:50",
       "cycle": 3,
       "test": true
     }
@@ -4252,11 +4252,11 @@
     },
     "availableSpotNumber": {
       "type": "Number",
-      "value": 210,
+      "value": 217,
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-11T07:20:19.000Z"
+          "value": "2026-01-11T09:20:27.000Z"
         }
       }
     },
@@ -4303,7 +4303,7 @@
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-11T07:20:19.000Z"
+          "value": "2026-01-11T09:20:27.000Z"
         }
       }
     },
@@ -4313,8 +4313,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-11T06:28:48.312183",
-      "heure": "06:28:48",
+      "timestamp": "2026-01-11T08:25:50.319730",
+      "heure": "08:25:50",
       "cycle": 3,
       "test": true
     }
@@ -4332,11 +4332,11 @@
     },
     "availableSpotNumber": {
       "type": "Number",
-      "value": 445,
+      "value": 428,
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-11T07:20:10.000Z"
+          "value": "2026-01-11T09:15:10.000Z"
         }
       }
     },
@@ -4383,7 +4383,7 @@
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-11T07:20:10.000Z"
+          "value": "2026-01-11T09:15:10.000Z"
         }
       }
     },
@@ -4393,8 +4393,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-11T06:28:48.312183",
-      "heure": "06:28:48",
+      "timestamp": "2026-01-11T08:25:50.319730",
+      "heure": "08:25:50",
       "cycle": 3,
       "test": true
     }
@@ -4473,8 +4473,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-11T06:28:48.312183",
-      "heure": "06:28:48",
+      "timestamp": "2026-01-11T08:25:50.319730",
+      "heure": "08:25:50",
       "cycle": 3,
       "test": true
     }
@@ -4553,8 +4553,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-11T06:28:48.312183",
-      "heure": "06:28:48",
+      "timestamp": "2026-01-11T08:25:50.319730",
+      "heure": "08:25:50",
       "cycle": 3,
       "test": true
     }
@@ -4572,11 +4572,11 @@
     },
     "availableSpotNumber": {
       "type": "Number",
-      "value": 1160,
+      "value": 1155,
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-11T07:20:00.000Z"
+          "value": "2026-01-11T09:20:00.000Z"
         }
       }
     },
@@ -4623,7 +4623,7 @@
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-11T07:20:00.000Z"
+          "value": "2026-01-11T09:20:00.000Z"
         }
       }
     },
@@ -4633,8 +4633,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-11T06:28:48.312183",
-      "heure": "06:28:48",
+      "timestamp": "2026-01-11T08:25:50.319730",
+      "heure": "08:25:50",
       "cycle": 3,
       "test": true
     }
@@ -4652,11 +4652,11 @@
     },
     "availableSpotNumber": {
       "type": "Number",
-      "value": 388,
+      "value": 386,
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-11T07:20:00.000Z"
+          "value": "2026-01-11T09:20:00.000Z"
         }
       }
     },
@@ -4703,7 +4703,7 @@
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-11T07:20:00.000Z"
+          "value": "2026-01-11T09:20:00.000Z"
         }
       }
     },
@@ -4713,8 +4713,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-11T06:28:48.312183",
-      "heure": "06:28:48",
+      "timestamp": "2026-01-11T08:25:50.319730",
+      "heure": "08:25:50",
       "cycle": 3,
       "test": true
     }
@@ -4732,11 +4732,11 @@
     },
     "availableSpotNumber": {
       "type": "Number",
-      "value": 168,
+      "value": 18,
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-11T07:20:00.000Z"
+          "value": "2026-01-11T09:14:59.000Z"
         }
       }
     },
@@ -4783,7 +4783,7 @@
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-11T07:20:00.000Z"
+          "value": "2026-01-11T09:14:59.000Z"
         }
       }
     },
@@ -4793,8 +4793,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-11T06:28:48.312183",
-      "heure": "06:28:48",
+      "timestamp": "2026-01-11T08:25:50.319730",
+      "heure": "08:25:50",
       "cycle": 3,
       "test": true
     }
@@ -4812,11 +4812,11 @@
     },
     "availableSpotNumber": {
       "type": "Number",
-      "value": 190,
+      "value": 187,
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-11T07:15:04.000Z"
+          "value": "2026-01-11T09:14:59.000Z"
         }
       }
     },
@@ -4863,7 +4863,7 @@
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-11T07:15:04.000Z"
+          "value": "2026-01-11T09:14:59.000Z"
         }
       }
     },
@@ -4873,8 +4873,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-11T06:28:48.312183",
-      "heure": "06:28:48",
+      "timestamp": "2026-01-11T08:25:50.319730",
+      "heure": "08:25:50",
       "cycle": 3,
       "test": true
     }
@@ -4892,11 +4892,11 @@
     },
     "availableSpotNumber": {
       "type": "Number",
-      "value": 367,
+      "value": 363,
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-11T07:15:04.000Z"
+          "value": "2026-01-11T09:15:09.000Z"
         }
       }
     },
@@ -4943,7 +4943,7 @@
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-11T07:15:04.000Z"
+          "value": "2026-01-11T09:15:09.000Z"
         }
       }
     },
@@ -4953,8 +4953,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-11T06:28:48.312183",
-      "heure": "06:28:48",
+      "timestamp": "2026-01-11T08:25:50.319730",
+      "heure": "08:25:50",
       "cycle": 3,
       "test": true
     }
@@ -4976,7 +4976,7 @@
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-11T07:15:04.000Z"
+          "value": "2026-01-11T09:14:59.000Z"
         }
       }
     },
@@ -5023,7 +5023,7 @@
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-11T07:15:04.000Z"
+          "value": "2026-01-11T09:14:59.000Z"
         }
       }
     },
@@ -5033,8 +5033,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-11T06:28:48.312183",
-      "heure": "06:28:48",
+      "timestamp": "2026-01-11T08:25:50.319730",
+      "heure": "08:25:50",
       "cycle": 3,
       "test": true
     }
@@ -5052,11 +5052,11 @@
     },
     "availableSpotNumber": {
       "type": "Number",
-      "value": 96,
+      "value": 93,
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-11T07:20:00.000Z"
+          "value": "2026-01-11T09:14:59.000Z"
         }
       }
     },
@@ -5103,7 +5103,7 @@
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-11T07:20:00.000Z"
+          "value": "2026-01-11T09:14:59.000Z"
         }
       }
     },
@@ -5113,8 +5113,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-11T06:28:48.312183",
-      "heure": "06:28:48",
+      "timestamp": "2026-01-11T08:25:50.319730",
+      "heure": "08:25:50",
       "cycle": 3,
       "test": true
     }
@@ -5132,11 +5132,11 @@
     },
     "availableSpotNumber": {
       "type": "Number",
-      "value": 535,
+      "value": 531,
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-11T07:15:04.000Z"
+          "value": "2026-01-11T09:14:59.000Z"
         }
       }
     },
@@ -5183,7 +5183,7 @@
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-11T07:15:04.000Z"
+          "value": "2026-01-11T09:14:59.000Z"
         }
       }
     },
@@ -5193,8 +5193,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-11T06:28:48.312183",
-      "heure": "06:28:48",
+      "timestamp": "2026-01-11T08:25:50.319730",
+      "heure": "08:25:50",
       "cycle": 3,
       "test": true
     }
@@ -5212,11 +5212,11 @@
     },
     "availableSpotNumber": {
       "type": "Number",
-      "value": 48,
+      "value": 50,
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-11T07:20:03.000Z"
+          "value": "2026-01-11T09:20:01.000Z"
         }
       }
     },
@@ -5263,7 +5263,7 @@
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-11T07:20:03.000Z"
+          "value": "2026-01-11T09:20:01.000Z"
         }
       }
     },
@@ -5273,8 +5273,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-11T06:28:48.312183",
-      "heure": "06:28:48",
+      "timestamp": "2026-01-11T08:25:50.319730",
+      "heure": "08:25:50",
       "cycle": 3,
       "test": true
     }
@@ -5353,8 +5353,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-11T06:28:48.312183",
-      "heure": "06:28:48",
+      "timestamp": "2026-01-11T08:25:50.319730",
+      "heure": "08:25:50",
       "cycle": 3,
       "test": true
     }
@@ -5433,8 +5433,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-11T06:28:48.312183",
-      "heure": "06:28:48",
+      "timestamp": "2026-01-11T08:25:50.319730",
+      "heure": "08:25:50",
       "cycle": 3,
       "test": true
     }
@@ -5452,11 +5452,11 @@
     },
     "availableSpotNumber": {
       "type": "Number",
-      "value": 171,
+      "value": 174,
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-11T07:20:00.000Z"
+          "value": "2026-01-11T09:20:00.000Z"
         }
       }
     },
@@ -5503,7 +5503,7 @@
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-11T07:20:00.000Z"
+          "value": "2026-01-11T09:20:00.000Z"
         }
       }
     },
@@ -5513,8 +5513,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-11T06:28:48.312183",
-      "heure": "06:28:48",
+      "timestamp": "2026-01-11T08:25:50.319730",
+      "heure": "08:25:50",
       "cycle": 3,
       "test": true
     }
@@ -5593,8 +5593,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-11T06:28:48.312183",
-      "heure": "06:28:48",
+      "timestamp": "2026-01-11T08:25:50.319730",
+      "heure": "08:25:50",
       "cycle": 3,
       "test": true
     }
@@ -5612,11 +5612,11 @@
     },
     "availableSpotNumber": {
       "type": "Number",
-      "value": 168,
+      "value": 170,
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-11T07:20:16.000Z"
+          "value": "2026-01-11T09:20:19.000Z"
         }
       }
     },
@@ -5663,7 +5663,7 @@
       "metadata": {
         "timestamp": {
           "type": "DateTime",
-          "value": "2026-01-11T07:20:16.000Z"
+          "value": "2026-01-11T09:20:19.000Z"
         }
       }
     },
@@ -5673,8 +5673,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-11T06:28:48.312183",
-      "heure": "06:28:48",
+      "timestamp": "2026-01-11T08:25:50.319730",
+      "heure": "08:25:50",
       "cycle": 3,
       "test": true
     }
@@ -5753,8 +5753,8 @@
       "metadata": {}
     },
     "collecte": {
-      "timestamp": "2026-01-11T06:28:48.312183",
-      "heure": "06:28:48",
+      "timestamp": "2026-01-11T08:25:50.319730",
+      "heure": "08:25:50",
       "cycle": 3,
       "test": true
     }
